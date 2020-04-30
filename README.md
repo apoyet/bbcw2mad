@@ -7,12 +7,12 @@ The package has been designed to be used with the python wrapper of MAD-X: cpyma
 
 You can install this package by issuing from the terminal: 
 
-```bash
+```
 pip install --user git+https://github.com/apoyet/bbcw2mad.git
 ```
 
 Or, to upgrade it: 
 
-```bash
+```
 pip install --upgrade --user git+https://github.com/apoyet/bbcw2mad.git
-```.
+```
