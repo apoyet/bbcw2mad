@@ -71,14 +71,16 @@ class WireObj():
         print, text="<<<< Installation done >>>>>";
         ''')
     
-    def get_closed_orbit(self):
+    def get_closed_orbit(self,table_input='twiss_after_machine_tuning'):
         '''
         Get the closed orbit and update the corresponding xma/yma of the bb element in madx.
+        Args:
+            table_input: str, name of the madx twiss table to be used to check the closed orbit
         '''
-        twiss_table = self.mad_inst.table.twiss_after_machine_tuning.dframe()
+        twiss_table = self.mad_inst.table[table_input].dframe()
         #Update closed orbit at wire location 
-        self.x_co = twiss_table.loc[self.name]['x']
-        self.y_co = twiss_table.loc[self.name]['y']
+        self.x_co = twiss_table[twiss_table['name']==self.name+':1']['x'].values[0]
+        self.y_co = twiss_table[twiss_table['name']==self.name+':1']['y'].values[0]
         #New xma/yma
         self.xma = self.x_pos + self.x_co
         self.yma = self.y_pos + self.y_co
