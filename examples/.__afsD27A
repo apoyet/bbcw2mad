@@ -1,0 +1,3276 @@
+
+  ++++++++++++++++++++++++++++++++++++++++++++
+  +     MAD-X 5.05.01  (64 bit, Linux)       +
+  + Support: mad@cern.ch, http://cern.ch/mad +
+  + Release   date: 2019.06.07               +
+  + Execution date: 2020.05.07 18:05:33      +
+  ++++++++++++++++++++++++++++++++++++++++++++
+++++++ warning: macro redefined: copytable
+++++++ warning: implicit element re-definition ignored: ip1
+++++++ warning: implicit element re-definition ignored: mbas2.1r1
+++++++ warning: implicit element re-definition ignored: tas.1r1
+++++++ warning: implicit element re-definition ignored: bpmwk.1r1
+++++++ warning: implicit element re-definition ignored: mqxa.1r1
+++++++ warning: implicit element re-definition ignored: mcbxh.1r1
+++++++ warning: implicit element re-definition ignored: mcbxv.1r1
+++++++ warning: implicit element re-definition ignored: mqxb.a2r1
+++++++ warning: implicit element re-definition ignored: mcbxh.2r1
+++++++ warning: implicit element re-definition ignored: mcbxv.2r1
+++++++ warning: implicit element re-definition ignored: mqxb.b2r1
+++++++ warning: implicit element re-definition ignored: tasb.3r1
+++++++ warning: implicit element re-definition ignored: mqsx.3r1
+++++++ warning: implicit element re-definition ignored: mqxa.3r1
+++++++ warning: implicit element re-definition ignored: mcbxh.3r1
+++++++ warning: implicit element re-definition ignored: mcbxv.3r1
+++++++ warning: implicit element re-definition ignored: mcsx.3r1
+++++++ warning: implicit element re-definition ignored: mctx.3r1
+++++++ warning: implicit element re-definition ignored: mcosx.3r1
+++++++ warning: implicit element re-definition ignored: mcox.3r1
+++++++ warning: implicit element re-definition ignored: mcssx.3r1
+++++++ warning: implicit element re-definition ignored: dfbxb.3r1
+++++++ warning: implicit element re-definition ignored: mbxw.a4r1
+++++++ warning: implicit element re-definition ignored: mbxw.b4r1
+++++++ warning: implicit element re-definition ignored: mbxw.c4r1
+++++++ warning: implicit element re-definition ignored: mbxw.d4r1
+++++++ warning: implicit element re-definition ignored: mbxw.e4r1
+++++++ warning: implicit element re-definition ignored: mbxw.f4r1
+++++++ warning: implicit element re-definition ignored: x1fcr.4r1
+++++++ warning: implicit element re-definition ignored: brana.4r1
+++++++ warning: implicit element re-definition ignored: x1zdc.a4r1
+++++++ warning: implicit element re-definition ignored: tanar.4r1
+++++++ warning: implicit element re-definition ignored: x2zdc.4l2
+++++++ warning: implicit element re-definition ignored: branb.4l2
+++++++ warning: implicit element re-definition ignored: btvst.a4l2
+++++++ warning: implicit element re-definition ignored: tcdd.4l2
+++++++ warning: implicit element re-definition ignored: mbx.4l2
+++++++ warning: implicit element re-definition ignored: dfbxc.3l2
+++++++ warning: implicit element re-definition ignored: mcosx.3l2
+++++++ warning: implicit element re-definition ignored: mcox.3l2
+++++++ warning: implicit element re-definition ignored: mcssx.3l2
+++++++ warning: implicit element re-definition ignored: mcbxh.3l2
+++++++ warning: implicit element re-definition ignored: mcbxv.3l2
+++++++ warning: implicit element re-definition ignored: mcsx.3l2
+++++++ warning: implicit element re-definition ignored: mctx.3l2
+++++++ warning: implicit element re-definition ignored: mqxa.3l2
+++++++ warning: implicit element re-definition ignored: mqsx.3l2
+++++++ warning: implicit element re-definition ignored: mqxb.b2l2
+++++++ warning: implicit element re-definition ignored: mcbxh.2l2
+++++++ warning: implicit element re-definition ignored: mcbxv.2l2
+++++++ warning: implicit element re-definition ignored: mqxb.a2l2
+++++++ warning: implicit element re-definition ignored: mcbxh.1l2
+++++++ warning: implicit element re-definition ignored: mcbxv.1l2
+++++++ warning: implicit element re-definition ignored: mqxa.1l2
+++++++ warning: implicit element re-definition ignored: mbxwt.1l2
+++++++ warning: implicit element re-definition ignored: mbwmd.1l2
+++++++ warning: implicit element re-definition ignored: mbls2.1l2
+++++++ warning: implicit element re-definition ignored: ip2
+++++++ warning: implicit element re-definition ignored: mbls2.1r2
+++++++ warning: implicit element re-definition ignored: mbaw.1r2
+++++++ warning: implicit element re-definition ignored: mbxwt.1r2
+++++++ warning: implicit element re-definition ignored: mqxa.1r2
+++++++ warning: implicit element re-definition ignored: mcbxh.1r2
+++++++ warning: implicit element re-definition ignored: mcbxv.1r2
+++++++ warning: implicit element re-definition ignored: mqxb.a2r2
+++++++ warning: implicit element re-definition ignored: mcbxh.2r2
+++++++ warning: implicit element re-definition ignored: mcbxv.2r2
+++++++ warning: implicit element re-definition ignored: mqxb.b2r2
+++++++ warning: implicit element re-definition ignored: mqsx.3r2
+++++++ warning: implicit element re-definition ignored: mqxa.3r2
+++++++ warning: implicit element re-definition ignored: mcbxh.3r2
+++++++ warning: implicit element re-definition ignored: mcbxv.3r2
+++++++ warning: implicit element re-definition ignored: mcsx.3r2
+++++++ warning: implicit element re-definition ignored: mctx.3r2
+++++++ warning: implicit element re-definition ignored: mcosx.3r2
+++++++ warning: implicit element re-definition ignored: mcox.3r2
+++++++ warning: implicit element re-definition ignored: mcssx.3r2
+++++++ warning: implicit element re-definition ignored: dfbxd.3r2
+++++++ warning: implicit element re-definition ignored: mbx.4r2
+++++++ warning: implicit element re-definition ignored: tclia.4r2
+++++++ warning: implicit element re-definition ignored: branb.4r2
+++++++ warning: implicit element re-definition ignored: x2zdc.4r2
+++++++ warning: implicit element re-definition ignored: ip3
+++++++ warning: implicit element re-definition ignored: ip4
+++++++ warning: implicit element re-definition ignored: tanc.4l5
+++++++ warning: implicit element re-definition ignored: x5zdc.b4l5
+++++++ warning: implicit element re-definition ignored: brana.4l5
+++++++ warning: implicit element re-definition ignored: x5zdc.a4l5
+++++++ warning: implicit element re-definition ignored: x5fcb.a4l5
+++++++ warning: implicit element re-definition ignored: x5fca.b4l5
+++++++ warning: implicit element re-definition ignored: mbxw.f4l5
+++++++ warning: implicit element re-definition ignored: mbxw.e4l5
+++++++ warning: implicit element re-definition ignored: mbxw.d4l5
+++++++ warning: implicit element re-definition ignored: mbxw.c4l5
+++++++ warning: implicit element re-definition ignored: mbxw.b4l5
+++++++ warning: implicit element re-definition ignored: mbxw.a4l5
+++++++ warning: implicit element re-definition ignored: x5fca.a4l5
+++++++ warning: implicit element re-definition ignored: dfbxe.3l5
+++++++ warning: implicit element re-definition ignored: mcosx.3l5
+++++++ warning: implicit element re-definition ignored: mcox.3l5
+++++++ warning: implicit element re-definition ignored: mcssx.3l5
+++++++ warning: implicit element re-definition ignored: mcbxh.3l5
+++++++ warning: implicit element re-definition ignored: mcbxv.3l5
+++++++ warning: implicit element re-definition ignored: mcsx.3l5
+++++++ warning: implicit element re-definition ignored: mctx.3l5
+++++++ warning: implicit element re-definition ignored: mqxa.3l5
+++++++ warning: implicit element re-definition ignored: mqsx.3l5
+++++++ warning: implicit element re-definition ignored: tasb.3l5
+++++++ warning: implicit element re-definition ignored: mqxb.b2l5
+++++++ warning: implicit element re-definition ignored: mcbxh.2l5
+++++++ warning: implicit element re-definition ignored: mcbxv.2l5
+++++++ warning: implicit element re-definition ignored: mqxb.a2l5
+++++++ warning: implicit element re-definition ignored: mcbxh.1l5
+++++++ warning: implicit element re-definition ignored: mcbxv.1l5
+++++++ warning: implicit element re-definition ignored: mqxa.1l5
+++++++ warning: implicit element re-definition ignored: bpmwk.1l5
+++++++ warning: implicit element re-definition ignored: tas.1l5
+++++++ warning: implicit element re-definition ignored: mbcs2.1l5
+++++++ warning: implicit element re-definition ignored: ip5
+++++++ warning: implicit element re-definition ignored: mbcs2.1r5
+++++++ warning: implicit element re-definition ignored: tas.1r5
+++++++ warning: implicit element re-definition ignored: bpmwk.1r5
+++++++ warning: implicit element re-definition ignored: mqxa.1r5
+++++++ warning: implicit element re-definition ignored: mcbxh.1r5
+++++++ warning: implicit element re-definition ignored: mcbxv.1r5
+++++++ warning: implicit element re-definition ignored: mqxb.a2r5
+++++++ warning: implicit element re-definition ignored: mcbxh.2r5
+++++++ warning: implicit element re-definition ignored: mcbxv.2r5
+++++++ warning: implicit element re-definition ignored: mqxb.b2r5
+++++++ warning: implicit element re-definition ignored: tasb.3r5
+++++++ warning: implicit element re-definition ignored: mqsx.3r5
+++++++ warning: implicit element re-definition ignored: mqxa.3r5
+++++++ warning: implicit element re-definition ignored: mcbxh.3r5
+++++++ warning: implicit element re-definition ignored: mcbxv.3r5
+++++++ warning: implicit element re-definition ignored: mcsx.3r5
+++++++ warning: implicit element re-definition ignored: mctx.3r5
+++++++ warning: implicit element re-definition ignored: mcosx.3r5
+++++++ warning: implicit element re-definition ignored: mcox.3r5
+++++++ warning: implicit element re-definition ignored: mcssx.3r5
+++++++ warning: implicit element re-definition ignored: dfbxf.3r5
+++++++ warning: implicit element re-definition ignored: x5fca.b4r5
+++++++ warning: implicit element re-definition ignored: mbxw.a4r5
+++++++ warning: implicit element re-definition ignored: mbxw.b4r5
+++++++ warning: implicit element re-definition ignored: mbxw.c4r5
+++++++ warning: implicit element re-definition ignored: mbxw.d4r5
+++++++ warning: implicit element re-definition ignored: mbxw.e4r5
+++++++ warning: implicit element re-definition ignored: mbxw.f4r5
+++++++ warning: implicit element re-definition ignored: x5fca.a4r5
+++++++ warning: implicit element re-definition ignored: x5fcb.a4r5
+++++++ warning: implicit element re-definition ignored: x5zdc.b4r5
+++++++ warning: implicit element re-definition ignored: brana.4r5
+++++++ warning: implicit element re-definition ignored: x5zdc.a4r5
+++++++ warning: implicit element re-definition ignored: tanc.4r5
+++++++ warning: implicit element re-definition ignored: ip6
+++++++ warning: implicit element re-definition ignored: ip7
+++++++ warning: implicit element re-definition ignored: branb.4l8
+++++++ warning: implicit element re-definition ignored: tclia.4l8
+++++++ warning: implicit element re-definition ignored: mbx.4l8
+++++++ warning: implicit element re-definition ignored: dfbxg.3l8
+++++++ warning: implicit element re-definition ignored: mcosx.3l8
+++++++ warning: implicit element re-definition ignored: mcox.3l8
+++++++ warning: implicit element re-definition ignored: mcssx.3l8
+++++++ warning: implicit element re-definition ignored: mcbxh.3l8
+++++++ warning: implicit element re-definition ignored: mcbxv.3l8
+++++++ warning: implicit element re-definition ignored: mcsx.3l8
+++++++ warning: implicit element re-definition ignored: mctx.3l8
+++++++ warning: implicit element re-definition ignored: mqxa.3l8
+++++++ warning: implicit element re-definition ignored: mqsx.3l8
+++++++ warning: implicit element re-definition ignored: mqxb.b2l8
+++++++ warning: implicit element re-definition ignored: mcbxh.2l8
+++++++ warning: implicit element re-definition ignored: mcbxv.2l8
+++++++ warning: implicit element re-definition ignored: mqxb.a2l8
+++++++ warning: implicit element re-definition ignored: mcbxh.1l8
+++++++ warning: implicit element re-definition ignored: mcbxv.1l8
+++++++ warning: implicit element re-definition ignored: mqxa.1l8
+++++++ warning: implicit element re-definition ignored: mbxws.1l8
+++++++ warning: implicit element re-definition ignored: mbxwh.1l8
+++++++ warning: implicit element re-definition ignored: ip8
+++++++ warning: implicit element re-definition ignored: mblw.1r8
+++++++ warning: implicit element re-definition ignored: mbxws.1r8
+++++++ warning: implicit element re-definition ignored: mqxa.1r8
+++++++ warning: implicit element re-definition ignored: mcbxh.1r8
+++++++ warning: implicit element re-definition ignored: mcbxv.1r8
+++++++ warning: implicit element re-definition ignored: mqxb.a2r8
+++++++ warning: implicit element re-definition ignored: mcbxh.2r8
+++++++ warning: implicit element re-definition ignored: mcbxv.2r8
+++++++ warning: implicit element re-definition ignored: mqxb.b2r8
+++++++ warning: implicit element re-definition ignored: mqsx.3r8
+++++++ warning: implicit element re-definition ignored: mqxa.3r8
+++++++ warning: implicit element re-definition ignored: mcbxh.3r8
+++++++ warning: implicit element re-definition ignored: mcbxv.3r8
+++++++ warning: implicit element re-definition ignored: mcsx.3r8
+++++++ warning: implicit element re-definition ignored: mctx.3r8
+++++++ warning: implicit element re-definition ignored: mcosx.3r8
+++++++ warning: implicit element re-definition ignored: mcox.3r8
+++++++ warning: implicit element re-definition ignored: mcssx.3r8
+++++++ warning: implicit element re-definition ignored: dfbxh.3r8
+++++++ warning: implicit element re-definition ignored: mbx.4r8
+++++++ warning: implicit element re-definition ignored: tcddm.4r8
+++++++ warning: implicit element re-definition ignored: btvst.a4r8
+++++++ warning: implicit element re-definition ignored: branb.4r8
+++++++ warning: implicit element re-definition ignored: tanal.4l1
+++++++ warning: implicit element re-definition ignored: x1zdc.a4l1
+++++++ warning: implicit element re-definition ignored: brana.4l1
+++++++ warning: implicit element re-definition ignored: x1fcl.4l1
+++++++ warning: implicit element re-definition ignored: mbxw.f4l1
+++++++ warning: implicit element re-definition ignored: mbxw.e4l1
+++++++ warning: implicit element re-definition ignored: mbxw.d4l1
+++++++ warning: implicit element re-definition ignored: mbxw.c4l1
+++++++ warning: implicit element re-definition ignored: mbxw.b4l1
+++++++ warning: implicit element re-definition ignored: mbxw.a4l1
+++++++ warning: implicit element re-definition ignored: dfbxa.3l1
+++++++ warning: implicit element re-definition ignored: mcosx.3l1
+++++++ warning: implicit element re-definition ignored: mcox.3l1
+++++++ warning: implicit element re-definition ignored: mcssx.3l1
+++++++ warning: implicit element re-definition ignored: mcbxh.3l1
+++++++ warning: implicit element re-definition ignored: mcbxv.3l1
+++++++ warning: implicit element re-definition ignored: mcsx.3l1
+++++++ warning: implicit element re-definition ignored: mctx.3l1
+++++++ warning: implicit element re-definition ignored: mqxa.3l1
+++++++ warning: implicit element re-definition ignored: mqsx.3l1
+++++++ warning: implicit element re-definition ignored: tasb.3l1
+++++++ warning: implicit element re-definition ignored: mqxb.b2l1
+++++++ warning: implicit element re-definition ignored: mcbxh.2l1
+++++++ warning: implicit element re-definition ignored: mcbxv.2l1
+++++++ warning: implicit element re-definition ignored: mqxb.a2l1
+++++++ warning: implicit element re-definition ignored: mcbxh.1l1
+++++++ warning: implicit element re-definition ignored: mcbxv.1l1
+++++++ warning: implicit element re-definition ignored: mqxa.1l1
+++++++ warning: implicit element re-definition ignored: bpmwk.1l1
+++++++ warning: implicit element re-definition ignored: tas.1l1
+++++++ warning: implicit element re-definition ignored: mbas2.1l1
+++++++ warning: implicit element re-definition ignored: ip1.l1
+makethin: style chosen : teapot
+makethin: slicing sequence : lhcb1
+makethin: style chosen : teapot
+makethin: slicing sequence : lhcb2
+<<<< Installation of the wire bbcw_int_l1b1 in sequence lhcb1 >>>>>
+<<<< Installation done >>>>>
+<<<< Installation of the wire bbcw_ext_l1b1 in sequence lhcb1 >>>>>
+<<<< Installation done >>>>>
+<<<< Installation of the wire bbcw_int_l5b1 in sequence lhcb1 >>>>>
+<<<< Installation done >>>>>
+<<<< Installation of the wire bbcw_ext_l5b1 in sequence lhcb1 >>>>>
+<<<< Installation done >>>>>
+
+
+++++++++++++++++++++++++++++
+++ START MODULE 1: OPTICS ++
+++++++++++++++++++++++++++++
+
+
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348162450037768 53.5931192872164 
+
+q1 dq1 betxmax dxmax 
+62.3100157455417 1.33518344100581 8093.79311288736 3.31740232301415 
+
+dxrms xcomax xcorms q2 
+1.4343674689438 0.0121546589237049 0.00181730767490196 60.3194803216016 
+
+dq2 betymax dymax dyrms 
+1.0908878658364 8098.06430785822 2.87312656243808 0.495904548907463 
+
+ycomax ycorms deltap synch_1 
+0.00972470429875785 0.00157185368113656 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+refbetxip1b1       = 0.299903284744202 ;
+refbetyip1b1       = 0.299736815821451 ;
+refbetxip5b1       = 0.299891108828349 ;
+refbetyip5b1       = 0.29994903360971 ;
+refbetxip2b1       = 10.00378783433 ;
+refbetyip2b1       = 10.0086276628214 ;
+refbetxip8b1       = 1.49968712412246 ;
+refbetyip8b1       = 1.49899636837624 ;
+refqxb1            = 62.3100157455417 ;
+refqyb1            = 60.3194803216016 ;
+refdqxb1           = 1.33518344100581 ;
+refdqyb1           = 1.0908878658364 ;
+refxip1b1          = -0.000550046163587218 ;
+refyip1b1          = 1.43255554358032e-08 ;
+refxip5b1          = -4.70685978361599e-08 ;
+refyip5b1          = 0.000549994861878679 ;
+refxip2b1          = 0.00100005703470324 ;
+refyip2b1          = -8.6282805073141e-08 ;
+refxip8b1          = -5.59497863145911e-08 ;
+refyip8b1          = -0.000999977243695 ;
+refpxip1b1         = 3.6392029427843e-08 ;
+refpyip1b1         = 0.000158357217088192 ;
+refpxip5b1         = 0.000158329912234497 ;
+refpyip5b1         = -1.18536482174472e-07 ;
+refpxip2b1         = 2.66735546916807e-08 ;
+refpyip2b1         = 0.000199990815880656 ;
+refpxip8b1         = -0.00024996531653497 ;
+refpyip8b1         = 4.87985134070785e-08 ;
+mux_ip15_ref       = 31.3672333228928 ;
+muy_ip15_ref       = 30.716285621946 ;
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348162450037768 53.5931192872164 
+
+q1 dq1 betxmax dxmax 
+62.3100157455417 1.33518344100581 8093.79311288736 3.31740232301415 
+
+dxrms xcomax xcorms q2 
+1.4343674689438 0.0121546589237049 0.00181730767490196 60.3194803216016 
+
+dq2 betymax dymax dyrms 
+1.0908878658364 8098.06430785822 2.87312656243808 0.495904548907463 
+
+ycomax ycorms deltap synch_1 
+0.00972470429875785 0.00157185368113656 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.000348027397240053 53.6035167425904 
+
+q1 dq1 betxmax dxmax 
+62.3100147747412 1.36401034538215 8091.40750799167 2.80187371054759 
+
+dxrms xcomax xcorms q2 
+1.40777180804209 0.0121549941641922 0.00181680742328133 60.3194722363349 
+
+dq2 betymax dymax dyrms 
+2.14075314431467 8093.10685214337 2.60515328598163 0.50923063949185 
+
+ycomax ycorms deltap synch_1 
+0.00972611349585181 0.00157063582224693 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348101813812415 53.5977868052031 
+
+q1 dq1 betxmax dxmax 
+62.3100139119626 1.93236835625155 8093.85014220887 2.86166528032837 
+
+dxrms xcomax xcorms q2 
+1.39374558936781 0 0 60.3194819206908 
+
+dq2 betymax dymax dyrms 
+1.94710280359216 8098.07358883261 2.52311242933748e-07 3.50578203087018e-08 
+
+ycomax ycorms deltap synch_1 
+0 0 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348101813812415 53.5977868052031 
+
+q1 dq1 betxmax dxmax 
+62.3100139119626 1.93236835625155 8093.85014220887 2.86166528032837 
+
+dxrms xcomax xcorms q2 
+1.39374558936781 0 0 60.3194819206908 
+
+dq2 betymax dymax dyrms 
+1.94710280359216 8098.07358883261 2.52311242933748e-07 3.50578203087018e-08 
+
+ycomax ycorms deltap synch_1 
+0 0 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB1"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  1
+@ LENGTH           %le  26658.8831997563
+@ ALFA             %le  0.000348101813812415
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.5977868052031
+@ Q1               %le  62.3100139119626
+@ Q2               %le  60.3194819206908
+@ DQ1              %le  1.93236835625155
+@ DQ2              %le  1.94710280359216
+@ DXMAX            %le  2.86166528032837
+@ DYMAX            %le  2.52311242933748e-07
+@ XCOMAX           %le  0
+@ YCOMAX           %le  0
+@ BETXMAX          %le  8093.85014220887
+@ BETYMAX          %le  8098.07358883261
+@ XCORMS           %le  0
+@ YCORMS           %le  0
+@ DXRMS            %le  1.39374558936781
+@ DYRMS            %le  3.50578203087018e-08
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.05.58"
+* NAME               S BETX BETY ALFX ALFY DX DPX MUX MUY 
+$ %s                 %le %le %le %le %le %le %le %le %le 
+ "IP5"               6664.5684325126 0.299888897477278 0.299949993370425 0.000107247675610507 6.29266033193421e-05 -9.87676602490546e-07 5.72933113041733e-06 15.0033247103897 14.282054449342
+ "IP8"               16650.6581833781 1.49968387311226 1.49898685341789 -4.2729319181107e-05 0.00125852066478938 7.38567116895135e-06 3.70857010555469e-07 38.4125251425491 36.8202160980665
+ "IP1.L1"            19994.1623997563 0.299903259278706 0.299736522732421 -0.0001959941387624 -0.000818584267353284 2.5829221875208e-06 4.0320175595591e-06 46.3705580166963 44.9983415802967
+ "IP1"               19994.1623997563 0.299903259278706 0.299736522732421 -0.0001959941387624 -0.000818584267353284 2.5829221875208e-06 4.0320175595591e-06 46.3705580166963 44.9983415802967
+ "IP2"               23326.5989833781 10.0037756751914 10.0086303219668 0.000342161701120926 -0.000147922115533291 9.35798686639789e-06 -9.65016651195201e-07 54.6196223277799 52.7503368923034
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.000347979072589895 53.6072386348985 
+
+q1 dq1 betxmax dxmax 
+62.3100156056323 1.93124937349848 8091.42166992818 2.88688967051082 
+
+dxrms xcomax xcorms q2 
+1.39670781805437 0 0 60.3194758347812 
+
+dq2 betymax dymax dyrms 
+1.95461568911421 8093.12293875773 3.26320423509292e-07 5.65444736661794e-08 
+
+ycomax ycorms deltap synch_1 
+0 0 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.000347979072589895 53.6072386348985 
+
+q1 dq1 betxmax dxmax 
+62.3100156056323 1.93124937349848 8091.42166992818 2.88688967051082 
+
+dxrms xcomax xcorms q2 
+1.39670781805437 0 0 60.3194758347812 
+
+dq2 betymax dymax dyrms 
+1.95461568911421 8093.12293875773 3.26320423509292e-07 5.65444736661794e-08 
+
+ycomax ycorms deltap synch_1 
+0 0 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB2"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  -1
+@ LENGTH           %le  26658.8832
+@ ALFA             %le  0.000347979072589895
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.6072386348985
+@ Q1               %le  62.3100156056323
+@ Q2               %le  60.3194758347812
+@ DQ1              %le  1.93124937349848
+@ DQ2              %le  1.95461568911421
+@ DXMAX            %le  2.88688967051082
+@ DYMAX            %le  3.26320423509292e-07
+@ XCOMAX           %le  0
+@ YCOMAX           %le  0
+@ BETXMAX          %le  8091.42166992818
+@ BETYMAX          %le  8093.12293875773
+@ XCORMS           %le  0
+@ YCORMS           %le  0
+@ DXRMS            %le  1.39670781805437
+@ DYRMS            %le  5.65444736661794e-08
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.03"
+* NAME               S BETX BETY ALFX ALFY DX DPX MUX MUY 
+$ %s                 %le %le %le %le %le %le %le %le %le 
+ "IP5"               6664.8731672437 0.299977691371566 0.299911153256646 0.000122933722641719 -0.000813102712615201 2.52486856290529e-06 -5.09398247168501e-06 15.2014441705798 14.3253018228575
+ "IP8"               16650.5058163782 1.49987075102155 1.5000724742514 -0.000237262305233036 8.77885112611086e-05 4.6863688145109e-06 -9.94511203227616e-07 38.2265620520693 36.9454813530303
+ "IP1.L1"            19994.1624 0.30010514877687 0.300104309745851 0.000346741297536034 0.00131907538044303 9.50556099717183e-07 -4.4814286526382e-06 46.4494664615477 44.8829635574437
+ "IP1"               19994.1624 0.30010514877687 0.300104309745851 0.000346741297536034 0.00131907538044303 9.50556099717183e-07 -4.4814286526382e-06 46.4494664615477 44.8829635574437
+ "IP2"               23326.4466163782 9.99861633721425 9.994470374209 -0.000417091124490289 -0.00193388161682394 8.64383956932894e-06 7.75822136956605e-07 54.2371783843861 53.1239160331924
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.00034810629922206 53.5974414957317 
+
+q1 dq1 betxmax dxmax 
+62.3100093038845 1.85950726704529 8097.72569962155 2.86555281959624 
+
+dxrms xcomax xcorms q2 
+1.39448708163477 0.00774401897235892 0.00105836963227907 60.3195039014149 
+
+dq2 betymax dymax dyrms 
+2.2058596168354 8103.74443149788 0.962065925036953 0.178860723205037 
+
+ycomax ycorms deltap synch_1 
+0.00972558850541981 0.00177293661948246 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.00034810629922206 53.5974414957317 
+
+q1 dq1 betxmax dxmax 
+62.3100093038845 1.85950726704529 8097.72569962155 2.86555281959624 
+
+dxrms xcomax xcorms q2 
+1.39448708163477 0.00774401897235892 0.00105836963227907 60.3195039014149 
+
+dq2 betymax dymax dyrms 
+2.2058596168354 8103.74443149788 0.962065925036953 0.178860723205037 
+
+ycomax ycorms deltap synch_1 
+0.00972558850541981 0.00177293661948246 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB1"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  1
+@ LENGTH           %le  26658.8831997563
+@ ALFA             %le  0.00034810629922206
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.5974414957317
+@ Q1               %le  62.3100093038845
+@ Q2               %le  60.3195039014149
+@ DQ1              %le  1.85950726704529
+@ DQ2              %le  2.2058596168354
+@ DXMAX            %le  2.86555281959624
+@ DYMAX            %le  0.962065925036953
+@ XCOMAX           %le  0.00774401897235892
+@ YCOMAX           %le  0.00972558850541981
+@ BETXMAX          %le  8097.72569962155
+@ BETYMAX          %le  8103.74443149788
+@ XCORMS           %le  0.00105836963227907
+@ YCORMS           %le  0.00177293661948246
+@ DXRMS            %le  1.39448708163477
+@ DYRMS            %le  0.178860723205037
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.08"
+* NAME               S X Y PX PY 
+$ %s                 %le %le %le %le %le 
+ "IP5"               6664.5684325126 -4.0915083566735e-08 -4.82370141424293e-08 0.000158406970559733 -2.44926611130229e-07
+ "IP8"               16650.6581833781 8.83985153010301e-08 0.00100012440083926 0.000134993409004605 0.000136936795919062
+ "IP1.L1"            19994.1623997563 3.75820209215148e-08 5.41285614126378e-08 6.75707818948745e-08 0.000158400289398224
+ "IP1"               19994.1623997563 3.75820209215148e-08 5.41285614126378e-08 6.75707818948745e-08 0.000158400289398224
+ "IP2"               23326.5989833781 0.0010001482658107 -2.20542923481883e-07 2.87856216757355e-07 0.000270006039752222
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.00034799415528491 53.6060769050537 
+
+q1 dq1 betxmax dxmax 
+62.310026552234 1.91925783724147 8095.3847209136 2.89094480676861 
+
+dxrms xcomax xcorms q2 
+1.39742854203261 0.00774461016854312 0.00105835373572399 60.3194600252236 
+
+dq2 betymax dymax dyrms 
+2.25109816901246 8093.47642647683 1.53587349360737 0.26940893600508 
+
+ycomax ycorms deltap synch_1 
+0.00972780878731458 0.00182466654942788 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.00034799415528491 53.6060769050537 
+
+q1 dq1 betxmax dxmax 
+62.310026552234 1.91925783724147 8095.3847209136 2.89094480676861 
+
+dxrms xcomax xcorms q2 
+1.39742854203261 0.00774461016854312 0.00105835373572399 60.3194600252236 
+
+dq2 betymax dymax dyrms 
+2.25109816901246 8093.47642647683 1.53587349360737 0.26940893600508 
+
+ycomax ycorms deltap synch_1 
+0.00972780878731458 0.00182466654942788 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB2"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  -1
+@ LENGTH           %le  26658.8832
+@ ALFA             %le  0.00034799415528491
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.6060769050537
+@ Q1               %le  62.310026552234
+@ Q2               %le  60.3194600252236
+@ DQ1              %le  1.91925783724147
+@ DQ2              %le  2.25109816901246
+@ DXMAX            %le  2.89094480676861
+@ DYMAX            %le  1.53587349360737
+@ XCOMAX           %le  0.00774461016854312
+@ YCOMAX           %le  0.00972780878731458
+@ BETXMAX          %le  8095.3847209136
+@ BETYMAX          %le  8093.47642647683
+@ XCORMS           %le  0.00105835373572399
+@ YCORMS           %le  0.00182466654942788
+@ DXRMS            %le  1.39742854203261
+@ DYRMS            %le  0.26940893600508
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.13"
+* NAME               S X Y PX PY 
+$ %s                 %le %le %le %le %le 
+ "IP5"               6664.8731672437 2.59332045869165e-08 1.39680854407918e-08 -0.00015842096399066 2.22772015466466e-07
+ "IP8"               16650.5058163782 6.850162314958e-08 -0.0010000241358476 -0.000135028043018801 -0.000136839619767455
+ "IP1.L1"            19994.1624 -2.12918161897684e-08 6.10005442143165e-08 -9.58317069066048e-08 -0.000158391129017303
+ "IP1"               19994.1624 -2.12918161897684e-08 6.10005442143165e-08 -9.58317069066048e-08 -0.000158391129017303
+ "IP2"               23326.4466163782 -0.000999893834653807 -1.34212294949573e-08 -2.89885225832025e-07 -0.000270053319085184
+xnom1              = 3.75820209215148e-08 ;
+xnom2              = 0.0010001482658107 ;
+xnom5              = -4.0915083566735e-08 ;
+xnom8              = 8.83985153010301e-08 ;
+ynom1              = 5.41285614126378e-08 ;
+ynom2              = -2.20542923481883e-07 ;
+ynom5              = -4.82370141424293e-08 ;
+ynom8              = 0.00100012440083926 ;
+pxnom1             = 6.75707818948745e-08 ;
+pxnom2             = 2.87856216757355e-07 ;
+pxnom5             = 0.000158406970559733 ;
+pxnom8             = 0.000134993409004605 ;
+pynom1             = 0.000158400289398224 ;
+pynom2             = 0.000270006039752222 ;
+pynom5             = -2.44926611130229e-07 ;
+pynom8             = 0.000136936795919062 ;
+bv_aux             = 1 ;
+
+
++++++++++++++++++++++++++++++++
+++ START MODULE 2: LEVELLING ++
++++++++++++++++++++++++++++++++
+
+
+hocharge_ir1       = 1 ;
+hocharge_ir2       = 1 ;
+hocharge_ir5       = 1 ;
+hocharge_ir8       = 1 ;
+beamx              = 3.35097171892857e-10 ;
+beamy              = 3.35097171892857e-10 ;
+sigz               = 0.075 ;
+sige               = 0.00011 ;
+ho_charge          = 1 ;
+lr_charge          = 1 ;
+b_h_dist           = 0 ;
+enter Twiss module
+  
+iteration:   1 error:   1.347263E-06 deltap:   0.000000E+00
+orbit:  -9.593855E-07  1.710206E-08  9.721400E-07  1.193239E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.414798E-11 deltap:   0.000000E+00
+orbit:  -9.593919E-07  1.710220E-08  9.721364E-07  1.193239E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.196247E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   1.347263E-06 deltap:   0.000000E+00
+orbit:  -9.593855E-07  1.710206E-08  9.721400E-07  1.193239E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.414798E-11 deltap:   0.000000E+00
+orbit:  -9.593919E-07  1.710220E-08  9.721364E-07  1.193239E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.196247E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   1.028097E-06 deltap:   0.000000E+00
+orbit:   3.256486E-07  1.320202E-09 -9.010244E-07  9.619513E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   9.860025E-12 deltap:   0.000000E+00
+orbit:   3.256548E-07  1.320309E-09 -9.010179E-07  9.619432E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   0.000000E+00 deltap:   0.000000E+00
+orbit:   0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   0.000000E+00 deltap:   0.000000E+00
+orbit:   0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   0.000000E+00 deltap:   0.000000E+00
+orbit:   0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   0.000000E+00 deltap:   0.000000E+00
+orbit:   0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   3.066148E-06 deltap:   0.000000E+00
+orbit:  -6.457445E-07  1.500492E-08  1.504726E-06  1.351084E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.170111E-11 deltap:   0.000000E+00
+orbit:  -6.457338E-07  1.500474E-08  1.504718E-06  1.351074E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.103267E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   3.066148E-06 deltap:   0.000000E+00
+orbit:  -6.457445E-07  1.500492E-08  1.504726E-06  1.351084E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.170111E-11 deltap:   0.000000E+00
+orbit:  -6.457338E-07  1.500474E-08  1.504718E-06  1.351074E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.103267E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   2.701144E-06 deltap:   0.000000E+00
+orbit:   6.187361E-07  1.543670E-08 -2.414794E-06  2.550414E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   3.585244E-11 deltap:   0.000000E+00
+orbit:   6.187646E-07  1.543727E-08 -2.414812E-06  2.550439E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.134893E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   2.701144E-06 deltap:   0.000000E+00
+orbit:   6.187361E-07  1.543670E-08 -2.414794E-06  2.550414E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   3.585244E-11 deltap:   0.000000E+00
+orbit:   6.187646E-07  1.543727E-08 -2.414812E-06  2.550439E-08  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.134893E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   2.813450E-06 deltap:   0.000000E+00
+orbit:  -8.320178E-07  1.754539E-08  1.185622E-06  8.642782E-09  0.000000E+00  0.000000E+00
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348192791639096 53.5907841778681 
+
+q1 dq1 betxmax dxmax 
+62.3100119556545 0.973151882584753 8093.76006460125 3.03588920617558 
+
+dxrms xcomax xcorms q2 
+1.42409187636587 0.00774299939627659 0.00100097640309448 60.3194813140527 
+
+dq2 betymax dymax dyrms 
+1.47358890481205 8098.03914000862 3.54780524999352 0.639800620046867 
+
+ycomax ycorms deltap synch_1 
+0.00972588031069973 0.00173532484887264 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+Set8 halo to 3.537661 sigma, the lumi is reduced from 4.5691302760273e+33 Hz/cm2 to 2e+32 Hz/cm2
+halo8              = 3.53766068900751 ;
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348192791639096 53.5907841778681 
+
+q1 dq1 betxmax dxmax 
+62.3100119556545 0.973151882584753 8093.76006460125 3.03588920617558 
+
+dxrms xcomax xcorms q2 
+1.42409187636587 0.00774299939627659 0.00100097640309448 60.3194813140527 
+
+dq2 betymax dymax dyrms 
+1.47358890481205 8098.03914000862 3.54780524999352 0.639800620046867 
+
+ycomax ycorms deltap synch_1 
+0.00972588031069973 0.00173532484887264 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+Want to make named table: twissb1
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8832 -0 0.000348091632418201 53.5985706450822 
+
+q1 dq1 betxmax dxmax 
+62.3100138946135 0.0545547288591471 8091.44926039688 2.85760890009365 
+
+dxrms xcomax xcorms q2 
+1.45907019008629 0.00774362528359488 0.00100019065977056 60.3194739008256 
+
+dq2 betymax dymax dyrms 
+1.99563676359465 8093.13895689416 3.70220015193581 0.669750078154156 
+
+ycomax ycorms deltap synch_1 
+0.00972748153334765 0.00180097522542569 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+Want to make named table: twissb2
+sepr1              = 0.00432287837290439 ;
+sepr2              = 34.553404527416 ;
+sepr5              = 0.00897517304790427 ;
+sepr8              = 89.2106939111187 ;
+on_x1              = 158.347578823408 ;
+on_x2              = 0 ;
+on_x5              = 158.347578823408 ;
+on_x8              = 0 ;
+on_sep1            = 0 ;
+on_sep2            = 0.144703541326378 ;
+on_sep5            = 0 ;
+on_sep8            = 0.0396551190660181 ;
+on_alice           = 1 ;
+on_lhcb            = 1 ;
+
+
++++++++++++++++++++++++++++++++
+++ START MODULE 3: BEAM-BEAM ++
++++++++++++++++++++++++++++++++
+
+
+Entering beam-beam block
+++++++ warning: macro redefined: define_bb_param
+++++++ warning: macro redefined: calculate_xscheme
+++++++ warning: macro redefined: install_single_bb_mark
+++++++ warning: macro redefined: holoc
+++++++ warning: macro redefined: install_bb_mark
+++++++ warning: macro redefined: remove_bb_marker
+++++++ warning: macro redefined: calculate_bb_lens
+++++++ warning: macro redefined: define_bb_lens
+++++++ warning: macro redefined: print_bb_lenses
+++++++ warning: macro redefined: sixtrack_input_bb_lenses
+++++++ warning: macro redefined: print_lens4d
+++++++ warning: macro redefined: print_lens6d
+++++++ warning: macro redefined: install_single_bb_lens
+++++++ warning: macro redefined: install_bb_lens
+++++++ warning: macro redefined: remove_bb_lens
+++++++ warning: macro redefined: select_bb_lens
+++++++ warning: macro redefined: remove_bb_lens_fill_scheme
+++++++ warning: macro redefined: plot_bb_sep
+++++++ warning: macro redefined: filtabsep
+++++++ warning: macro redefined: print_bb_lens_param
+++++++ warning: macro redefined: print_bb_table
+++++++ warning: macro redefined: makefootprint
+++++++ warning: macro redefined: level_offset_common
+++++++ warning: macro redefined: level_parallel_offset_for
+++++++ warning: macro redefined: level_transverse_offset_for
+hocharge_ir1       = 0.0909091 ;
+long_ir1_1         = 0.008625 ;
+long_ir1_2         = 0.017775 ;
+long_ir1_3         = 0.0281625 ;
+long_ir1_4         = 0.0414375 ;
+long_ir1_5         = 0.0675 ;
+hocharge_ir2       = 0.0909091 ;
+long_ir2_1         = 0.008625 ;
+long_ir2_2         = 0.017775 ;
+long_ir2_3         = 0.0281625 ;
+long_ir2_4         = 0.0414375 ;
+long_ir2_5         = 0.0675 ;
+hocharge_ir5       = 0.0909091 ;
+long_ir5_1         = 0.008625 ;
+long_ir5_2         = 0.017775 ;
+long_ir5_3         = 0.0281625 ;
+long_ir5_4         = 0.0414375 ;
+long_ir5_5         = 0.0675 ;
+hocharge_ir8       = 0.0909091 ;
+long_ir8_1         = 0.008625 ;
+long_ir8_2         = 0.017775 ;
+long_ir8_3         = 0.0281625 ;
+long_ir8_4         = 0.0414375 ;
+long_ir8_5         = 0.0675 ;
+beamx              = 3.35097171892857e-10 ;
+beamy              = 3.35097171892857e-10 ;
+sigz               = 0.075 ;
+sige               = 0.00011 ;
+ho_charge          = 1 ;
+lr_charge          = 1 ;
+b_h_dist           = 3.7400228956229 ;
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997563 -0 0.000348198116569832 53.590374399223 
+
+q1 dq1 betxmax dxmax 
+62.3100119578747 0.980148741860611 8093.75964411242 3.03900194292239 
+
+dxrms xcomax xcorms q2 
+1.42436709678632 0.00774290421389071 0.000984981793898219 60.3194813360228 
+
+dq2 betymax dymax dyrms 
+1.47004073440375 8098.03916152254 3.612693764172 0.65389055280349 
+
+ycomax ycorms deltap synch_1 
+0.00972581128821997 0.00175908030395002 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+xnom1              = 2.61932288417426e-08 ;
+xnom2              = 0.000144845606043897 ;
+xnom5              = -4.02896903429822e-08 ;
+xnom8              = 6.37354264734248e-08 ;
+ynom1              = 4.81484489837881e-08 ;
+ynom2              = -1.8935882167663e-07 ;
+ynom5              = -4.46364923334453e-08 ;
+ynom8              = 3.97502823524554e-05 ;
+pxnom1             = 6.15611676047034e-08 ;
+pxnom2             = 2.94365195995254e-07 ;
+pxnom5             = 0.000158384387245775 ;
+pxnom8             = 0.000134995476929155 ;
+pynom1             = 0.000158412413204908 ;
+pynom2             = 0.000270009833624694 ;
+pynom5             = -1.9170196149907e-07 ;
+pynom8             = 0.000136915076104606 ;
+Want to make named table: suir1b1
+Want to make named table: suir1b2
+Want to make named table: suir2b1
+Want to make named table: suir2b2
+Want to make named table: suir5b1
+Want to make named table: suir5b2
+Want to make named table: suir8b1
+Want to make named table: suir8b2
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348198116570268 53.5903743991895 
+
+q1 dq1 betxmax dxmax 
+62.3100119572763 0.980148765004262 8093.75962297565 3.03900194312113 
+
+dxrms xcomax xcorms q2 
+1.41104021299572 0.00774290422252338 0.00101286985572791 60.3194813354294 
+
+dq2 betymax dymax dyrms 
+1.47004072120449 8098.03916952545 3.61269377309708 0.672506387590633 
+
+ycomax ycorms deltap synch_1 
+0.00972581128708195 0.00180067946623343 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+Want to make named table: twissb1
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.883199996 -0 0.000348090697170938 53.5986426491365 
+
+q1 dq1 betxmax dxmax 
+62.3100138939758 0.0445603631467291 8091.45054525074 2.8618420465037 
+
+dxrms xcomax xcorms q2 
+1.44935996825079 0.00774359750864627 0.00101208059468003 60.3194738584238 
+
+dq2 betymax dymax dyrms 
+1.99883714275252 8093.1398953354 3.62438603780963 0.675203084117654 
+
+ycomax ycorms deltap synch_1 
+0.00972752037830566 0.00180123147894979 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+Want to make named table: twissb2
+Number of parasitic encounter before D1
+npara0_1           = 16 ;
+npara0_2           = 15 ;
+npara0_5           = 16 ;
+npara0_8           = 15 ;
+enter Twiss module
+++++++ warning: illegal table range ignored: mbxf.4l1..4/ip1.l1
+++++++ warning: illegal table range ignored: mbxf.4l5..4/ip5
+++++++ warning: illegal table range ignored: ip1/mbxf.4r1..1
+++++++ warning: illegal table range ignored: ip5/mbxf.4r5..1
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348198116570268 53.5903743991895 
+
+q1 dq1 betxmax dxmax 
+62.3100119572762 0.980148765004262 8093.75962297565 3.03900194312113 
+
+dxrms xcomax xcorms q2 
+1.40771306219928 0.00774290422252338 0.00102305016869244 60.3194813354292 
+
+dq2 betymax dymax dyrms 
+1.47004072120449 8098.03916952428 3.61269377309708 0.677435817841631 
+
+ycomax ycorms deltap synch_1 
+0.00972581128708195 0.00181790502764052 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB1"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  1
+@ LENGTH           %le  26658.8831997523
+@ ALFA             %le  0.000348198116570268
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.5903743991895
+@ Q1               %le  62.3100119572762
+@ Q2               %le  60.3194813354292
+@ DQ1              %le  0.980148765004262
+@ DQ2              %le  1.47004072120449
+@ DXMAX            %le  3.03900194312113
+@ DYMAX            %le  3.61269377309708
+@ XCOMAX           %le  0.00774290422252338
+@ YCOMAX           %le  0.00972581128708195
+@ BETXMAX          %le  8093.75962297565
+@ BETYMAX          %le  8098.03916952428
+@ XCORMS           %le  0.00102305016869244
+@ YCORMS           %le  0.00181790502764052
+@ DXRMS            %le  1.40771306219928
+@ DYRMS            %le  0.677435817841631
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.44"
+* S NAME               BETX BETY ALFX ALFY MUX MUY X Y PX PY 
+$ %le %s                 %le %le %le %le %le %le %le %le %le %le 
+ 6496.26740245327 "BBMK_PAR.L5B1_45"  2326.64352265376 427.995821883527 -8.01103913666646 -10.9025031599433 14.747904831561 14.0219161512901 -0.00152478135562519 1.2780210541981e-06 -1.5219840864588e-05 2.87964031258298e-08
+ 6500.00742534889 "BBMK_PAR.L5B1_44"  2362.57137952723 518.365819155526 -4.59798734900448 -12.7089842009873 14.7481586328603 14.0231803179246 -0.0015737818805611 1.39238105664418e-06 -1.2955468921994e-05 3.07003601524284e-08
+ 6503.74744824452 "BBMK_PAR.L5B1_43"  2397.09548703929 617.81505513152 -4.6329571641222 -13.881557822801 14.7484087591985 14.0242321590138 -0.00168492303180848 1.50720110651813e-06 -3.02818863210407e-05 3.07003601524284e-08
+ 6507.48747114014 "BBMK_PAR.L5B1_42"  2431.88096500895 726.035195492288 -4.66792464061819 -15.0541314446146 14.7486552954162 14.0251209273404 -0.00179817785831099 1.62202115639209e-06 -3.02818278032031e-05 3.07003601524284e-08
+ 6511.22749403576 "BBMK_PAR.L5B1_41"  2466.92766166591 843.02624023783 -4.70280657126694 -16.2267050664283 14.7488983171878 14.0258817731677 -0.00191143233647364 1.73684120626605e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6514.96751693138 "BBMK_PAR.L5B1_40"  2502.23594282639 968.788189368113 -4.73785252250678 -17.3992786882416 14.7491378981033 14.0265404322247 -0.00202468659918851 1.85166125613997e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6518.70753958331 "BBMK_PAR.L5B1_39"  2537.80636698064 1103.32103383131 -4.77289847146305 -18.5718522336506 14.7493741096662 14.0271161769194 -0.00213794085452378 1.96648129853228e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6522.44756247893 "BBMK_PAR.L5B1_38"  2573.63893876419 1246.62479115966 -4.80794442270291 -19.7444258554643 14.749607021469 14.0276237239603 -0.00225119511723868 2.08130134840623e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6526.18758537455 "BBMK_PAR.L5B1_37"  2609.73365586781 1398.69945287278 -4.84299037394276 -20.9169994772779 14.749836701184 14.0280745042217 -0.00236444937995357 2.19612139828019e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6529.92760827018 "BBMK_PAR.L5B1_36"  2646.0905182915 1559.54501897068 -4.87803632518262 -22.0895730990916 14.7500632146877 14.0284775308081 -0.00247770364266846 2.31094144815415e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6533.6676311658 "BBMK_PAR.L5B1_35"  2682.70952603527 1729.16148945335 -4.91308227642247 -23.2621467209052 14.7502866261036 14.0288400057865 -0.00259095790538336 2.4257614980281e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6537.40765406142 "BBMK_PAR.L5B1_34"  2719.59067909909 1907.54886432075 -4.94812822766232 -24.4347203427186 14.7505069978603 14.029167753059 -0.00270421216809822 2.54058154790203e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6541.14767695705 "BBMK_PAR.L5B1_33"  2756.733977483 2094.70714357296 -4.98317417890217 -25.6072939645323 14.7507243907453 14.0294655328037 -0.00281746643081312 2.65540159777599e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6544.88769985267 "BBMK_PAR.L5B1_32"  2794.13942118698 2290.63632720995 -5.01822013014203 -26.7798675863459 14.7509388639583 14.0297372736193 -0.00293072069352801 2.77022164764994e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6548.62772274829 "BBMK_PAR.L5B1_31"  2831.80701021103 2495.33641523171 -5.05326608138189 -27.9524412081596 14.7511504751622 14.0299862464434 -0.00304397495624291 2.8850416975239e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6552.36774564391 "BBMK_PAR.L5B1_30"  2869.73674455515 2708.80740763824 -5.08831203262174 -29.1250148299732 14.7513592805312 14.0302151965899 -0.0031572292189578 2.99986174739785e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6556.10776853954 "BBMK_PAR.L5B1_29"  2907.92862421935 2931.04930442955 -5.1233579838616 -30.2975884517869 14.7515653347987 14.0304264452164 -0.0032704834816727 3.11468179727181e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6559.84779143516 "BBMK_PAR.L5B1_28"  2946.38264920362 3162.06210560563 -5.15840393510145 -31.4701620736005 14.7517686913018 14.0306219681668 -0.00338373774438759 3.22950184714576e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6563.58781433078 "BBMK_PAR.L5B1_27"  2985.09881950795 3401.84581116643 -5.1934498863413 -32.6427356954139 14.7519694020256 14.030803457864 -0.00349699200710246 3.34432189701969e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6567.32783722641 "BBMK_PAR.L5B1_26"  3024.07713513236 3650.40042111205 -5.22849583758115 -33.8153093172275 14.7521675176448 14.0309723723549 -0.00361024626981735 3.45914194689365e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6571.06786012203 "BBMK_PAR.L5B1_25"  3063.31759607684 3907.72593544245 -5.26354178882101 -34.9878829390412 14.7523630875642 14.0311299745136 -0.00372350053253225 3.5739619967676e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6574.80788301765 "BBMK_PAR.L5B1_24"  3102.82020234139 4173.82235415762 -5.29858774006086 -36.1604565608548 14.7525561599579 14.0312773636335 -0.00383675479524714 3.68878204664156e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6578.54790591327 "BBMK_PAR.L5B1_23"  3142.58495392602 4448.68967725757 -5.33363369130072 -37.3330301826685 14.7527467818068 14.0314155010758 -0.00395000905796203 3.80360209651552e-06 -3.02817030471755e-05 3.07003601524284e-08
+ 6582.2879288089 "BBMK_PAR.L5B1_22"  3182.61182621912 4732.32790474229 -5.36864649682417 -38.5056038044821 14.752934998935 14.0315452312407 -0.0040632633049997 3.91842214638947e-06 -3.02816608469447e-05 3.07003601524284e-08
+ 6586.02795170452 "BBMK_PAR.L5B1_21"  3222.90061894923 5024.73703661171 -5.40369203010603 -39.6781774262955 14.7531208560529 14.0316672988253 -0.00417651740988474 4.0332421962634e-06 -3.02816608469447e-05 3.07003601524284e-08
+ 6589.76797460014 "BBMK_PAR.L5B1_20"  3263.45131160122 5325.91707286597 -5.43870357699805 -40.8507510481092 14.7533043967861 14.031782363115 -0.00428977135863519 4.14806224613735e-06 -3.02816173013354e-05 3.07003601524284e-08
+ 6593.50799749577 "BBMK_PAR.L5B1_19"  3304.26392341577 5635.86801350501 -5.47371427743137 -42.0233246699228 14.7534856637041 14.031891009885 -0.00440302516331179 4.26288229601131e-06 -3.02815724103497e-05 3.07003601524284e-08
+ 6597.24802039139 "BBMK_PAR.L5B1_18"  3345.33844898853 5954.58985852882 -5.50872412562088 -43.1958982917365 14.7536646983514 14.0319937613657 -0.00451627882029808 4.37770234588527e-06 -3.02815261739895e-05 3.07003601524284e-08
+ 6600.98804328701 "BBMK_PAR.L5B1_17"  3386.67488288168 6282.08260793741 -5.54373311578158 -44.3684719135501 14.7538415412779 14.032091084631 -0.00462953232597761 4.49252239575922e-06 -3.02814785922569e-05 3.07003601524284e-08
+ 6604.72806618264 "BBMK_PAR.L5B1_16"  3428.27321962397 6618.34626173076 -5.57874124212861 -45.5410455353638 14.7540162320681 14.0321833986912 -0.00474278567673393 4.60734244563318e-06 -3.0281429665154e-05 3.07003601524284e-08
+ 6608.46808907826 "BBMK_PAR.L5B1_15"  3470.13352267905 6963.38081990881 -5.61378463895007 -46.7136191571771 14.7541888093687 14.0322710805198 -0.00485603891699378 4.72216249550711e-06 -3.0281429665154e-05 3.07003601524284e-08
+ 6612.20811197388 "BBMK_PAR.L5B1_14"  3541.62227107892 7256.53940649569 -36.5064099822215 15.6852573483211 14.7543591886106 14.0323545292911 -0.00498091508276681 4.81689312619997e-06 -6.73695532642834e-05 -1.13703826688434e-08
+ 6615.9481348695 "BBMK_PAR.L5B1_13"  4290.61761537146 6302.92045513719 -171.150606980126 228.054185977953 14.7545150297942 14.0324407550594 -0.00554353791903215 4.48573072176733e-06 -0.000235688947705099 -1.63332920631291e-07
+ 6619.68815776513 "BBMK_PAR.L5B1_12"  6118.19987626873 4263.53157085287 -283.255317774786 261.984787554256 14.75463219435 14.0325546088385 -0.00667462514574777 3.68550967377856e-06 -0.000321208376021707 -2.27718152577335e-07
+ 6623.42818066075 "BBMK_PAR.L5B1_11"  7856.49308569282 2751.9211408792 -126.949782957148 134.108466745383 14.7547165236101 14.0327315049579 -0.00760840225437458 2.95618146247874e-06 -0.000133699616019247 -1.4562163628605e-07
+ 6627.16820355637 "BBMK_PAR.L5B1_10"  7930.04957907111 2084.97168199767 64.7880994521671 62.3761160210842 14.7547907397592 14.0329839791922 -0.00767969254532098 2.56721133403075e-06 5.8270443169617e-05 -7.85963367758846e-08
+ 6630.90822645199 "BBMK_PAR.L5B1_9"   6568.15823803885 1869.86055486998 284.558052179412 -2.55571752990562 14.7548715423212 14.0332916433402 -0.00700558928185525 2.42432615557773e-06 0.000298595717656611 1.41766549935531e-09
+ 6634.64824934762 "BBMK_PAR.L5B1_8"   4174.87531093235 2051.54569470259 298.947029637695 -30.8501873287316 14.7549842938924 14.033598024045 -0.00560350246398681 2.53222317631084e-06 0.00039508353010166 3.62660144844823e-08
+ 6638.38827224324 "BBMK_PAR.L5B1_7"   2480.28009727685 2101.53644746629 153.826136343757 27.4410395626936 14.7551728033708 14.0338792832089 -0.00431937162392463 2.55623494291697e-06 0.000267904718457706 -3.51711574673466e-08
+ 6642.12829513886 "BBMK_PAR.L5B1_6"   1679.44003798952 1679.13287723958 74.8274167437217 74.8137752208348 14.7554700932679 14.0341900943279 -0.00355420904949743 2.27835880889104e-06 0.000158384445056041 -1.03520654105177e-07
+ 6645.86831803449 "BBMK_PAR.L5B1_5"   1166.37016976425 1166.15657545067 62.3562001869969 62.344824099303 14.7558953923605 14.0346154712693 -0.00296184759867729 1.89118919236781e-06 0.000158384445056041 -1.03520654105177e-07
+ 6649.60834093011 "BBMK_PAR.L5B1_4"   746.585572455828 746.448599019639 49.8849836302721 49.8758729777711 14.7565332702619 14.0352534661138 -0.00236948614785715 1.50401957584457e-06 0.000158384445056041 -1.03520654105177e-07
+ 6653.34836382573 "BBMK_PAR.L5B1_3"   420.086246064323 420.00894794654 37.4137670735503 37.4069218562422 14.7575961609272 14.0363165521091 -0.00177712469703715 1.11684995932143e-06 0.000158384445056041 -1.03520654105177e-07
+ 6657.08838672136 "BBMK_PAR.L5B1_2"   186.872190589575 186.837622231218 24.9425505168255 24.9379707347104 14.7597207048837 14.0384414881283 -0.00118476324621701 7.29680342798193e-07 0.000158384445056041 -1.03520654105177e-07
+ 6660.82840961698 "BBMK_PAR.L5B1_1"   46.9434060316753 46.9346218737637 12.4713339601008 12.4690196131785 14.7660776760005 14.0447996428292 -0.000592401795396863 3.42510726274958e-07 0.000158384445056041 -1.03520654105177e-07
+ 6664.5684325126 "IP5"               0.299892294363738 0.299946784598542 0.000115741406236043 6.68267431219435e-05 15.0033232971428 14.2820537835688 -4.02896477045852e-08 -4.46365108305467e-08 0.000158384387422064 -1.91702376402296e-07
+ 6668.30845540722 "BBMK_PAR.R5B1_1"   46.9416754881403 46.9336210435374 -12.4711027386706 -12.4688856681558 15.2406055248179 14.5193290596858 0.000592320417599269 -1.09138671274262e-06 0.000158384231596486 -2.7988397985421e-07
+ 6672.04847830285 "BBMK_PAR.R5B1_2"   186.868731489208 186.835618408211 -24.9423195601139 -24.9378365014869 15.2469626720421 14.5256873163286 0.00118468107007579 -2.13815920551546e-06 0.000158384231596486 -2.7988397985421e-07
+ 6675.78850119847 "BBMK_PAR.R5B1_3"   420.08106038723 420.005938974997 -37.4135363815572 -37.406787334818 15.2490872487774 14.5278122713556 0.00177704172255231 -3.18493169828831e-06 0.000158384231596486 -2.7988397985421e-07
+ 6679.52852409409 "BBMK_PAR.R5B1_4"   746.578662182115 746.444582743806 -49.8847532029974 -49.8757381681461 15.2501501509223 14.528875364019 0.00236940237502869 -4.23170419106089e-06 0.000158384231596486 -2.7988397985421e-07
+ 6683.26854698972 "BBMK_PAR.R5B1_5"   1166.36153687402 1166.15154971479 -62.3559700244407 -62.3446890014772 15.2507880341364 14.5295133619546 0.00296176302750521 -5.27847668383374e-06 0.000158384231596486 -2.7988397985421e-07
+ 6687.00856988534 "BBMK_PAR.R5B1_6"   1679.42968446288 1679.1268398879 -74.827186845884 -74.8136398348083 15.2512133361139 14.5299387405775 0.00355412367998173 -6.32524917660658e-06 0.000158384231596486 -2.7988397985421e-07
+ 6690.74859278096 "BBMK_PAR.R5B1_7"   2101.90945485311 2479.81919993499 -27.4460968327879 -153.797729967549 15.2515240921893 14.5302360858275 0.00397621401885918 -7.67940368105942e-06 5.19431716845777e-05 -4.74674038943552e-07
+ 6694.48861567658 "BBMK_PAR.R5B1_8"   2051.91118047683 4174.10128165585 30.8554972759441 -298.891783090445 15.251805301348 14.5304246303023 0.00392823081886378 -9.9570957069655e-06 -6.52676873567758e-05 -7.11753899323548e-07
+ 6698.22863857221 "BBMK_PAR.R5B1_9"   1870.19501016005 6566.94215469541 2.55598929173628 -284.50554576335 15.2521116273708 14.5305374027675 0.00372688559619617 -1.24845570250213e-05 -1.15886024159196e-05 -5.39892551430475e-07
+ 6701.96866146783 "BBMK_PAR.R5B1_10"  2085.3461049203 7928.58278614079 -62.387502312389 -64.7762950409412 15.2524192363878 14.5306182202854 0.00391062697988403 -1.37143346815596e-05 0.00011084006857173 -1.11146450431105e-07
+ 6705.70868436345 "BBMK_PAR.R5B1_11"  2752.41694569715 7855.04121199508 -134.132812745185 126.926143353388 15.2526716652166 14.5306924501582 0.00444974296155488 -1.36472714070069e-05 0.00020597883238246 2.21424516805289e-07
+ 6709.44870725908 "BBMK_PAR.R5B1_12"  4264.30146067 6117.07040145885 -262.03227932326 283.202846711346 15.2528485294348 14.5307767949972 0.00549723781991971 -1.20399161958141e-05 0.000329059723841422 5.5843941694275e-07
+ 6713.1887301547 "BBMK_PAR.R5B1_13"  6304.06026430069 4289.82666401561 -228.09561034747 171.118876471262 15.2529623626435 14.5308939811711 0.00665152231786059 -1.0078706433734e-05 0.000233483591998993 4.03260804247112e-07
+ 6716.92875305032 "BBMK_PAR.R5B1_14"  7257.85310808844 3540.97064148658 -15.6882802105912 36.4995128881292 15.253048572813 14.531049851061 0.00711066484661723 -9.15216326568503e-06 8.67424999461831e-06 9.56910504794482e-08
+ 6720.66877594594 "BBMK_PAR.R5B1_15"  6964.64278640613 3469.4963868257 46.7219019577845 5.61257331060368 15.2531320064718 14.5312202616242 0.00692639722159197 -9.05424288878866e-06 -5.96061780416315e-05 1.60162761691513e-08
+ 6724.40879884157 "BBMK_PAR.R5B1_16"  6619.54703218767 3427.64511380492 45.5491252122397 5.5775381375809 15.253219672404 14.5313928705829 0.00670346875099574 -8.99434164921343e-06 -5.96061780416315e-05 1.60162761691513e-08
+ 6728.14882173719 "BBMK_PAR.R5B1_17"  6283.22340144783 3386.05590548266 44.3764138874967 5.54250296455811 15.2533119697102 14.5315675933474 0.0064805401248091 -8.93444040963818e-06 -5.96062469360259e-05 1.60162761691513e-08
+ 6731.88884463281 "BBMK_PAR.R5B1_18"  5955.67180092301 3344.7287618589 43.2036956461055 5.50746779153532 15.2534092752992 14.5317444685569 0.00625761128178055 -8.87453917006293e-06 -5.96063131821851e-05 1.60162761691513e-08
+ 6735.62886752844 "BBMK_PAR.R5B1_19"  5636.8922739758 3303.66368293366 42.0309706818226 5.47243261851253 15.2535120081106 14.5319235357876 0.00603468222902874 -8.81463793048768e-06 -5.96063767801063e-05 1.60162761691513e-08
+ 6739.36889042406 "BBMK_PAR.R5B1_20"  5326.88486284835 3262.86066870694 40.8582391884053 5.43739744548975 15.2536206351395 14.5321048355803 0.00581175297367232 -8.75473669091244e-06 -5.96064377297866e-05 1.60162761691513e-08
+ 6743.10891331968 "BBMK_PAR.R5B1_21"  5025.64960866236 3222.31971917873 39.6855013596121 5.40236227246696 15.2537356785297 14.5322884094698 0.00558882352282993 -8.69483545133719e-06 -5.96064960312233e-05 1.60162761691513e-08
+ 6746.8489362153 "BBMK_PAR.R5B1_22"  4733.18651490449 3182.04083434904 38.5127080952593 5.36732709944418 15.25385772396 14.5324743000156 0.00536589386294535 -8.63493421176195e-06 -5.96064960312233e-05 1.60162761691513e-08
+ 6750.58895911093 "BBMK_PAR.R5B1_23"  4449.49564744821 3142.02401421786 37.3399611337087 5.33229192642139 15.2539874306082 14.5326625508325 0.00514296401559146 -8.57503297218671e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6754.32898200655 "BBMK_PAR.R5B1_24"  4174.57731317217 3102.26925878519 36.1671648782148 5.29725675339861 15.2541255430487 14.5328532066238 0.00492003414756261 -8.51513173261146e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6758.06900490217 "BBMK_PAR.R5B1_25"  3908.43154859102 3062.77656805104 34.9943686227209 5.26222158037582 15.2542729055367 14.5330463132145 0.00469710427953376 -8.45523049303621e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6761.8090277978 "BBMK_PAR.R5B1_26"  3651.05835370477 3023.5459420154 33.8215723672269 5.22718640735303 15.2544304792687 14.5332419175867 0.00447417441150492 -8.39532925346096e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6765.54905069342 "BBMK_PAR.R5B1_27"  3402.45772851342 2984.57738067828 32.648776111733 5.19215123433024 15.2545993633508 14.5334400679154 0.00425124454347607 -8.33542801388572e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6769.28907358904 "BBMK_PAR.R5B1_28"  3162.62967301702 2945.87088403968 31.4759798562393 5.15711606130746 15.2547808204429 14.5336408136064 0.00402831467544728 -8.27552677431048e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6773.02909648466 "BBMK_PAR.R5B1_29"  2931.57418721546 2907.42645209959 30.3031836007454 5.12208088828467 15.2549763083452 14.5338442053353 0.00380538480741843 -8.21562553473524e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6776.76911938029 "BBMK_PAR.R5B1_30"  2709.2912711088 2869.24408485801 29.1303873452514 5.08704571526189 15.2551875191963 14.5340502950878 0.00358245493938959 -8.15572429515999e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6780.50914227591 "BBMK_PAR.R5B1_31"  2495.78092469703 2831.32378231495 27.9575910897575 5.0520105422391 15.2554164285098 14.5342591362018 0.00335952507136074 -8.09582305558474e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6784.24916517153 "BBMK_PAR.R5B1_32"  2291.04314798016 2793.6655444704 26.7847948342636 5.01697536921631 15.2556653570572 14.5344707834111 0.0031365952033319 -8.03592181600949e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6787.98918806716 "BBMK_PAR.R5B1_33"  2095.07794095818 2756.26937132436 25.6119985787696 4.98194019619352 15.2559370496992 14.5346852928904 0.00291366533530305 -7.97602057643424e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6791.72921096278 "BBMK_PAR.R5B1_34"  1907.88530363111 2719.13526287684 24.4392023232757 4.94690502317073 15.256234776837 14.5349027223027 0.0026907354672742 -7.916119336859e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6795.4692338584 "BBMK_PAR.R5B1_35"  1729.46523599897 2682.26321912785 23.266406067782 4.91186985014795 15.2565624664306 14.535123130848 0.00246780559924541 -7.85621809728376e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6799.20925675402 "BBMK_PAR.R5B1_36"  1559.81773806168 2645.65324007736 22.0936098122881 4.87683467712517 15.2569248778904 14.5353465793139 0.00224487573121657 -7.79631685770852e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6802.94927964965 "BBMK_PAR.R5B1_37"  1398.94280981929 2609.30532572538 20.9208135567941 4.84179950410238 15.2573278341893 14.5355731301284 0.00202194586318772 -7.73641561813327e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6806.68930254527 "BBMK_PAR.R5B1_38"  1246.8404512718 2573.21947607192 19.7480173013002 4.80676433107959 15.2577785362574 14.5358028474152 0.00179901599515887 -7.67651437855802e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6810.42932544089 "BBMK_PAR.R5B1_39"  1103.5106624192 2537.39569111697 18.5752210458062 4.7717291580568 15.2582859957953 14.5360357970498 0.00157608612713003 -7.61661313898277e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6814.16934833652 "BBMK_PAR.R5B1_40"  968.953443261498 2501.83397086054 17.4024247903123 4.73669398503401 15.2588616419625 14.5362720467197 0.00135315625910118 -7.55671189940752e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6817.90937123214 "BBMK_PAR.R5B1_41"  843.168793798724 2466.53431530263 16.2296285348186 4.70165881201123 15.2595201891726 14.5365116659855 0.00113022639107239 -7.49681065983229e-06 -5.96065516844139e-05 1.60162761691513e-08
+ 6821.64939412776 "BBMK_PAR.R5B1_42"  726.15653831317 2431.49672444323 15.0568811617378 4.66662363898845 15.2602809070858 14.536754726345 0.000907296400939554 -7.43690942025704e-06 -5.96066197173258e-05 1.60162761691513e-08
+ 6825.38941702339 "BBMK_PAR.R5B1_43"  617.916620206349 2396.72119828235 13.884097850025 4.63158846596566 15.2611695280832 14.5370013013004 0.000684366234586007 -7.37700818068179e-06 -5.96066461354239e-05 1.60162761691513e-08
+ 6829.12943991901 "BBMK_PAR.R5B1_44"  518.449152513444 2362.20773681997 12.7113074916119 4.59655329294287 15.2622211981683 14.5372514664274 0.000461435951791444 -7.31710694110655e-06 -5.96066674879469e-05 1.60162761691513e-08
+ 6832.86946281463 "BBMK_PAR.R5B1_45"  428.062713675886 2326.29080153953 10.9044898110428 8.00909782613543 15.2634851644267 14.5375053065032 0.000352898474267979 -7.25460896445982e-06 -1.45486560468429e-05 2.67733911343728e-08
+ 19825.8613694513 "BBMK_PAR.L1B1_45"  2326.59922768081 428.340694742512 -8.01057621637023 -10.9104927777712 46.1150865868019 44.7380717791288 -1.1666746638546e-06 -0.000353285777061017 -3.04219227851789e-09 -1.45513487261495e-05
+ 19829.6013923469 "BBMK_PAR.L1B1_44"  2362.52406185734 518.776908035814 -4.59758491780585 -12.7182548815862 46.1153403930588 44.7393349359534 -1.17200167206937e-06 -0.000461840855121342 -1.31270197378336e-09 -5.96146358454745e-05
+ 19833.3414152425 "BBMK_PAR.L1B1_43"  2397.04513988401 618.298369934028 -4.63254957837424 -13.8915987679017 46.1155905245286 44.7403859491766 -1.1769111734451e-06 -0.000684800958097539 -1.31266232216594e-09 -5.96146358454745e-05
+ 19837.0814381381 "BBMK_PAR.L1B1_42"  2431.8275498169 726.596497830866 -4.66751190052674 -15.0649426542183 46.115837066043 44.7412740268365 -1.18182047791506e-06 -0.000907761061073952 -1.31262255899283e-09 -5.96146358454745e-05
+ 19840.8214610338 "BBMK_PAR.L1B1_41"  2466.87113989056 843.671291726118 -4.7023886789459 -16.2382865405338 46.1160800932677 44.7420342879168 -1.18672955363809e-06 -0.00113072116405015 -1.31254269799665e-09 -5.96146358454745e-05
+ 19844.5614839294 "BBMK_PAR.L1B1_40"  2502.17627591444 969.522751620011 -4.73742947435393 -17.4116304268505 46.1163196797844 44.7426924456555 -1.19163849338008e-06 -0.00135368126702656 -1.31254269799665e-09 -5.96146358454745e-05
+ 19848.301506825 "BBMK_PAR.L1B1_39"  2537.74351869249 1104.1508775123 -4.77247026976192 -18.584974313166 46.116555897104 44.7432677559229 -1.19654743312207e-06 -0.00157664137000276 -1.31254269799665e-09 -5.96146358454745e-05
+ 19852.0415297206 "BBMK_PAR.L1B1_38"  2573.5728682248 1247.55566940325 -4.80751106516994 -19.7583181994826 46.1167888147806 44.7437749228786 -1.20145637286406e-06 -0.00179960147297917 -1.31254269799665e-09 -5.96146358454745e-05
+ 19855.7815526163 "BBMK_PAR.L1B1_37"  2609.66432451128 1399.73712729257 -4.84255186057793 -20.9316620857982 46.1170185004949 44.7442253678719 -1.20636531260605e-06 -0.00202256157595537 -1.31254269799665e-09 -5.96146358454745e-05
+ 19859.5215755119 "BBMK_PAR.L1B1_36"  2646.01788755198 1560.69525118042 -4.87759265598592 -22.1050059721137 46.1172450201162 44.7446280965536 -1.21127425234803e-06 -0.00224552167893156 -1.31254269799665e-09 -5.96146358454745e-05
+ 19863.2615984075 "BBMK_PAR.L1B1_35"  2682.63355734692 1730.43004106694 -4.91263345139395 -23.2783498584303 46.1174684377618 44.7449903050971 -1.21618319209003e-06 -0.00246848178190798 -1.31254269799665e-09 -5.96146358454745e-05
+ 19867.0016213031 "BBMK_PAR.L1B1_34"  2719.51133389604 1908.94149695182 -4.94767424680194 -24.4516937447458 46.1176888158536 44.7453178126851 -1.22109213183202e-06 -0.00269144188488417 -1.31254269799665e-09 -5.96146358454745e-05
+ 19870.7416441987 "BBMK_PAR.L1B1_33"  2756.65121719941 2096.2296188354 -4.98271504220996 -25.6250376310625 46.1179062151732 44.7456153756721 -1.22600107157401e-06 -0.00291440198786059 -1.31254269799665e-09 -5.96146358454745e-05
+ 19874.4816670944 "BBMK_PAR.L1B1_32"  2794.05320725696 2292.29440671731 -5.01775583761795 -26.798381517378 46.1181206949146 44.7458869195271 -1.230910011316e-06 -0.00313736209083678 -1.31254269799665e-09 -5.96146358454745e-05
+ 19878.22168999 "BBMK_PAR.L1B1_31"  2831.71730406876 2497.13586059794 -5.05279663302597 -27.9717254036946 46.1183323127351 44.7461357126012 -1.23581895105799e-06 -0.0033603221938132 -1.31254269799665e-09 -5.96146358454745e-05
+ 19881.9617128856 "BBMK_PAR.L1B1_30"  2869.64350763474 2710.7539804769 -5.08783742843396 -29.1450692900102 46.1185411248036 44.7463644980528 -1.24072789079998e-06 -0.00358328229678939 -1.31254269799665e-09 -5.96146358454745e-05
+ 19885.7017357812 "BBMK_PAR.L1B1_29"  2907.83181795497 2933.14876635459 -5.12287822384199 -30.3184131763268 46.1187471858485 44.7465755952283 -1.24563683054197e-06 -0.00380624239976581 -1.31254269799665e-09 -5.96146358454745e-05
+ 19889.4417586769 "BBMK_PAR.L1B1_28"  2946.28223502937 3164.32021823058 -5.15791901924998 -31.4917570626423 46.118950549202 44.7467709784396 -1.25054577028396e-06 -0.004029202502742 -1.31254269799665e-09 -5.96146358454745e-05
+ 19893.1817815725 "BBMK_PAR.L1B1_27"  2984.99475885803 3404.26833610532 -5.192959814658 -32.665100948959 46.1191512668446 44.7469523388044 -1.25545471002595e-06 -0.00425216260571842 -1.31254269799665e-09 -5.96146358454745e-05
+ 19896.9218044681 "BBMK_PAR.L1B1_26"  3023.96938944086 3652.99311997835 -5.22800061006599 -33.8384448352745 46.1193493894465 44.747121133251 -1.26036364976794e-06 -0.00447512270869461 -1.31254269799665e-09 -5.96146358454745e-05
+ 19900.6618273637 "BBMK_PAR.L1B1_25"  3063.20612677794 3910.49456985014 -5.26304140547401 -35.0117887215911 46.1195449664084 44.7472786236897 -1.26527258950993e-06 -0.00469808281167103 -1.31254269799665e-09 -5.96146358454745e-05
+ 19904.4018502594 "BBMK_PAR.L1B1_24"  3102.7049708692 4176.77268572021 -5.298082200882 -36.1851326079067 46.1197380459003 44.7474259085784 -1.27018152925192e-06 -0.00492104291464722 -1.31254269799665e-09 -5.96146358454745e-05
+ 19908.141873155 "BBMK_PAR.L1B1_23"  3142.46592171467 4451.82746758879 -5.33312299628999 -37.3584764942222 46.1199286748993 44.747563948551 -1.27509046899391e-06 -0.00514400301762342 -1.31254269799665e-09 -5.96146358454745e-05
+ 19911.8818960506 "BBMK_PAR.L1B1_22"  3182.48895470374 4735.65891545616 -5.36813064726127 -38.5318203805388 46.1201168992256 44.7476935873714 -1.27999940378547e-06 -0.00536696312059983 -1.31252937235256e-09 -5.96146358454745e-05
+ 19915.6219189462 "BBMK_PAR.L1B1_21"  3222.77386957271 5028.26702932178 -5.40317102475142 -39.7051642668543 46.1203027635861 44.747815569178 -1.28490829368925e-06 -0.00558992322357603 -1.31252937235256e-09 -5.96146358454745e-05
+ 19919.3619418418 "BBMK_PAR.L1B1_20"  3263.32064580765 5329.65180918621 -5.43817741721241 -40.878508153171 46.1204863116031 44.747930552763 -1.28981713560428e-06 -0.00581288332655244 -1.31251598839435e-09 -5.96146358454745e-05
+ 19923.1019647375 "BBMK_PAR.L1B1_19"  3304.12930264874 5639.81325504886 -5.4731829632965 -42.0518520394865 46.1206675858429 44.7480391234649 -1.29472593432424e-06 -0.00603584342952864 -1.3125025461226e-09 -5.96146358454745e-05
+ 19926.8419876331 "BBMK_PAR.L1B1_18"  3345.19983469223 5958.75136691034 -5.50818765721951 -43.2251959258031 46.1208466278467 44.7481418031265 -1.29963468969239e-06 -0.00625880353250505 -1.31248904553791e-09 -5.96146358454745e-05
+ 19930.5820105287 "BBMK_PAR.L1B1_17"  3386.53223650076 6286.46614477003 -5.54319149319723 -44.3985398121187 46.1210234781616 44.7482390584755 -1.30454340155196e-06 -0.00648176363548125 -1.31247548664089e-09 -5.96146358454745e-05
+ 19934.3220334243 "BBMK_PAR.L1B1_16"  3428.12650260368 6622.95758862857 -5.57819446544571 -45.5718836984353 46.121198176369 44.7483313082131 -1.30945206974623e-06 -0.00670472373845766 -1.31246186943213e-09 -5.96146358454745e-05
+ 19938.06205632 "BBMK_PAR.L1B1_15"  3469.98269646211 6968.2256984853 -5.61323270668306 -46.7452275847508 46.1213707611133 44.748418929035 -1.31436070718754e-06 -0.00692768384143386 -1.31246186943213e-09 -5.96146358454745e-05
+ 19941.8020792156 "BBMK_PAR.L1B1_14"  3541.46600302428 7261.58145434999 -36.5044913586927 15.697049921665 46.1215411478171 44.748502319825 -1.32477532826168e-06 -0.00711197762399355 -1.28495661487441e-08 8.67725760744515e-06
+ 19945.5421021112 "BBMK_PAR.L1B1_13"  4290.42571288849 6307.29379345872 -171.142644332104 228.213318202623 46.1216969959241 44.7485884857645 -1.45506888514039e-06 -0.00665274517577341 -5.73093816285097e-08 0.000233528020328557
+ 19949.2821250068 "BBMK_PAR.L1B1_12"  6117.92346125233 4266.48439970513 -283.242212855826 262.167128253993 46.1218141657471 44.7487022606727 -1.7347790067609e-06 -0.00549824289234249 -7.97016479126072e-08 0.000329121705446093
+ 19953.0221479025 "BBMK_PAR.L1B1_11"  7856.13557459665 2753.82157698704 -126.943698446132 134.201977365871 46.121898498831 44.7488790345385 -1.9635785871683e-06 -0.0044505495933945 -3.11869392536847e-08 0.000206018418456004
+ 19956.7621707981 "BBMK_PAR.L1B1_10"  7929.68644570098 2086.40558986838 64.7854402673584 62.4199137332921 46.1219727183681 44.7491313348972 -1.97075511466451e-06 -0.0039113280410996 1.66402714011961e-08 0.000110861360707315
+ 19960.5021936937 "BBMK_PAR.L1B1_9"   6567.85541720065 1871.14001112519 284.54524035749 -2.55656415767676 46.122053524643 44.7494387881341 -1.79158621900039e-06 -0.00372754829127176 7.82111746897375e-08 -1.15891711972803e-05
+ 19964.2422165893 "BBMK_PAR.L1B1_8"   4174.68101186088 2052.94233345906 298.933424099948 -30.8702845780431 46.1221662814374 44.7497449598724 -1.42616073640958e-06 -0.00392892369125368 1.02865665940036e-07 -6.52777840780893e-05
+ 19967.9822394849 "BBMK_PAR.L1B1_7"   2480.16285852693 2102.96038948909 153.819172608602 27.4605399908732 46.1223547997581 44.7500260281422 -1.0964162717826e-06 -0.00397691409817373 6.89647500782955e-08 5.19526321484116e-05
+ 19971.7222623806 "BBMK_PAR.L1B1_6"   1679.35872568761 1680.26465245036 74.8241010694714 74.8651112601518 46.1226521038789 44.7503366293573 -8.98527478982141e-07 -0.00355474828764063 4.12080623343624e-08 0.000158412418711509
+ 19975.4622852762 "BBMK_PAR.L1B1_5"   1166.31178430151 1166.93691005009 62.353385727806 62.3874555625723 46.123077423913 44.7507617208121 -7.44408382367289e-07 -0.00296228221470827 4.12080623343624e-08 0.000158412418711509
+ 19979.2023081718 "BBMK_PAR.L1B1_4"   746.546364721081 746.942603635527 49.8826703861526 49.9097998650049 46.1237153345309 44.7513992913647 -5.90289285752587e-07 -0.0023698161417765 4.12080623343624e-08 0.000158412418711509
+ 19982.9423310674 "BBMK_PAR.L1B1_3"   420.062466945492 420.281733205853 37.4119550444872 37.4321441674254 46.1247782831923 44.7524616808038 -4.36170189137736e-07 -0.00177735006884414 4.12080623343624e-08 0.000158412418711509
+ 19986.6823539631 "BBMK_PAR.L1B1_2"   186.860090975382 186.954298761703 24.9412397028339 24.954488469858 46.1269029560747 44.7545852640672 -2.82051092523034e-07 -0.00118488399591236 4.12080623343624e-08 0.000158412418711509
+ 19990.4223768587 "BBMK_PAR.L1B1_1"   46.9392368102983 46.9603003026236 12.4705243611684 12.4768327722785 46.1332604155833 44.7609396943936 -1.27931995908182e-07 -0.000592417922980005 4.12080623343624e-08 0.000158412418711509
+ 19994.1623997543 "IP1.L1"            0.299904445951121 0.299737823190232 -0.000191022973213409 -0.000822960963036841 46.3705557394034 44.9983416841356 2.61932874616526e-08 4.81485476705638e-08 6.15612830379048e-08 0.00015841241341673
+ 19994.1623997543 "IP1"               0.299904445951121 0.299737823190232 -0.000191022973213409 -0.000822960963036841 46.3705557394034 44.9983416841356 2.61932874616526e-08 4.81485476705638e-08 6.15612830379048e-08 0.00015841241341673
+ 19997.9024226489 "BBMK_PAR.R1B1_1"   46.9420943876236 46.9726120861419 -12.4709063717806 -12.4784787546653 46.6077906471674 45.2354833891826 3.32561586513514e-07 0.000592514160751112 8.19145017089029e-08 0.000158412402891886
+ 20001.6424455445 "BBMK_PAR.R1B1_2"   186.865805889905 186.978922807454 -24.9416216814477 -24.9561345160433 46.6141478158019 45.2418365676437 6.38923698388513e-07 0.00118498017451772 8.19145017089029e-08 0.000158412402891886
+ 20005.3824684402 "BBMK_PAR.R1B1_3"   420.071038957863 420.318669991052 -37.4123369911027 -37.4337902774091 46.6162724345135 45.2439599177527 9.45285810263213e-07 0.00177744618828375 8.19145017089029e-08 0.000158412402891886
+ 20009.1224913358 "BBMK_PAR.R1B1_4"   746.557793591952 746.991853637391 -49.8830523007698 -49.9114460387871 46.6173353641931 45.245022225488 1.25164792213821e-06 0.00236991220205035 8.19145017089029e-08 0.000158412402891886
+ 20012.8625142314 "BBMK_PAR.R1B1_5"   1166.32606979154 1166.99847374583 -62.3537676104248 -62.389101800153 46.6179732660215 45.2456597582053 1.55801003401291e-06 0.00296237821581638 8.19145017089029e-08 0.000158412402891886
+ 20016.602537127 "BBMK_PAR.R1B1_6"   1679.37586755743 1680.3385303172 -74.8244829200919 -74.866757561531 46.6183985812801 45.2460848291027 1.86437214588791e-06 0.00355484422958299 8.19145017089029e-08 0.000158412402891886
+ 20020.3425600227 "BBMK_PAR.R1B1_7"   2101.83958764533 2481.60061861912 -27.4448785483702 -153.907341150708 46.6187093474997 45.2463819604201 2.08149984055316e-06 0.00432014222348032 2.61471901681724e-08 0.000267952228286157
+ 20024.0825829183 "BBMK_PAR.R1B1_8"   2051.84075697854 4177.09118397243 30.8547441466549 -299.105005184222 46.6189905661581 45.2465703697427 2.05280293115309e-06 0.00560450115667885 -3.19155827513215e-08 0.000395154824682545
+ 20027.8226058139 "BBMK_PAR.R1B1_9"   1870.12862188189 6571.63791027974 2.55620428458068 -284.70810956591 46.619296902875 45.2466830615567 1.95584852263231e-06 0.00700684112900107 -3.77141353065863e-09 0.000298649778565317
+ 20031.5626287095 "BBMK_PAR.R1B1_10"  2085.26961531522 7934.2451503824 -62.384908379629 -64.8216810268657 46.6196045229937 45.2467638213624 2.06109284883343e-06 0.00768106742946482 6.06198438425979e-08 5.82815174975998e-05
+ 20035.3026516052 "BBMK_PAR.R1B1_11"  2752.31332066742 7860.64463855206 -134.12745734604 127.017562683002 46.6198569612041 45.2468379982905 2.36394952284847e-06 0.00760977016398857 1.14293322114985e-07 -0.000133721878724242
+ 20039.0426745008 "BBMK_PAR.R1B1_12"  4264.13802039684 6121.42835701398 -262.021930881897 283.405484365389 46.6200338321412 45.2469222830437 2.93896225244061e-06 0.00667583169294127 1.79862411389954e-07 -0.000321264416275871
+ 20042.7826973964 "BBMK_PAR.R1B1_13"  6303.81589141891 4292.87730277784 -228.086463038362 171.241442645026 46.6201476697379 45.2470393858663 3.57067831763209e-06 0.00554454763560057 1.28594192683286e-07 -0.000235729440557053
+ 20046.522720292 "BBMK_PAR.R1B1_14"  7257.56936147037 3543.48265048022 -15.6873615896485 36.5262853260749 46.6202338832638 45.2471951451245 3.82908291343919e-06 0.00498183162066829 7.71612313775429e-09 -6.73792385074325e-05
+ 20050.2627431876 "BBMK_PAR.R1B1_15"  6964.36827379145 3471.95115304716 46.7203656504215 5.61742510540053 46.6203173201978 45.2473654350423 3.74884971442823e-06 0.00485694526471664 -2.57215701491031e-08 -3.02831363531241e-05
+ 20054.0027660833 "BBMK_PAR.R1B1_16"  6619.28389578365 3430.063715247 45.5476197706886 5.58235601069912 46.6204049896002 45.2475379221265 3.65265045315926e-06 0.00474368564140474 -2.57215701491031e-08 -3.02831363531241e-05
+ 20057.7427889789 "BBMK_PAR.R1B1_17"  6282.97141038856 3388.43859588103 44.3749393091328 5.54728691599768 46.6204972905919 45.2477125218598 3.55645110687514e-06 0.00463042601809273 -2.5721607793211e-08 -3.02831363531241e-05
+ 20061.4828118745 "BBMK_PAR.R1B1_18"  5955.43072434709 3347.07579494932 43.2022519311597 5.51221782129627 46.6205946001017 45.2478892728674 3.460251641581e-06 0.00451716639478082 -2.57216442945382e-08 -3.02831363531241e-05
+ 20065.2228347701 "BBMK_PAR.R1B1_19"  5636.66188101976 3305.97531245179 42.0295578305185 5.47714872659482 46.6206973370919 45.2480682147109 3.36405206034852e-06 0.00440390677146881 -2.57216796530831e-08 -3.02831363531241e-05
+ 20068.9628576658 "BBMK_PAR.R1B1_20"  5326.66492264792 3265.13714838853 40.8568572009636 5.44207963189341 46.6208059685835 45.2482493879168 3.26785236624977e-06 0.00429064714815691 -2.57217138688442e-08 -3.02831363531241e-05
+ 20072.7028805614 "BBMK_PAR.R1B1_21"  5025.4398903513 3224.56130275945 39.6841502362462 5.40701053719197 46.6209210167493 45.2484328340052 3.17165256235644e-06 0.00417738752484489 -2.572174694182e-08 -3.02831363531241e-05
+ 20076.442903457 "BBMK_PAR.R1B1_22"  4732.98678761723 3184.24777556464 38.5113878382595 5.37194144249055 46.6210430673012 45.2486185955205 3.07545263987866e-06 0.00406412790153299 -2.572174694182e-08 -3.02831363531241e-05
+ 20080.1829263526 "BBMK_PAR.R1B1_23"  4449.30568031634 3144.19656680401 37.3386717410968 5.33687234778911 46.6211727794551 45.2488067160628 2.9792526098431e-06 0.00395086827822097 -2.57217788720089e-08 -3.02831363531241e-05
+ 20083.9229492483 "BBMK_PAR.R1B1_24"  4174.39687531492 3104.40767647764 36.1659063520719 5.3018032530877 46.621310897829 45.2489972403201 2.88305256794568e-06 0.00383760865490907 -2.57217788720089e-08 -3.02831363531241e-05
+ 20087.6629721439 "BBMK_PAR.R1B1_25"  3908.26040912578 3064.8811045855 34.993140963047 5.26673415838629 46.6214582667283 45.2491902141023 2.78685252604826e-06 0.00372434903159717 -2.57217788720089e-08 -3.02831363531241e-05
+ 20091.4029950395 "BBMK_PAR.R1B1_26"  3650.89628174868 3025.61685112754 33.820375574021 5.23166506368484 46.6216158474079 45.2493856843758 2.69065248415074e-06 0.00361108940828515 -2.57217788720089e-08 -3.02831363531241e-05
+ 20095.1430179351 "BBMK_PAR.R1B1_27"  3402.30449318413 2986.61491610385 32.6476101849961 5.19659596898343 46.6217847390417 45.2495836993003 2.59445244225332e-06 0.00349782978497325 -2.57217788720089e-08 -3.02831363531241e-05
+ 20098.8830408307 "BBMK_PAR.R1B1_28"  3162.48504343165 2947.87529951434 31.4748447959701 5.16152687428199 46.6219662043694 45.2497843082659 2.49825240035581e-06 0.00338457016166124 -2.57217788720089e-08 -3.02831363531241e-05
+ 20102.6230637264 "BBMK_PAR.R1B1_29"  2931.43793249169 2909.3980013591 30.3020794069452 5.12645777958058 46.622161701285 45.2499875619323 2.40205235845839e-06 0.00327131053834933 -2.57217788720089e-08 -3.02831363531241e-05
+ 20106.363086622 "BBMK_PAR.R1B1_30"  2709.1631603638 2871.18302163804 29.1293140179192 5.09138868487913 46.6223729220386 45.2501935122694 2.30585231656088e-06 0.00315805091503732 -2.57217788720089e-08 -3.02831363531241e-05
+ 20110.1031095176 "BBMK_PAR.R1B1_31"  2495.66072704843 2833.23036035124 27.9565486288943 5.05631959017772 46.6226018422768 45.2504022125989 2.20965227466346e-06 0.00304479129172542 -2.57217788720089e-08 -3.02831363531241e-05
+ 20113.8431324132 "BBMK_PAR.R1B1_32"  2290.93063254516 2795.54001749863 26.7837832398682 5.02125049547628 46.6228507829316 45.2506137176386 2.11345223276594e-06 0.0029315316684134 -2.57217788720089e-08 -3.02831363531241e-05
+ 20117.5831553089 "BBMK_PAR.R1B1_33"  2094.97287685438 2758.11199308028 25.6110178508433 4.98618140077487 46.6231224890583 45.2508280835471 2.01725219086852e-06 0.0028182720451015 -2.57217788720089e-08 -3.02831363531241e-05
+ 20121.3231782045 "BBMK_PAR.R1B1_34"  1907.78745997571 2720.94628709612 24.4382524618173 4.95111230607342 46.6234202312964 45.2510453679709 1.92105214897101e-06 0.00270501242178949 -2.57217788720089e-08 -3.02831363531241e-05
+ 20125.0632011001 "BBMK_PAR.R1B1_35"  1729.37438190952 2684.04289954622 23.2654870727924 4.91604321137201 46.6237479379007 45.2512656300936 1.82485210707359e-06 0.00259175279847758 -2.57217788720089e-08 -3.02831363531241e-05
+ 20128.8032239957 "BBMK_PAR.R1B1_36"  1559.73364265545 2647.40183043051 22.0927216837664 4.88097411667056 46.6241103686504 45.2514889306865 1.72865206517608e-06 0.00247849317516557 -2.57217788720089e-08 -3.02831363531241e-05
+ 20132.5432468913 "BBMK_PAR.R1B1_37"  1398.86524221385 2611.02307974905 20.9199562947415 4.84590502196915 46.6245133469843 45.2517153321611 1.63245202327866e-06 0.00236523355185366 -2.57217788720089e-08 -3.02831363531241e-05
+ 20136.283269787 "BBMK_PAR.R1B1_38"  1246.76918058454 2574.90664750182 19.7471909057166 4.81083592726774 46.6249640744303 45.2519448986244 1.53625198138124e-06 0.00225197392854176 -2.57217788720089e-08 -3.02831363531241e-05
+ 20140.0232926826 "BBMK_PAR.R1B1_39"  1103.44545776738 2539.05253368878 18.5744255166906 4.7757668325663 46.625471563466 45.2521776959355 1.44005193948373e-06 0.00213871430522975 -2.57217788720089e-08 -3.02831363531241e-05
+ 20143.7633155782 "BBMK_PAR.R1B1_40"  968.894073762662 2503.46073831 17.4016601276657 4.74069773786489 46.6260472442778 45.2524137917653 1.34385189758631e-06 0.00202545468191784 -2.57217788720089e-08 -3.02831363531241e-05
+ 20147.5033384738 "BBMK_PAR.R1B1_41"  843.115028570111 2468.13126136541 16.2288947386397 4.70562864316344 46.6267058326623 45.2526532556577 1.24765185568879e-06 0.00191219505860583 -2.57217788720089e-08 -3.02831363531241e-05
+ 20151.2433613695 "BBMK_PAR.R1B1_42"  726.108146483863 2433.06410285508 15.0561782287665 4.67055954846203 46.6274666001805 45.2528961590942 1.15145167391739e-06 0.00179893543529393 -2.57218594850658e-08 -3.02831363531241e-05
+ 20154.9833842651 "BBMK_PAR.R1B1_43"  617.873370910123 2398.25926277894 13.8834257824255 4.63549045376059 46.6283552818902 45.2531425755604 1.05525126902287e-06 0.00168567581198191 -2.57218965126995e-08 -3.02831363531241e-05
+ 20158.7234071607 "BBMK_PAR.R1B1_44"  518.410814878192 2363.71674113705 12.7106662897257 4.60042135905917 46.62940702767 45.2533925806156 9.59050686767381e-07 0.00157455819261877 -2.57219313543992e-08 -1.27267928960785e-05
+ 20162.4634300563 "BBMK_PAR.R1B1_45"  428.029032613187 2327.76994021125 10.9039293632632 8.01512406440605 46.6306710903969 45.2536462590161 8.6316129990816e-07 0.00152641236141943 -2.44342369182153e-08 -1.49935002007738e-05
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348198116570268 53.5903743991895 
+
+q1 dq1 betxmax dxmax 
+62.3100119572762 0.980148765004262 8093.75962297565 3.03900194312113 
+
+dxrms xcomax xcorms q2 
+1.40771306219928 0.00774290422252338 0.00102305016869244 60.3194813354292 
+
+dq2 betymax dymax dyrms 
+1.47004072120449 8098.03916952428 3.61269377309708 0.677435817841631 
+
+ycomax ycorms deltap synch_1 
+0.00972581128708195 0.00181790502764052 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+++++++ warning: illegal table range ignored: mbxf.4l1..4/ip1.l1
+++++++ warning: illegal table range ignored: mbxf.4l5..4/ip5
+++++++ warning: illegal table range ignored: ip1/mbxf.4r1..1
+++++++ warning: illegal table range ignored: ip5/mbxf.4r5..1
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.883199996 -0 0.000348090697170938 53.5986426491365 
+
+q1 dq1 betxmax dxmax 
+62.3100138939758 0.0445603631467291 8091.45054525074 2.8618420465037 
+
+dxrms xcomax xcorms q2 
+1.44935996825079 0.00774359750864627 0.00101208059468003 60.3194738584238 
+
+dq2 betymax dymax dyrms 
+1.99883714275252 8093.1398953354 3.62438603780963 0.675203084117654 
+
+ycomax ycorms deltap synch_1 
+0.00972752037830566 0.00180123147894979 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB2"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  -1
+@ LENGTH           %le  26658.883199996
+@ ALFA             %le  0.000348090697170938
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.5986426491365
+@ Q1               %le  62.3100138939758
+@ Q2               %le  60.3194738584238
+@ DQ1              %le  0.0445603631467291
+@ DQ2              %le  1.99883714275252
+@ DXMAX            %le  2.8618420465037
+@ DYMAX            %le  3.62438603780963
+@ XCOMAX           %le  0.00774359750864627
+@ YCOMAX           %le  0.00972752037830566
+@ BETXMAX          %le  8091.45054525074
+@ BETYMAX          %le  8093.1398953354
+@ XCORMS           %le  0.00101208059468003
+@ YCORMS           %le  0.00180123147894979
+@ DXRMS            %le  1.44935996825079
+@ DYRMS            %le  0.675203084117654
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.49"
+* S NAME               BETX BETY ALFX ALFY MUX MUY X Y PX PY 
+$ %le %s                 %le %le %le %le %le %le %le %le %le %le 
+ 6496.57213694067 "BBMK_PAR.L5B2_45"  427.921390752936 2326.73806826564 -10.9195778327307 -7.91049407920786 14.9413181532297 14.0697319719697 0.000347032561136841 -7.91130308792878e-06 1.68697276365569e-05 -2.71063175833409e-08
+ 6500.31215983629 "BBMK_PAR.L5B2_44"  518.290436671796 2362.60771503805 -12.7076242211708 -4.59660194795408 14.942582509731 14.0699857685731 0.000461480439135156 -7.972823686807e-06 5.96131356580941e-05 -1.57139535100665e-08
+ 6504.05218273192 "BBMK_PAR.L5B2_43"  617.729169797888 2397.12152090717 -13.8800981317139 -4.63163189775692 14.9436345004121 14.0702358916353 0.000684434913032333 -8.03159423271541e-06 5.96131143034425e-05 -1.57139535100665e-08
+ 6507.79220562754 "BBMK_PAR.L5B2_42"  725.93798631577 2431.89735240489 -15.0525649975861 -4.66666184755976 14.9445233900034 14.0704824256912 0.000907389270476793 -8.09036477862381e-06 5.9613087882666e-05 -1.57139535100665e-08
+ 6511.53222852316 "BBMK_PAR.L5B2_41"  842.916773223253 2466.93520953119 -16.2249959354778 -4.7016917973626 14.9452843361519 14.0707254462805 0.0011303434516825 -8.14913532453221e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6515.27225141878 "BBMK_PAR.L5B2_40"  968.665587100939 2502.23509228607 -17.3974757410673 -4.73672174716543 14.945943079661 14.0709650268702 0.00135329751077156 -8.2079058704406e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6519.01227431441 "BBMK_PAR.L5B2_39"  1103.18460361378 2537.79700066956 -18.5699555466571 -4.77175169696827 14.94651889643 14.0712012389246 0.00157625156986067 -8.26667641634901e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6522.75229721003 "BBMK_PAR.L5B2_38"  1246.47382276174 2573.62093468163 -19.7424353522468 -4.80678164677111 14.9470265055914 14.0714341519718 0.00179920562894977 -8.32544696225741e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6526.49232010565 "BBMK_PAR.L5B2_37"  1398.53324454482 2609.70689432229 -20.9149151578365 -4.84181159657395 14.9474773399377 14.0716638336679 0.00202215968803888 -8.38421750816582e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6530.23234300128 "BBMK_PAR.L5B2_36"  1559.36286896303 2646.05487959155 -22.0873949634263 -4.87684154637679 14.947880414012 14.0718903498583 0.00224511374712799 -8.44298805407422e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6533.9723658969 "BBMK_PAR.L5B2_35"  1728.96269601635 2682.66489048939 -23.2598747690161 -4.91187149617963 14.9482429309993 14.0721137646374 0.0024680678062171 -8.50175859998262e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6537.71238879252 "BBMK_PAR.L5B2_34"  1907.33272570476 2719.53692701582 -24.4323545746055 -4.94690144598246 14.9485707156839 14.0723341404053 0.00269102186530616 -8.56052914589101e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6541.45241168814 "BBMK_PAR.L5B2_33"  2094.47295802833 2756.67098917084 -25.6048343801953 -4.9819313957853 14.9488685289483 14.0725515379223 0.00291397592439526 -8.61929969179942e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6545.19243458377 "BBMK_PAR.L5B2_32"  2290.38339298702 2794.06707695446 -26.777314185785 -5.01696134558814 14.9491402999604 14.0727660163622 0.00313692998348437 -8.67807023770782e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6548.93245747939 "BBMK_PAR.L5B2_31"  2495.06403058084 2831.72519036667 -27.9497939913748 -5.05199129539098 14.949389300122 14.0729776333628 0.00335988404257348 -8.73684078361623e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6552.67248037501 "BBMK_PAR.L5B2_30"  2708.51487080978 2869.64532940746 -29.1222737969645 -5.08702124519382 14.9496182751298 14.0731864450743 0.00358283810166259 -8.79561132952463e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6556.41250327064 "BBMK_PAR.L5B2_29"  2930.73591367384 2907.82749407685 -30.2947536025543 -5.12205119499666 14.9498295464591 14.0733925062069 0.0038057921607517 -8.85438187543304e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6560.15252616626 "BBMK_PAR.L5B2_28"  3161.72715917303 2946.27168437483 -31.467233408144 -5.1570811447995 14.95002509022 14.0735958700757 0.00402874621984081 -8.91315242134144e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6563.89254906188 "BBMK_PAR.L5B2_27"  3401.48860730727 2984.97790030138 -32.6397132137335 -5.19211109460233 14.95020659906 14.0737965886445 0.00425170027892986 -8.97192296724983e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6567.6325719575 "BBMK_PAR.L5B2_26"  3650.0202580767 3023.94614185654 -33.8121930193232 -5.22714104440517 14.9503755312166 14.0739947125675 0.00447465433801897 -9.03069351315824e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6571.37259485313 "BBMK_PAR.L5B2_25"  3907.32211148125 3063.17640904029 -34.984672824913 -5.26217099420801 14.9505331497269 14.0741902912299 0.00469760839710808 -9.08946405906664e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6575.11261774875 "BBMK_PAR.L5B2_24"  4173.39416752092 3102.66870185263 -36.1571526305027 -5.29720094401085 14.9506805540242 14.0743833727869 0.00492056245619719 -9.14823460497504e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6578.85264064437 "BBMK_PAR.L5B2_23"  4448.23642619572 3142.42302029355 -37.3296324360925 -5.33223089381369 14.9508187055906 14.0745740042013 0.0051435165152863 -9.20700515088345e-06 5.96130198427482e-05 -1.57139535100665e-08
+ 6582.59266354 "BBMK_PAR.L5B2_22"  4731.8488510013 3182.43936436307 -38.5020629616699 -5.36726084361653 14.9509484489313 14.0747622312796 0.00536647055369823 -9.26577569679185e-06 5.96129641835767e-05 -1.57139535100665e-08
+ 6586.33268643562 "BBMK_PAR.L5B2_21"  5024.23113514567 3222.71773406117 -39.6745397769454 -5.40229079341935 14.9510705288407 14.074948098707 0.00558942440462071 -9.32454624270024e-06 5.96129641835767e-05 -1.57139535100665e-08
+ 6590.07270933124 "BBMK_PAR.L5B2_20"  5325.3832127737 3263.25812938787 -40.8469611722891 -5.43732074322219 14.9511856046908 14.0751316500811 0.00581237804647851 -9.38331678860865e-06 5.96129058758716e-05 -1.57139535100665e-08
+ 6593.81273222686 "BBMK_PAR.L5B2_19"  5635.30508039946 3304.06055034316 -42.0193762340057 -5.47235069302503 14.9512942623325 14.0753129279443 0.00603533149282933 -9.44208733451705e-06 5.96128449196355e-05 -1.57139535100665e-08
+ 6597.55275512249 "BBMK_PAR.L5B2_18"  5953.99669691259 3345.12499692704 -43.1917847683892 -5.50738064282787 14.9513970240628 14.0754919738152 0.00625828473655373 -9.50085788042546e-06 5.96127813148712e-05 -1.57139535100665e-08
+ 6601.29277801811 "BBMK_PAR.L5B2_17"  6281.45802008259 3386.45146913951 -44.3641865817344 -5.54241059263071 14.9514943570135 14.075668828219 0.0064812377705323 -9.55962842633386e-06 5.96127150615815e-05 -1.57139535100665e-08
+ 6605.03280091373 "BBMK_PAR.L5B2_16"  6617.68900655881 3428.03996698057 -45.5365814803373 -5.57744054243355 14.9515866802467 14.0758435307164 0.00670419058764562 -9.61839897224227e-06 5.96126461597692e-05 -1.57139535100665e-08
+ 6608.77282380936 "BBMK_PAR.L5B2_15"  6962.6897495785 3469.89049045021 -46.7090417813606 -5.61247049223638 14.9516743707809 14.076016119932 0.00692714324915178 -9.67716951815066e-06 5.96126461597692e-05 -1.57139535100665e-08
+ 6612.51284670498 "BBMK_PAR.L5B2_14"  7255.81968875708 3541.36724906674 15.6836429022888 -36.5028604308327 14.9517578278322 14.0761865112754 0.00711143187041555 -9.77655676864682e-06 -8.67447444717684e-06 -1.00830229177471e-07
+ 6616.2528696006 "BBMK_PAR.L5B2_13"  6302.29572079791 4290.30092362946 228.031522790932 -171.137053617324 14.9518440621506 14.0763423638219 0.00665224242013362 -1.0761009423036e-05 -0.000233508108900277 -4.29299044989264e-07
+ 6619.99289249623 "BBMK_PAR.L5B2_12"  4263.1093366066 6117.73999707058 261.958783172854 -283.233106094915 14.951957927211 14.0764595371058 0.00549783577746634 -1.28502300275425e-05 -0.000329094597063607 -5.94967654254634e-07
+ 6623.73291539185 "BBMK_PAR.L5B2_11"  2751.64896894231 7855.89488231168 134.095143859191 -126.939196343642 14.9521348408392 14.0765438727462 0.00445023048121407 -1.45618846222053e-05 -0.00020600026314413 -2.35332316823575e-07
+ 6627.47293828747 "BBMK_PAR.L5B2_10"  2084.76586582375 7929.4389674848 62.3698990824842 64.7840312104136 14.9523873400225 14.0766180945784 0.003911060173001 -1.46300132770674e-05 -0.000110850354909144 1.19494554513433e-07
+ 6631.21296118309 "BBMK_PAR.L5B2_9"   1869.67640497446 6567.64635340755 -2.55552575016164 284.536795699328 14.9526950345089 14.0766989034004 0.00372730603812003 -1.33147289462422e-05 1.15919997459806e-05 5.76811594970846e-07
+ 6634.95298407872 "BBMK_PAR.L5B2_8"   2051.34412661676 4174.54450128981 -30.8472165361747 298.924261843103 14.9530014453546 14.0768116638331 0.00392868185523693 -1.06154237802121e-05 6.52771641998843e-05 7.60089463733743e-07
+ 6638.69300697434 "BBMK_PAR.L5B2_7"   2101.33041683427 2480.07815806972 27.4382886542064 153.814532183471 14.9532827321255 14.0770001884553 0.00397668040345094 -8.18227198275251e-06 -5.19465998107072e-05 5.07412622039079e-07
+ 6642.43302986996 "BBMK_PAR.L5B2_6"   1678.9686572075 1679.29753000188 74.8063973726478 74.8219870323843 14.9535935736818 14.0772975030701 0.00355455033066727 -6.73313190364488e-06 -0.000158400263736719 2.99942337261158e-07
+ 6646.17305276559 "BBMK_PAR.L5B2_5"   1166.04290678306 1166.26546624686 62.338685622625 62.3515218130891 14.9540189921598 14.0777228392995 0.00296212971761921 -5.61134069492146e-06 -0.000158400263736719 2.99942337261158e-07
+ 6649.91307566121 "BBMK_PAR.L5B2_4"   746.376211160846 746.513053370313 49.8709738726021 49.8810565937938 14.9546570490395 14.0783607768174 0.00236970910457115 -4.48954948619804e-06 -0.000158400263736719 2.99942337261158e-07
+ 6653.65309855683 "BBMK_PAR.L5B2_3"   419.968570340927 420.040291372302 37.4032621225823 37.4105913745016 14.9557202376933 14.079423777254 0.00177728849152324 -3.3677582774749e-06 -0.000158400263736719 2.99942337261158e-07
+ 6657.39312145245 "BBMK_PAR.L5B2_2"   186.819984323145 186.847180252669 24.9355503725594 24.9401261552063 14.9578453761837 14.0815485796339 0.00118486787847518 -2.24596706875148e-06 -0.000158400263736719 2.99942337261158e-07
+ 6661.13314434808 "BBMK_PAR.L5B2_1"   46.9304531075914 46.9337200115067 12.4678386225366 12.4696609359111 14.9642041137284 14.0879066327417 0.000592447265427119 -1.12417586002806e-06 -0.000158400263736719 2.99942337261158e-07
+ 6664.8731672437 "IP5"               0.299976606280077 0.299910556842855 0.00012521704134323 -0.000805962230202859 15.2014447045007 14.3253003012139 2.6573909715786e-08 -2.36970499598537e-09 -0.000158400430733127 2.11751805779593e-07
+ 6668.61319013832 "BBMK_PAR.R5B2_1"   46.9285782405138 46.9457772002417 -12.4675877589904 -12.4712728417744 15.4387248978813 14.5624390631183 -0.000592394999314064 4.59766656245268e-07 -0.000158400499527984 1.23561143019475e-07
+ 6672.35321303395 "BBMK_PAR.R5B2_2"   186.816231391524 186.871294513996 -24.9352990828845 -24.9417380458084 15.4450838264179 14.5687958888556 -0.00118481649422685 9.21888160147459e-07 -0.000158400499527984 1.23561143019475e-07
+ 6676.09323592957 "BBMK_PAR.R5B2_3"   419.9629361573 420.076462592065 -37.4030104067787 -37.4122032498424 15.4472090005116 14.5709204626476 -0.00177723798913964 1.38400966404965e-06 -0.000158400499527984 1.23561143019475e-07
+ 6679.83325882519 "BBMK_PAR.R5B2_4"   746.368692537751 746.561281434359 -49.8707217306699 -49.8826684538734 15.4482722016524 14.5719833829823 -0.00236965948405228 1.84613116795173e-06 -0.000158400499527984 1.23561143019475e-07
+ 6683.57328172081 "BBMK_PAR.R5B2_5"   1166.03350053304 1166.32575104104 -62.3384330545641 -62.3531336579074 15.4489102643195 14.5726212834078 -0.00296208097896507 2.30825267185392e-06 -0.000158400499527984 1.23561143019475e-07
+ 6687.31330461644 "BBMK_PAR.R5B2_6"   1678.95736014309 1679.36987141203 -74.8061443784582 -74.8235988619414 15.4493356859447 14.5730465994838 -0.00355450247387786 2.77037417575611e-06 -0.000158400499527984 1.23561143019475e-07
+ 6691.05332751206 "BBMK_PAR.R5B2_7"   2479.56942182223 2101.82701959712 -153.782294900092 -27.4440975595378 15.4496330611788 14.5733573671873 -0.00431973957375206 3.09976568856678e-06 -0.000267929991251121 4.05862611637628e-08
+ 6694.79335040768 "BBMK_PAR.R5B2_8"   4173.68140417078 2051.82401498843 -298.861773577381 30.8551092426786 15.4498216246339 14.5736385878338 -0.0056039891871211 3.06307716553273e-06 -0.000395120272827806 -4.59516878670687e-08
+ 6698.53337330331 "BBMK_PAR.R5B2_9"   6566.28210369973 1870.10892187315 -284.477006265913 2.55679417595171 15.4499344084396 14.5739449274139 -0.00700620678924841 2.92470738230856e-06 -0.000298623977481398 -3.88585705979789e-09
+ 6702.27339619893 "BBMK_PAR.R5B2_10"  7927.78633030447 2085.24267703186 -64.7698446074985 -62.3834856958753 15.4500152340791 14.5742525511399 -0.00768037658026013 3.08878008092892e-06 -5.82774031723975e-05 9.2509902930022e-08
+ 6706.01341909455 "BBMK_PAR.R5B2_11"  7854.25255865925 2752.2723804318 126.913343170593 -134.124845493055 15.4500894714074 14.5745049928584 -0.00760908815738892 3.54896876448928e-06 0.000133709321401921 1.73038197062774e-07
+ 6709.75344199017 "BBMK_PAR.R5B2_12"  6116.45660982767 4264.06874707606 283.174373127997 -262.017057495514 15.450173824713 14.5746818665478 -0.00667523549256515 4.41775265909388e-06 0.000321235072052106 2.71530462404452e-07
+ 6713.4934648858 "BBMK_PAR.R5B2_13"  4289.39657866043 6303.70792130052 171.101663662162 -228.08193976415 15.4502910226417 14.574795706044 -0.00554405493000301 5.37165586896298e-06 0.000235707706710443 1.94415128245827e-07
+ 6717.23348778142 "BBMK_PAR.R5B2_14"  3540.61602979926 7257.44020705241 36.4958005001519 -15.6864657706394 15.4504469081515 14.5748819210754 -0.00498139192068869 5.76391424805327e-06 6.73724165621545e-05 1.25108822090494e-08
+ 6720.97351067704 "BBMK_PAR.R5B2_15"  3469.14935822353 6964.23983433907 5.61195457912472 46.7201206464846 15.4506173357718 14.5749653595213 -0.00485651861804957 5.64647810639826e-06 3.02801329551347e-05 -3.78265762316473e-08
+ 6724.71353357267 "BBMK_PAR.R5B2_16"  3427.30269844764 6619.15732388188 5.57692338867333 45.5473654325782 15.4507899619864 14.5750530305703 -0.00474327022751488 5.5050058452289e-06 3.02801329551347e-05 -3.78265762316473e-08
+ 6728.45355646829 "BBMK_PAR.R5B2_17"  3385.71791372554 6282.84707612655 5.54192745873005 44.3746102186716 15.4509647021985 14.5751453333586 -0.00463002172647228 5.36353358405951e-06 3.02801818873041e-05 -3.78265762316473e-08
+ 6732.19357936391 "BBMK_PAR.R5B2_18"  3344.39494061134 5955.30909107316 5.50693066525447 43.2018550047649 15.4511415950623 14.575242644826 -0.00451677307049009 5.22206132289012e-06 3.02802294741607e-05 -3.78265762316473e-08
+ 6735.93360225953 "BBMK_PAR.R5B2_19"  3303.33378457452 5636.54336872172 5.47193301402942 42.0290997908582 15.4513206801699 14.5753453839463 -0.00440352426318459 5.08058906172073e-06 3.02802757157026e-05 -3.78265762316473e-08
+ 6739.67362515516 "BBMK_PAR.R5B2_20"  3262.53445105112 5326.54990907222 5.43693451083788 40.8563445769515 15.4515019980785 14.5754540177533 -0.0042902753081721 4.93911680055134e-06 3.02803206119275e-05 -3.78265762316473e-08
+ 6743.41364805078 "BBMK_PAR.R5B2_21"  3221.99694544373 5025.32871212466 5.40193516146296 39.6835893630448 15.4516855903406 14.5755690684341 -0.0041770262090689 4.79764453938195e-06 3.02803641628336e-05 -3.78265762316473e-08
+ 6747.1536709464 "BBMK_PAR.R5B2_22"  3181.72124851682 4732.87977787912 5.36690183524651 38.5108341491384 15.4518714995333 14.5756911217158 -0.00406377695381213 4.65617227821259e-06 3.02803641628336e-05 -3.78265762316473e-08
+ 6750.89369384203 "BBMK_PAR.R5B2_23"  3141.70738077949 4449.20310633546 5.33190122764927 37.3380789352317 15.4520597692902 14.5758208368318 -0.00395052755638469 4.5147000170432e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6754.63371673765 "BBMK_PAR.R5B2_24"  3101.9555424471 4174.29869749374 5.29686748361065 36.165323721325 15.45225044433 14.5759589584221 -0.00383727814327803 4.37322775587381e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6758.37373963327 "BBMK_PAR.R5B2_25"  3062.46575812435 3908.16655135396 5.26183373957203 34.9925685074183 15.4524435704848 14.5761063308239 -0.00372402873017138 4.23175549470442e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6762.11376252889 "BBMK_PAR.R5B2_26"  3023.23802781125 3650.80666791613 5.22679999553342 33.8198132935116 15.452639194744 14.5762639153298 -0.00361077931706472 4.09028323353502e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6765.85378542452 "BBMK_PAR.R5B2_27"  2984.2723515078 3402.21904718024 5.1917662514948 32.6470580796049 15.4528373652902 14.5764328111573 -0.00349752990395806 3.94881097236563e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6769.59380832014 "BBMK_PAR.R5B2_28"  2945.56872921401 3162.40368914635 5.15673250745619 31.4743028656985 15.4530381315367 14.5766142810978 -0.00338428049085143 3.80733871119628e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6773.33383121576 "BBMK_PAR.R5B2_29"  2907.12716092985 2931.36059381435 5.12169876341757 30.3015476517918 15.4532415441672 14.576809783107 -0.00327103107774478 3.66586645002689e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6777.07385411139 "BBMK_PAR.R5B2_30"  2868.94764665534 2709.0897611843 5.08666501937895 29.1287924378851 15.4534476551756 14.5770210095083 -0.00315778166463812 3.52439418885749e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6780.81387700701 "BBMK_PAR.R5B2_31"  2831.03018639048 2495.59119125619 5.05163127534034 27.9560372239784 15.4536565179081 14.5772499360369 -0.00304453225153147 3.3829219276881e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6784.55389990263 "BBMK_PAR.R5B2_32"  2793.37478013527 2290.86488403002 5.01659753130172 26.7832820100717 15.4538681871072 14.5774988837322 -0.00293128283842481 3.24144966651871e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6788.29392279826 "BBMK_PAR.R5B2_33"  2755.9814278897 2094.9108395058 4.9815637872631 25.610526796165 15.4540827189567 14.577770597781 -0.00281803342531815 3.09997740534932e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6792.03394569388 "BBMK_PAR.R5B2_34"  2718.85012965379 1907.72905768352 4.94653004322448 24.4377715822583 15.4543001711287 14.5780683489852 -0.0027047840122115 2.95850514417993e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6795.7739685895 "BBMK_PAR.R5B2_35"  2681.98088542753 1729.31953856323 4.91149629918588 23.2650163683519 15.4545206028326 14.5783960658021 -0.00259153459910487 2.81703288301057e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6799.51399148512 "BBMK_PAR.R5B2_36"  2645.3736952109 1559.68228214484 4.87646255514726 22.0922611544452 15.454744074866 14.5787585082662 -0.00247828518599821 2.67556062184118e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6803.25401438075 "BBMK_PAR.R5B2_37"  2609.02855900393 1398.8172884284 4.84142881110864 20.9195059405385 15.4549706496671 14.5791615001426 -0.00236503577289155 2.53408836067179e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6806.99403727637 "BBMK_PAR.R5B2_38"  2572.9454768066 1246.7245574139 4.80639506707002 19.7467507266318 15.4552003913697 14.5796122433808 -0.0022517863597849 2.3926160995024e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6810.73406017199 "BBMK_PAR.R5B2_39"  2537.12444861892 1103.40408910134 4.77136132303141 18.5739955127251 15.4554333658603 14.580119751012 -0.00213853694667824 2.25114383833301e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6814.47408306762 "BBMK_PAR.R5B2_40"  2501.56547444089 968.855883490729 4.73632757899279 17.4012402988184 15.4556696408374 14.5806954539616 -0.00202528753357158 2.10967157716362e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6818.21410596324 "BBMK_PAR.R5B2_41"  2466.26855427252 843.079940582092 4.70129383495418 16.228485084912 15.4559092858729 14.5813540690312 -0.00191203812046495 1.96819931599426e-06 3.02804063684189e-05 -3.78265762316473e-08
+ 6821.95412885886 "BBMK_PAR.R5B2_42"  2431.23312744679 726.076260375368 4.66642406781286 15.0557298710053 15.4561523724965 14.5821148691114 -0.00179878849184088 1.82672705482487e-06 3.02805311654833e-05 -3.78265762316473e-08
+ 6825.69415175448 "BBMK_PAR.R5B2_43"  2396.45882824397 617.844842870589 4.63146877780785 13.8829746570986 15.4563989743091 14.5830035908795 -0.00168553851475876 1.68525479365548e-06 3.02805897040045e-05 -3.78265762316473e-08
+ 6829.43417465011 "BBMK_PAR.R5B2_44"  2361.94580839262 518.385688067755 4.59651114993244 12.7102194431919 15.4566491669959 14.5840553864545 -0.00157462283481119 1.54378253248608e-06 1.11459052131542e-05 -3.78265762316473e-08
+ 6833.17419754573 "BBMK_PAR.R5B2_45"  2326.07733175964 427.998257802217 7.90944377402738 10.921802006088 15.4569030352074 14.5853195132535 -0.00153240340235966 1.40280111298515e-06 1.33553978640507e-05 -3.57954539884914e-08
+ 19825.861369695 "BBMK_PAR.L1B2_45"  427.729984066796 2324.90600100494 -10.9148423404205 -7.90634869101846 46.189367147585 44.6277306370529 1.01247796752765e-06 0.00153326086699546 2.45851559937238e-08 1.30889471754449e-05
+ 19829.6013925906 "BBMK_PAR.L1B2_44"  518.059862754642 2360.76311149148 -12.7021267893042 -4.59509897771852 46.1906320683592 44.6279846328078 1.10955401490247e-06 0.00157447977072087 2.6050693262469e-08 1.08783133221811e-05
+ 19833.3414154862 "BBMK_PAR.L1B2_43"  617.455654936706 2395.26569558798 -13.8741141031078 -4.63013441240181 46.1916845261534 44.6282349504844 1.20698416983397e-06 0.0016853720534515 2.60506533133182e-08 3.02831893014716e-05
+ 19837.0814383818 "BBMK_PAR.L1B2_42"  725.617890777763 2430.03034634026 -15.0460943752781 -4.66516984708514 46.1925738086851 44.6284816747532 1.30441412201322e-06 0.00179863187479155 2.60506111502944e-08 3.02831893014716e-05
+ 19840.8214612775 "BBMK_PAR.L1B2_41"  842.546457324451 2465.05706374826 -16.2180387351813 -4.70020528176843 46.1933350899017 44.6287248812792 1.4018438214611e-06 0.00191189169613148 2.60505201826426e-08 3.02831893014716e-05
+ 19844.5614841731 "BBMK_PAR.L1B2_40"  968.24141113202 2500.34584781203 -17.3900319412335 -4.73524071645175 46.193994122472 44.6289646436509 1.49927336338712e-06 0.00202515151747153 2.60505201826426e-08 3.02831893014716e-05
+ 19848.3015070687 "BBMK_PAR.L1B2_39"  1102.70292778776 2535.89669853152 -18.5620251472845 -4.77027615113504 46.194570191134 44.6292010334496 1.59670290531305e-06 0.00213841133881146 2.60505201826426e-08 3.02831893014716e-05
+ 19852.0415299643 "BBMK_PAR.L1B2_38"  1245.93100729193 2571.70961590679 -19.7340183533367 -4.80531158581836 46.1950780217366 44.6294341203165 1.69413244723907e-06 0.00225167116015151 2.60505201826426e-08 3.02831893014716e-05
+ 19855.78155286 "BBMK_PAR.L1B2_37"  1397.92564964425 2607.78459993777 -20.9060115593877 -4.84034702050165 46.1955290522665 44.6296639720169 1.79156198916499e-06 0.00236493098149144 2.60505201826426e-08 3.02831893014716e-05
+ 19859.5215757556 "BBMK_PAR.L1B2_36"  1558.68685484486 2644.1216506245 -22.0780047654387 -4.87538245518494 46.1959323013454 44.629890654502 1.88899153109092e-06 0.00247819080283138 2.60505201826426e-08 3.02831893014716e-05
+ 19863.2615986512 "BBMK_PAR.L1B2_35"  1728.21462289392 2680.72076796701 -23.2499979714909 -4.91041788986826 46.1962949754055 44.6301142319681 1.98642107301694e-06 0.00259145062417143 2.60505201826426e-08 3.02831893014716e-05
+ 19867.0016215468 "BBMK_PAR.L1B2_34"  1906.50895379111 2717.58195196524 -24.4219911775419 -4.94545332455155 46.1966229018478 44.6303347669139 2.08385061494287e-06 0.00270471044551136 2.60505201826426e-08 3.02831893014716e-05
+ 19870.7416444424 "BBMK_PAR.L1B2_33"  2093.56984753677 2754.70520261924 -25.593984383594 -4.98048875923487 46.1969208436869 44.6305523201953 2.18128015686889e-06 0.00281797026685141 2.60505201826426e-08 3.02831893014716e-05
+ 19874.4816673381 "BBMK_PAR.L1B2_32"  2289.39730413054 2792.09051992896 -26.7659775896451 -5.01552419391816 46.1971927318451 44.6307669510784 2.27870969879481e-06 0.00293123008819134 2.60505201826426e-08 3.02831893014716e-05
+ 19878.2216902337 "BBMK_PAR.L1B2_31"  2493.9913235728 2829.73790389446 -27.9379707956972 -5.05055962860148 46.197441839181 44.6309787172901 2.37613924072084e-06 0.00304448990953139 2.60505201826426e-08 3.02831893014716e-05
+ 19881.9617131293 "BBMK_PAR.L1B2_30"  2707.35190586315 2867.64735451568 -29.1099640017482 -5.08559506328477 46.1976709126109 44.6311876750672 2.47356878264676e-06 0.00315774973087132 2.60505201826426e-08 3.02831893014716e-05
+ 19885.7017360249 "BBMK_PAR.L1B2_29"  2929.47905100201 2905.81887179268 -30.2819572078004 -5.1206304979681 46.1978822746387 44.6313938792033 2.57099832457278e-06 0.00327100955221137 2.60505201826426e-08 3.02831893014716e-05
+ 19889.4417589206 "BBMK_PAR.L1B2_28"  3160.37275898895 2944.25245572538 -31.4539504138514 -5.15566593265139 46.1980779022485 44.6315973830946 2.66842786649871e-06 0.00338426937355131 2.60505201826426e-08 3.02831893014716e-05
+ 19893.1817818162 "BBMK_PAR.L1B2_27"  3400.03302982441 2982.94810631388 -32.6259436199036 -5.19070136733471 46.1982594888346 44.6317982387829 2.76585740842473e-06 0.00349752919489135 2.60505201826426e-08 3.02831893014716e-05
+ 19896.9218047118 "BBMK_PAR.L1B2_26"  3648.45986350792 3021.90582355808 -33.7979368259546 -5.225736802018 46.1984284932767 44.6319964969985 2.86328695035066e-06 0.00361078901623129 2.60505201826426e-08 3.02831893014716e-05
+ 19900.6618276074 "BBMK_PAR.L1B2_25"  3905.65326003998 3061.12560745806 -34.9699300320068 -5.26077223670132 46.1985861791671 44.6321922071999 2.96071649227668e-06 0.00372404883757133 2.60505201826426e-08 3.02831893014716e-05
+ 19904.4018505031 "BBMK_PAR.L1B2_24"  4171.61321942008 3100.60745801376 -36.1419232380578 -5.29580767138461 46.1987336464217 44.6323854176136 3.0581460342026e-06 0.00383730865891127 2.60505201826426e-08 3.02831893014716e-05
+ 19908.1418733987 "BBMK_PAR.L1B2_23"  4446.33974164847 3140.3513752252 -37.3139164441088 -5.3308431060679 46.1988718569438 44.6325761752711 3.15557557612853e-06 0.00395056848025121 2.60505201826426e-08 3.02831893014716e-05
+ 19911.8818962943 "BBMK_PAR.L1B2_22"  4729.83279023663 3180.35735909243 -38.4858603911451 -5.36587854075122 46.1990016556081 44.6327645260458 3.25300510550612e-06 0.00406382830159125 2.6050486404582e-08 3.02831893014716e-05
+ 19915.6219191899 "BBMK_PAR.L1B2_21"  5022.09205852277 3220.62540961537 -39.6578506081406 -5.40091397543451 46.1991237875343 44.6329505146876 3.35043452110133e-06 0.00417708812293119 2.6050486404582e-08 3.02831893014716e-05
+ 19919.3619420855 "BBMK_PAR.L1B2_20"  5323.11748067998 3261.1555267941 -40.8297854287844 -5.43594941011783 46.1992389123822 44.6331341848567 3.4478638114341e-06 0.00429034794427123 2.60504514691291e-08 3.02831893014716e-05
+ 19923.1019649812 "BBMK_PAR.L1B2_19"  5632.90905322308 3301.94771062853 -42.0017139184636 -5.47098484480112 46.1993476162579 44.6333155791563 3.54529298594151e-06 0.00440360776561117 2.60504153762855e-08 3.02831893014716e-05
+ 19926.8419878768 "BBMK_PAR.L1B2_18"  5951.46673505961 3343.00196111875 -43.1736358835544 -5.50602027948445 46.1994504216856 44.6334947391642 3.64272204151261e-06 0.00451686758695121 2.60503781260526e-08 3.02831893014716e-05
+ 19930.5820107724 "BBMK_PAR.L1B2_17"  6278.7904839762 3384.31827826467 -44.3455511304301 -5.54105571416773 46.1995477960003 44.6336717054625 3.74015097503609e-06 0.00463012740829115 2.60503397184323e-08 3.02831893014716e-05
+ 19934.322033668 "BBMK_PAR.L1B2_16"  6614.88025664103 3425.89666206639 -45.517459465469 -5.57609114885106 46.1996401584459 44.6338465176674 3.83757978340099e-06 0.0047433872296312 2.60503001534261e-08 3.02831893014716e-05
+ 19938.0620565637 "BBMK_PAR.L1B2_15"  6959.73614625104 3467.73711252381 -46.6894331751532 -5.61112658353435 46.1997278862045 44.6340192144573 3.9350085024126e-06 0.00485664705097113 2.60503001534261e-08 3.02831893014716e-05
+ 19941.8020794593 "BBMK_PAR.L1B2_14"  7252.74330444322 3539.18573901797 15.6767871999 -36.4825148433077 46.1998113786647 44.6341897112187 4.01569055179207e-06 0.00498153236023229 -9.02082835571228e-09 6.73766838256698e-05
+ 19945.5421023549 "BBMK_PAR.L1B2_13"  6299.62502827487 4287.67605498071 227.934684529109 -171.034491141598 46.1998976495513 44.6343456595037 3.74129018360284e-06 0.0055442202706905 -1.35734469639067e-07 0.000235716863768858
+ 19949.2821252505 "BBMK_PAR.L1B2_12"  4261.30404131123 6114.01637082124 261.847644625606 -283.062855881853 46.2000115628674 44.6344629043347 3.07569680658219e-06 0.00667544259313276 -1.89440398839801e-07 0.000321246805439881
+ 19953.0221481461 "BBMK_PAR.L1B2_11"  2750.48500017023 7851.13115089197 134.038212552726 -126.864364977137 46.200188551404 44.6345472912423 2.46932534812483e-06 0.00760933072207939 -1.20892316692434e-07 0.000133715133967084
+ 19956.7621710418 "BBMK_PAR.L1B2_10"  2083.88537426918 7924.64649257215 62.3433480679467 64.7427325950701 46.200441157358 44.6346215580349 2.14725263426513e-06 0.00768062724558874 -6.48792005642199e-08 -5.82775668461439e-05
+ 19960.5021939374 "BBMK_PAR.L1B2_9"   1868.88827496367 6563.69123208566 -2.5546595101795 284.363299572656 46.2007489817277 44.6347024156385 2.0310236031731e-06 0.00700644182100641 2.09826727858798e-09 -0.000298632089584253
+ 19964.242216833 "BBMK_PAR.L1B2_8"   2050.48109070084 4172.04322402599 -30.8344511992327 298.743009033885 46.2010555216652 44.6348152438463 2.12484959361951e-06 0.0056041842491113 3.13034802916997e-08 -0.000395131643638157
+ 19967.9822397286 "BBMK_PAR.L1B2_7"   2100.44793561821 2478.60476904054 27.4265514794979 153.721005872169 46.201336926722 44.6350038810155 2.14819740294503e-06 0.00431989982050617 -2.86933785874742e-08 -0.000267936560653026
+ 19971.7222626243 "BBMK_PAR.L1B2_6"   1678.26496189214 1678.3133520178 74.7748285038642 74.7759875760573 46.2016478987448 44.6353013711727 1.91784520526086e-06 0.00355464718007265 -8.61712462499951e-08 -0.000158402852804559
+ 19975.4622855199 "BBMK_PAR.L1B2_5"   1165.55554258781 1165.59536361152 62.3124122999561 62.3135444174676 46.2020734953541 44.6357269543764 1.59556277134135e-06 0.00296221688385131 -8.61712462499951e-08 -0.000158402852804559
+ 19979.2023084155 "BBMK_PAR.L1B2_4"   746.065567158696 746.097020702701 49.8499960960601 49.85110125889 46.2027118184693 44.6363652531327 1.27328033742215e-06 0.00236978658763054 -8.61712462499951e-08 -0.000158402852804559
+ 19982.9423313111 "BBMK_PAR.L1B2_3"   419.795035603968 419.818323290527 37.387579892152 37.3886581003002 46.2037754482232 44.6374288309656 9.50997903502641e-07 0.00177735629140919 -8.61712462499951e-08 -0.000158402852804559
+ 19986.6823542068 "BBMK_PAR.L1B2_2"   186.743947924268 186.759271375631 24.9251636882561 24.9262149417226 46.2059014586556 44.6395546952046 6.28715469583445e-07 0.00118492599518842 -8.61712462499951e-08 -0.000158402852804559
+ 19990.4223771024 "BBMK_PAR.L1B2_1"   46.9123041191402 46.9198649575619 12.462747484348 12.4637717831329 46.2122627220903 44.6459151847153 3.06433035663935e-07 0.000592495698967072 -8.61712462499951e-08 -0.000158402852804559
+ 19994.162399998 "IP1.L1"            0.300104184477231 0.300104031344729 0.000331241195199748 0.00132858460602964 46.4494669369518 44.8829615385926 -1.58578019156007e-08 6.53987476951054e-08 -6.58192543665373e-08 -0.000158402863876415
+ 19994.162399998 "IP1"               0.300104184477231 0.300104031344729 0.000331241195199748 0.00132858460602964 46.4494669369518 44.8829615385926 -1.58578019156007e-08 6.53987476951054e-08 -6.58192543665373e-08 -0.000158402863876415
+ 19997.9024228926 "BBMK_PAR.R1B2_1"   46.9073485161279 46.8999892654468 -12.4620849503332 -12.4611146321869 46.6867759145715 45.1204280883664 -1.85914799586819e-07 -0.000592364964571813 -4.54672603099316e-08 -0.000158402869718521
+ 20001.6424457882 "BBMK_PAR.R1B2_2"   186.734036355879 186.719520153549 -24.9245011059507 -24.9235578123763 46.6931376831193 45.126790603724 -3.55963394147299e-07 -0.00118479532405176 -4.54672603099316e-08 -0.000158402869718521
+ 20005.3824686839 "BBMK_PAR.R1B2_3"   419.780167708986 419.758696700044 -37.386917261556 -37.3860009925536 46.6952637876298 45.1289168452637 -5.26011988707613e-07 -0.00177722568353114 -4.54672603099316e-08 -0.000158402869718521
+ 20009.1224915795 "BBMK_PAR.R1B2_4"   746.045742575904 746.017518905385 -49.8493334171734 -49.8484441727431 46.696327450352 45.1299805553107 -6.96060583268093e-07 -0.00236965604301109 -4.54672603099316e-08 -0.000158402869718521
+ 20012.8625144751 "BBMK_PAR.R1B2_5"   1165.530760956 1165.49598676894 -62.3117495727787 -62.3108873529204 46.6969657887343 45.130618915291 -8.66109177828408e-07 -0.00296208640249047 -4.54672603099316e-08 -0.000158402869718521
+ 20016.6025373707 "BBMK_PAR.R1B2_6"   1678.23522285008 1678.19410029152 -74.7741657283961 -74.7733305331098 46.6973913936391 45.1310445317595 -1.03615777238889e-06 -0.00355451676197042 -4.54672603099316e-08 -0.000158402869718521
+ 20020.3425602664 "BBMK_PAR.R1B2_7"   2478.5047588342 2100.37286815388 -153.716462628521 -27.4272307020864 46.697688896723 45.1313555159048 -1.25653194172672e-06 -0.00397665789595912 -7.7353777227656e-08 -5.19499722708813e-05
+ 20024.082583162 "BBMK_PAR.R1B2_8"   4171.89129522051 2050.41984184446 -298.733789431815 30.8318706241599 46.6978775411329 45.1316369301933 -1.62801897284154e-06 -0.00392867307042202 -1.16131919976275e-07 6.52733213295591e-05
+ 20027.8226060576 "BBMK_PAR.R1B2_9"   6563.46765228386 1868.8443979923 -284.355272723793 2.55293988971701 46.6979903733169 45.1319434783077 -2.0403687558454e-06 -0.00372731164237125 -8.8042185316978e-08 1.15881205360378e-05
+ 20031.5626289532 "BBMK_PAR.R1B2_10"  7924.38991665145 2083.84982835623 -64.742295910035 -62.343944372114 46.6980712336066 45.1322513089164 -2.24064509524471e-06 -0.00391108092663511 -1.79831938248399e-08 -0.000110854656687702
+ 20035.3026518489 "BBMK_PAR.R1B2_11"  7850.88911464828 2750.45257498728 126.858794458818 -134.038292167236 46.6981455027463 45.1325039185138 -2.22904091417817e-06 -0.00445026831103271 3.63425407779011e-08 -0.000206005310620185
+ 20039.0426747445 "BBMK_PAR.R1B2_12"  6113.8386463449 4261.26953603781 283.052968155189 -261.847184155678 46.6982298921812 45.1326809088102 -1.96585849740286e-06 -0.00549789506229419 9.1381456934007e-08 -0.000329100814018216
+ 20042.7826976401 "BBMK_PAR.R1B2_13"  4287.56190311484 6299.58898576935 171.028278053273 -227.935040243884 46.6983471402771 45.1327948229134 -1.64487958275311e-06 -0.00665232404805075 6.60528886383246e-08 -0.000233513179409983
+ 20046.5227205357 "BBMK_PAR.R1B2_14"  3539.10302512225 7252.71485958246 36.4800025684968 -15.6783855372916 46.6985030924604 45.1328810942159 -1.49275099607167e-06 -0.00711152721269992 1.5871124340412e-08 -8.67665354749547e-06
+ 20050.2627434313 "BBMK_PAR.R1B2_15"  3467.66839933188 6959.72097080362 5.60935570365087 46.6876715450338 46.6986735929034 45.1329645869309 -1.4757906779068e-06 -0.00692724399937603 2.87698062005519e-09 5.96113079282021e-05
+ 20054.002766327 "BBMK_PAR.R1B2_16"  3425.84111758206 6614.87793721817 5.57434100547486 45.5157836769063 46.6988462928044 45.1330523148005 -1.46503070451753e-06 -0.00670429634288663 2.87698062005519e-09 5.96113079282021e-05
+ 20057.7427892226 "BBMK_PAR.R1B2_17"  3384.27558759115 6278.8006785482 5.53936155278588 44.3438958087776 46.6990211075274 45.1331446771881 -1.45427069677057e-06 -0.00648134868639701 2.87699583341654e-09 5.96113079282021e-05
+ 20061.4828121182 "BBMK_PAR.R1B2_18"  3342.97174594021 5951.48919479436 5.50438123696443 43.1720079406501 46.6991980757399 45.133242051241 -1.44351064034861e-06 -0.00625840102990761 2.87701091895638e-09 5.96113079282021e-05
+ 20065.2228350138 "BBMK_PAR.R1B2_19"  3301.9295980961 5632.94348595601 5.46940006379059 42.0001200725215 46.6993772370473 45.1333448561614 -1.43275053559524e-06 -0.00603545337341799 2.87702587667401e-09 5.96113079282021e-05
+ 20068.9628579095 "BBMK_PAR.R1B2_20"  3261.14914949242 5323.16355203376 5.43441803904465 40.828232204394 46.6995586320208 45.1334535592351 -1.42199038285406e-06 -0.00581250571692858 2.87704070656879e-09 5.96113079282021e-05
+ 20072.7028808051 "BBMK_PAR.R1B2_21"  3220.6304055292 5022.14939302703 5.39943516850694 39.6563443362654 46.6997423022267 45.1335686829278 -1.41123018246866e-06 -0.00558955806043896 2.87705540864004e-09 5.96113079282021e-05
+ 20076.4429037007 "BBMK_PAR.R1B2_22"  3180.3733469789 4729.90100893638 5.36441833555455 38.4844564681379 46.6999282902567 45.1336908132761 -1.40046992936838e-06 -0.00536661040394956 2.87705540864004e-09 5.96113079282021e-05
+ 20080.1829265963 "BBMK_PAR.R1B2_23"  3140.37799434165 4446.41839976126 5.32943420737678 37.3125686000092 46.7001166397591 45.1338206098567 -1.38970962717434e-06 -0.00514366274745994 2.87706998288713e-09 5.96113079282021e-05
+ 20083.9229494919 "BBMK_PAR.R1B2_24"  3100.64454774797 4171.70156550222 5.29441695679557 36.1406807318817 46.7003073954672 45.1339588176929 -1.37894931956604e-06 -0.00492071509097054 2.87706998288713e-09 5.96113079282021e-05
+ 20087.6629723876 "BBMK_PAR.R1B2_25"  3061.17303179212 3905.75050615896 5.25939970621436 34.9687928637542 46.7005006032286 45.1341062815501 -1.36818901195774e-06 -0.00469776743448114 2.87706998288713e-09 5.96113079282021e-05
+ 20091.4029952832 "BBMK_PAR.R1B2_26"  3021.96344647407 3648.56522173126 5.22438245563311 33.7969049956256 46.7006963100482 45.1342639632008 -1.35742870434942e-06 -0.00447481977799152 2.87706998288713e-09 5.96113079282021e-05
+ 20095.1430181788 "BBMK_PAR.R1B2_27"  2983.01579179389 3400.14571221961 5.1893652050519 32.6250171274981 46.7008945641243 45.1344329624023 -1.34666839674112e-06 -0.00425187212150211 2.87706998288713e-09 5.96113079282021e-05
+ 20098.8830410744 "BBMK_PAR.R1B2_28"  2944.3300677515 3160.49197762352 5.15434795447065 31.4531292593695 46.7010954148866 45.1346145425546 -1.33590808913281e-06 -0.00402892446501249 2.87706998288713e-09 5.96113079282021e-05
+ 20102.6230639701 "BBMK_PAR.R1B2_29"  2905.90627434697 2929.60401794347 5.11933070388944 30.281241391242 46.7012989130353 45.1348101623023 -1.32514778152451e-06 -0.00380597680852309 2.87706998288713e-09 5.96113079282021e-05
+ 20106.3630868657 "BBMK_PAR.R1B2_30"  2867.74441158025 2707.481833179 5.0843134533082 29.1093535231133 46.7015051105809 45.1350215147507 -1.31438747391619e-06 -0.00358302915203347 2.87706998288713e-09 5.96113079282021e-05
+ 20110.1031097613 "BBMK_PAR.R1B2_31"  2829.84447945138 2494.12542333054 5.04929620272698 27.9374656549858 46.7017140608871 45.1352505765259 -1.30362716630789e-06 -0.00336008149554407 2.87706998288713e-09 5.96113079282021e-05
+ 20113.8431326569 "BBMK_PAR.R1B2_32"  2792.20647796032 2289.53478839769 5.01427895214574 26.7655777868572 46.7019258187139 45.1354996696857 -1.29286685869958e-06 -0.00313713383905445 2.87706998288713e-09 5.96113079282021e-05
+ 20117.5831555526 "BBMK_PAR.R1B2_33"  2754.83040710712 2093.70992838083 4.97926170156452 25.5936899187297 46.7021404402629 45.1357715405852 -1.28210655109128e-06 -0.00291418618256505 2.87706998288713e-09 5.96113079282021e-05
+ 20121.3231784482 "BBMK_PAR.R1B2_34"  2717.71626689172 1906.65084327959 4.94424445098328 24.4218020506011 46.7023579832246 45.1360694613711 -1.27134624348296e-06 -0.00269123852607543 2.87706998288713e-09 5.96113079282021e-05
+ 20125.0632013438 "BBMK_PAR.R1B2_35"  2680.86405731418 1728.35753309434 4.90922720040207 23.2499141824736 46.702578506827 45.1363973620542 -1.26058593587466e-06 -0.00246829086958602 2.87706998288713e-09 5.96113079282021e-05
+ 20128.8032242394 "BBMK_PAR.R1B2_36"  2644.27377837444 1558.82999782472 4.87420994982082 22.0780263143449 46.7028020718868 45.1367600044686 -1.24982562826635e-06 -0.0022453432130964 2.87706998288713e-09 5.96113079282021e-05
+ 20132.543247135 "BBMK_PAR.R1B2_37"  2607.94543007257 1398.06823747106 4.83919269923961 20.9061384462174 46.7030287408615 45.1371632144692 -1.23906532065805e-06 -0.002022395556607 2.87706998288713e-09 5.96113079282021e-05
+ 20136.2832700307 "BBMK_PAR.R1B2_38"  2571.87901240852 1246.07225203319 4.8041754486584 19.7342505780899 46.703258577905 45.1376141964363 -1.22830501304974e-06 -0.0017994479001176 2.87706998288713e-09 5.96113079282021e-05
+ 20140.0232929263 "BBMK_PAR.R1B2_39"  2536.07452538228 1102.84204151099 4.76915819807715 18.5623627099613 46.7034916489239 45.1381219662277 -1.21754470544143e-06 -0.00157650024362798 2.87706998288713e-09 5.96113079282021e-05
+ 20143.7633158219 "BBMK_PAR.R1B2_40"  2500.5319689939 968.377605904726 4.73414094749594 17.3904748418338 46.7037280216373 45.1386979580466 -1.20678439783313e-06 -0.00135355258713858 2.87706998288713e-09 5.96113079282021e-05
+ 20147.5033387175 "BBMK_PAR.R1B2_41"  2465.25134324331 842.67894521414 4.69912369691469 16.2185869737052 46.7039677656384 45.1393568924651 -1.19602409022482e-06 -0.00113060493064896 2.87706998288713e-09 5.96113079282021e-05
+ 20151.2433616132 "BBMK_PAR.R1B2_42"  2430.23208769459 725.746059439474 4.66427035571484 15.0466991055777 46.7042109524783 45.1401180466392 -1.18526364576762e-06 -0.000907657274159555 2.87715025560554e-09 5.96113079282021e-05
+ 20154.9833845088 "BBMK_PAR.R1B2_43"  2395.47383677763 617.578948580503 4.62933152704052 13.874811237449 46.7044576557799 45.1410071619037 -1.17450297188082e-06 -0.000684709617669935 2.87719002520146e-09 5.96113079282021e-05
+ 20158.7234074044 "BBMK_PAR.R1B2_44"  2360.97674215739 518.177612637436 4.59439036157467 12.7029233693215 46.704707951251 45.1420593950821 -1.16374210143946e-06 -0.000461761961180533 2.87722955028296e-09 5.96113079282021e-05
+ 20162.4634303 "BBMK_PAR.R1B2_45"  2325.12472985099 427.841403256605 7.90596838178357 10.9155988966771 46.7049619235676 45.1433240074238 -1.15258048890321e-06 -0.000347326482222123 4.53716246296924e-09 1.68653500247768e-05
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.883199996 -0 0.000348090697170938 53.5986426491365 
+
+q1 dq1 betxmax dxmax 
+62.3100138939758 0.0445603631467291 8091.45054525074 2.8618420465037 
+
+dxrms xcomax xcorms q2 
+1.44935996825079 0.00774359750864627 0.00101208059468003 60.3194738584238 
+
+dq2 betymax dymax dyrms 
+1.99883714275252 8093.1398953354 3.62438603780963 0.675203084117654 
+
+ycomax ycorms deltap synch_1 
+0.00972752037830566 0.00180123147894979 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348198116570268 53.5903743991895 
+
+q1 dq1 betxmax dxmax 
+62.3100119572762 0.980148765004262 8093.75962297565 3.03900194312113 
+
+dxrms xcomax xcorms q2 
+1.40771306219928 0.00774290422252338 0.00102305016869244 60.3194813354292 
+
+dq2 betymax dymax dyrms 
+1.47004072120449 8098.03916952428 3.61269377309708 0.677435817841631 
+
+ycomax ycorms deltap synch_1 
+0.00972581128708195 0.00181790502764052 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+@ NAME             %05s "TWISS"
+@ TYPE             %05s "TWISS"
+@ SEQUENCE         %05s "LHCB1"
+@ PARTICLE         %06s "PROTON"
+@ MASS             %le  0.9382720813
+@ CHARGE           %le  1
+@ ENERGY           %le  7000
+@ PC               %le  6999.99993711754
+@ GAMMA            %le  7460.52252807237
+@ KBUNCH           %le  1
+@ BCURRENT         %le  0.000198190036909401
+@ SIGE             %le  0.00011
+@ SIGT             %le  0.075
+@ NPART            %le  110000000000
+@ EX               %le  3.35097171892857e-10
+@ EY               %le  3.35097171892857e-10
+@ ET               %le  0.001
+@ BV_FLAG          %le  1
+@ LENGTH           %le  26658.8831997523
+@ ALFA             %le  0.000348198116570268
+@ ORBIT5           %le  -0
+@ GAMMATR          %le  53.5903743991895
+@ Q1               %le  62.3100119572762
+@ Q2               %le  60.3194813354292
+@ DQ1              %le  0.980148765004262
+@ DQ2              %le  1.47004072120449
+@ DXMAX            %le  3.03900194312113
+@ DYMAX            %le  3.61269377309708
+@ XCOMAX           %le  0.00774290422252338
+@ YCOMAX           %le  0.00972581128708195
+@ BETXMAX          %le  8093.75962297565
+@ BETYMAX          %le  8098.03916952428
+@ XCORMS           %le  0.00102305016869244
+@ YCORMS           %le  0.00181790502764052
+@ DXRMS            %le  1.40771306219928
+@ DYRMS            %le  0.677435817841631
+@ DELTAP           %le  0
+@ SYNCH_1          %le  0
+@ SYNCH_2          %le  0
+@ SYNCH_3          %le  0
+@ SYNCH_4          %le  0
+@ SYNCH_5          %le  0
+@ TITLE            %08s "no-title"
+@ ORIGIN           %16s "5.05.01 Linux 64"
+@ DATE             %08s "07/05/20"
+@ TIME             %08s "18.06.54"
+* S NAME               BETX BETY ALFX ALFY MUX MUY X Y PX PY 
+$ %le %s                 %le %le %le %le %le %le %le %le %le %le 
+ 6664.5009325126 "BB_HO.L5B1_5"      0.315100874213279 0.315146000784412 0.225196552660671 0.225106746380519 14.9680886567663 14.2468249616891 -1.07312357987112e-05 -3.16966004233708e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5269950126 "BB_HO.L5B1_4"      0.305627496798653 0.305676893028944 0.138290350537305 0.138216332964842 14.9814708422601 14.2602051029936 -6.60334270151099e-06 -3.6692843608371e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5402700126 "BB_HO.L5B1_3"      0.302543517719822 0.302594772358873 0.0940244576565075 0.0939584821020628 14.9884211265594 14.2671542363589 -4.50078995844367e-06 -3.92376926551592e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5506575126 "BB_HO.L5B1_2"      0.300949955978038 0.301002515893131 0.0593870217039955 0.0593273389150613 14.9939010679671 14.2726332348442 -2.85557213417235e-06 -4.12290010899468e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5598075126 "BB_HO.L5B1_1"      0.300142348713755 0.30019595010465 0.0288760672900108 0.0288219275869417 14.9987472258338 14.2774785366855 -1.40635498928212e-06 -4.29830778340016e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5684325126 "BB_HO5B1_0"        0.299892294363738 0.299946784598542 0.000115741406236043 6.68267431219435e-05 15.0033232971428 14.2820537835688 -4.02896477045852e-08 -4.46365108305467e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5770575116 "BB_HO.R5B1_1"      0.300138355577925 0.30019364452461 -0.0286445811415271 -0.0286882707652922 15.0078993983699 14.2866290474957 1.32577553541821e-06 -4.62899436353043e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5862075116 "BB_HO.R5B1_2"      0.300941726645691 0.300997764393255 -0.0591555355555117 -0.0591936820934118 15.0127456547641 14.2914744062048 2.77499268030844e-06 -4.80440203793591e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.5965950116 "BB_HO.R5B1_3"      0.30253047926274 0.302587244138528 -0.0937929715080237 -0.0938248252804133 15.0182257892604 14.2969535161367 4.42021050457976e-06 -5.00353288141467e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.6098700116 "BB_HO.R5B1_4"      0.305608312384329 0.305665816219984 -0.138058864388821 -0.138082676143193 15.0251764417155 14.3039028619948 6.52276324764708e-06 -5.25801778609349e-08 0.000158384387422064 -1.91702376402296e-07
+ 6664.6359325116 "BB_HO.R5B1_5"      0.315069623583465 0.315127957113623 -0.224965066512187 -0.22497308955887 15.0385597134642 14.3172836302749 1.06506563448473e-05 -5.75764210459351e-08 0.000158384387422064 -1.91702376402296e-07
+ 16650.5906833772 "BB_HO.L8B1_5"      1.50272920276316 1.50218672689558 0.0449614662319452 0.046287384685688 38.4053661682097 36.8130542750895 -9.04845898645702e-06 3.05085148092139e-05 0.000134995476956189 0.000136915076278389
+ 16650.6167458772 "BB_HO.L8B1_4"      1.50083851360935 1.50022714251354 0.0275829617293368 0.0289005052701717 38.408128339838 36.8158175083858 -5.53013936815276e-06 3.40768639848549e-05 0.000134995476956189 0.000136915076278389
+ 16650.6300208772 "BB_HO.L8B1_3"      1.50022369342162 1.49957739817307 0.0187311767016726 0.0200444544595298 38.4095363809444 36.8172261398316 -3.73807441140297e-06 3.58944116226091e-05 0.000134995476956189 0.000136915076278389
+ 16650.6404083772 "BB_HO.L8B1_2"      1.499906501172 1.49923295725063 0.0118047799442657 0.0131147197871948 38.4106384899103 36.8183287338675 -2.33580889470757e-06 3.73166169772611e-05 0.000134995476956189 0.000136915076278389
+ 16650.6495583772 "BB_HO.L8B1_1"      1.49974629995677 1.49904881103962 0.00570354958562535 0.00701054917136054 38.4116094534595 36.819300141418 -1.10060028033135e-06 3.85693899254387e-05 0.000134995476956189 0.000136915076278389
+ 16650.6581833772 "BB_HO8B1_0"        1.49969751747938 1.49897750672403 -4.76101766585377e-05 0.0012566178551653 38.4125247691212 36.8202158898559 6.37357082232655e-08 3.97502824581446e-05 0.000134995476956189 0.000136915076278389
+ 16650.6668083762 "BB_HO.R8B1_1"      1.49974794249627 1.49900545771463 -0.00579876927184512 -0.00449731279361116 38.4134400841755 36.82113165143 1.22807156172244e-06 4.09311748538745e-05 0.000134995476956189 0.000136915076278389
+ 16650.6759583762 "BB_HO.R8B1_2"      1.49990988623175 1.49914361169991 -0.0118999996304855 -0.0106014834094455 38.4144110460974 36.822103101975 2.46328017609867e-06 4.21839478020521e-05 0.000134995476956189 0.000136915076278389
+ 16650.6863458762 "BB_HO.R8B1_3"      1.50022905667035 1.49943584013661 -0.0188263963878923 -0.0175312180817804 38.4155131518496 36.8232057809147 3.86554569279407e-06 4.36061531567042e-05 0.000134995476956189 0.000136915076278389
+ 16650.6996208762 "BB_HO.R8B1_4"      1.50084640494075 1.50001885805125 -0.0276781814155565 -0.0263872688924223 38.4169211867373 36.8246145766546 5.65761064954385e-06 4.54237007944584e-05 0.000134995476956189 0.000136915076278389
+ 16650.7256833762 "BB_HO.R8B1_5"      1.5027420574207 1.5018474399871 -0.045056685918165 -0.0437741483079385 38.4196833392881 36.827378313968 9.17593026784811e-06 4.89920499700994e-05 0.000134995476956189 0.000136915076278389
+ 19994.0948997543 "BB_HO.L1B1_5"      0.315070997369561 0.314827518066089 0.224880673613371 0.224373996157551 46.3353201264109 44.9630822618833 2.20379008565313e-08 -1.06446893581201e-05 6.15612830379048e-08 0.00015841241341673
+ 19994.1209622543 "BB_HO.L1B1_4"      0.305613993428901 0.305398185187179 0.137977990762674 0.137422948822891 46.348703244229 44.9764753067639 2.36423417957676e-08 -6.51606583328979e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1342372543 "BB_HO.L1B1_3"      0.302538283705789 0.302337538851509 0.0937138904307849 0.0931342139193121 46.3556537423324 44.9834305711499 2.44595678281671e-08 -4.41314104499921e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1446247543 "BB_HO.L1B1_2"      0.300951159428235 0.300762657585052 0.0590778571278802 0.0584789044120109 46.3611337201994 44.9889140869799 2.5099035655638e-08 -2.76763210085238e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1537747543 "BB_HO.L1B1_1"      0.300149198570361 0.299971812926696 0.0285681382521055 0.0279522057749574 46.365979813059 44.993763132234 2.56623213955384e-08 -1.31815851782282e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1623997543 "BB_HO1B1_0"        0.299904445951121 0.299737823190232 -0.000191022973213409 -0.000822960963036841 46.3705557394034 44.9983416841356 2.61932874616526e-08 4.81485476705638e-08 6.15612830379048e-08 0.00015841241341673
+ 19994.1710247533 "BB_HO.R1B1_1"      0.30015578880501 0.300000205020694 -0.0289501808626558 -0.029598124363298 46.3751316149681 45.0029200187835 2.67242534661781e-08 1.41445545468117e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1801747533 "BB_HO.R1B1_2"      0.300964741042658 0.300821169989222 -0.0594598997384304 -0.0601248230003515 46.379977545232 45.0077683627658 2.72875392060784e-08 2.86392903771073e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.1905622533 "BB_HO.R1B1_3"      0.302559802255445 0.302430245214347 -0.0940959330413351 -0.0947801325076527 46.3854572044528 45.0132505042941 2.79270070335494e-08 4.50943798185756e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.2038372533 "BB_HO.R1B1_4"      0.305645655209868 0.305534590688541 -0.138360033373225 -0.139068867411231 46.3924070950032 45.0202031483853 2.87442330659489e-08 6.61236277014814e-06 6.15612830379048e-08 0.00015841241341673
+ 19994.2298997533 "BB_HO.R1B1_5"      0.315122573121604 0.315049717073872 -0.225262716223922 -0.226019914745892 46.4057884202118 45.0335884623197 3.03486740051852e-08 1.07409862949784e-05 6.15612830379048e-08 0.00015841241341673
+ 23326.5314833752 "BB_HO.L2B1_5"      10.0042242702385 10.0090096345579 0.00708590440442998 0.00658554819714388 54.6185470485916 52.7492629862496 0.000144825736597326 -1.84150229607793e-05 2.94365162301147e-07 0.000270009833590619
+ 23326.5575458752 "BB_HO.L2B1_4"      10.0039228175897 10.0087342300488 0.0044806240852226 0.0039815312895008 54.6189616777303 52.749677416609 0.000144833408489368 -1.13778916725566e-05 2.94365162301147e-07 0.000270009833590619
+ 23326.5708208752 "BB_HO.L2B1_3"      10.0038214730261 10.0086461278561 0.00315361799451056 0.00265516872065031 54.6191728742009 52.7498885114128 0.000144837316186898 -7.79351113132834e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.5812083752 "BB_HO.L2B1_2"      10.0037667426133 10.0086017474965 0.00211525447178135 0.00161730874468837 54.6193381337265 52.7500536911895 0.000144840373905021 -4.98878398527985e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.5903583752 "BB_HO.L2B1_1"      10.0037364025915 10.0085805158229 0.00120059490634346 0.000703092736691817 54.6194837059073 52.7501991929803 0.000144843067346257 -2.51819400747147e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.5989833752 "BB_HO2B1_0"        10.0037231286241 10.0085758201618 0.000338415808076021 -0.000158668254151553 54.6196209258829 52.7503363464831 0.000144845606245781 -1.89359193137445e-07 2.94365162301147e-07 0.000270009833590619
+ 23326.6076083742 "BB_HO.R2B1_1"      10.0037247272451 10.0085859898756 -0.000523763190184224 -0.00102042914503623 54.6197581459226 52.7504734999325 0.000144848145145011 2.13947535106682e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.6167583742 "BB_HO.R2B1_2"      10.0037426812465 10.0086130288055 -0.00143842275562211 -0.00193464515303278 54.6199037183634 52.7506190016014 0.000144850838586247 4.61006532887519e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.6271458742 "BB_HO.R2B1_3"      10.0037833504804 10.008664001829 -0.00247678627835132 -0.00297250512899472 54.6200689784026 52.7507841811376 0.00014485389630437 7.41479247492369e-06 2.94365162301147e-07 0.000270009833590619
+ 23326.6404208742 "BB_HO.R2B1_4"      10.0038667251619 10.0087605293033 -0.00380379236906336 -0.0042988676978452 54.6202801758678 52.7509952754755 0.0001448578040019 1.09991730161519e-05 2.94365162301147e-07 0.000270009833590619
+ 23326.6664833742 "BB_HO.R2B1_5"      10.0041328979575 10.0090524749727 -0.00640907268827074 -0.00690288460548829 54.6206948080624 52.7514097044036 0.000144865475893942 1.80363043043746e-05 2.94365162301147e-07 0.000270009833590619
+++++++ info: seqedit - number of elements installed:  0
+++++++ info: seqedit - number of elements moved:      0
+++++++ info: seqedit - number of elements removed:    404
+++++++ info: seqedit - number of elements replaced:   0
+++++++ info: seqedit - number of elements installed:  0
+++++++ info: seqedit - number of elements moved:      0
+++++++ info: seqedit - number of elements removed:    404
+++++++ info: seqedit - number of elements replaced:   0
+
+
+++++++++++++++++++++++++++++
+++ START MODULE 5: TUNING ++
+++++++++++++++++++++++++++++
+
+
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+  
+iteration:   2 error:   1.876578E-11 deltap:   0.000000E+00
+orbit:  -8.320158E-07  1.754540E-08  1.185609E-06  8.642628E-09  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.246768E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   2.813450E-06 deltap:   0.000000E+00
+orbit:  -8.320178E-07  1.754539E-08  1.185622E-06  8.642782E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.876578E-11 deltap:   0.000000E+00
+orbit:  -8.320158E-07  1.754540E-08  1.185609E-06  8.642628E-09  0.000000E+00  0.000000E+00
+++++++ warning: TWCPIN:  One-turn map R symplectic deviation:  0.246768E-11 (symplectifying R)                                                                                                               
+  
+iteration:   1 error:   2.213247E-06 deltap:   0.000000E+00
+orbit:   5.479366E-07  1.578957E-08 -2.113786E-06  2.155993E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   4.027539E-11 deltap:   0.000000E+00
+orbit:   5.479624E-07  1.579011E-08 -2.113811E-06  2.156025E-08  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.429913E-06 deltap:   0.000000E+00
+orbit:  -8.310058E-07  1.743051E-08  1.062870E-06  8.212772E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.624668E-11 deltap:   0.000000E+00
+orbit:  -8.310048E-07  1.743052E-08  1.062859E-06  8.212646E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.429918E-06 deltap:   0.000000E+00
+orbit:  -8.310050E-07  1.743050E-08  1.062873E-06  8.212814E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.624660E-11 deltap:   0.000000E+00
+orbit:  -8.310040E-07  1.743051E-08  1.062862E-06  8.212687E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   1.982008E-06 deltap:   0.000000E+00
+orbit:   5.472971E-07  1.585528E-08 -2.134171E-06  2.049479E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   4.482241E-11 deltap:   0.000000E+00
+orbit:   5.473269E-07  1.585592E-08 -2.134198E-06  2.049515E-08  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.429918E-06 deltap:   0.000000E+00
+orbit:  -8.310050E-07  1.743050E-08  1.062873E-06  8.212814E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.624660E-11 deltap:   0.000000E+00
+orbit:  -8.310040E-07  1.743051E-08  1.062862E-06  8.212687E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.429918E-06 deltap:   0.000000E+00
+orbit:  -8.310050E-07  1.743050E-08  1.062873E-06  8.212814E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.624660E-11 deltap:   0.000000E+00
+orbit:  -8.310040E-07  1.743051E-08  1.062862E-06  8.212687E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   1.982008E-06 deltap:   0.000000E+00
+orbit:   5.472971E-07  1.585528E-08 -2.134171E-06  2.049479E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   4.482241E-11 deltap:   0.000000E+00
+orbit:   5.473269E-07  1.585592E-08 -2.134198E-06  2.049515E-08  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   1.982008E-06 deltap:   0.000000E+00
+orbit:   5.472971E-07  1.585528E-08 -2.134171E-06  2.049479E-08  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   4.482241E-11 deltap:   0.000000E+00
+orbit:   5.473269E-07  1.585592E-08 -2.134198E-06  2.049515E-08  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.429918E-06 deltap:   0.000000E+00
+orbit:  -8.310050E-07  1.743050E-08  1.062873E-06  8.212814E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.624660E-11 deltap:   0.000000E+00
+orbit:  -8.310040E-07  1.743051E-08  1.062862E-06  8.212687E-09  0.000000E+00  0.000000E+00
+Initial Penalty Function =   0.44962815E-02
+
+
+call:       4   Penalty function =   0.55213841E-05
+call:      10   Penalty function =   0.55171891E-05
+call:      13   Penalty function =   0.55147542E-05
+call:      17   Penalty function =   0.55145153E-05
+ ++++++++++ LMDIF ended: converged without success
+call:      34   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+kqtf                      4.98496e-03  0.00000e+00 -1.00000e+20  1.00000e+20
+kqtd                     -4.47772e-03  0.00000e+00 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+kqtf                      4.98496e-03  4.98496e-03 -1.00000e+20  1.00000e+20
+kqtd                     -4.47772e-03 -4.47772e-03 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START SIMPLEX:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+cmrskew                   0.00000e+00  0.00000e+00 -1.00000e+20  1.00000e+20
+cmiskew                   0.00000e+00  0.00000e+00 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+kqtf                      4.98496e-03  4.98496e-03 -1.00000e+20  1.00000e+20
+kqtd                     -4.47772e-03 -4.47772e-03 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START SIMPLEX:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+cmrskew                   0.00000e+00  0.00000e+00 -1.00000e+20  1.00000e+20
+cmiskew                   0.00000e+00  0.00000e+00 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.51451527e-06
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+kqtf                      4.98496e-03  4.98496e-03 -1.00000e+20  1.00000e+20
+kqtd                     -4.47772e-03 -4.47772e-03 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.51451527e-06
+enter Twiss module
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+Initial Penalty Function =   0.55145153E-05
+
+
+ ++++++++++ LMDIF ended: converged without success
+call:      16   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+ converged
+ converged
+call:      19   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+Initial Penalty Function =   0.55145153E-05
+
+
+ ++++++++++ LMDIF ended: converged without success
+call:      16   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+ converged
+ converged
+call:      19   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+Initial Penalty Function =   0.55145153E-05
+
+
+ ++++++++++ LMDIF ended: converged without success
+call:      16   Penalty function =   0.55145153E-05
+Global constraint:         q1           4     6.23150000E+01     6.23148338E+01     2.76226710E-06
+Global constraint:         q2           4     6.03150000E+01     6.03151659E+01     2.75224818E-06
+  
+iteration:   1 error:   2.836597E-06 deltap:   0.000000E+00
+orbit:  -8.266509E-07  1.738990E-08  1.195869E-06  8.636869E-09  0.000000E+00  0.000000E+00
+  
+iteration:   2 error:   1.859250E-11 deltap:   0.000000E+00
+orbit:  -8.266485E-07  1.738989E-08  1.195856E-06  8.636713E-09  0.000000E+00  0.000000E+00
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348129324818237 53.5956689741959 
+
+q1 dq1 betxmax dxmax 
+62.3148337993052 0.961627869283018 8094.52974590158 3.03430902856494 
+
+dxrms xcomax xcorms q2 
+1.41582633887027 0.00774299630027136 0.00102312809552056 60.3151658990108 
+
+dq2 betymax dymax dyrms 
+1.46899796941056 8105.07253370996 3.57945944719946 0.658522968336286 
+
+ycomax ycorms deltap synch_1 
+0.00972591992724922 0.00177190784245673 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+closest0           = 0.000332099705616429 ;
+closest1           = 0.000332099705616429 ;
+closest2           = 0.000332099705616429 ;
+cmrskew            = 0 ;
+cmiskew            = 0 ;
+nrj                = 7000 ;
+***********************************************
+******** Limiting triplet correctors **********
+***********************************************
+***********************************************
+************* Limiting arc correctors *********
+***********************************************
+START MATCHING
+
+number of sequences: 1
+sequence name: lhcb1
+entry name: betx
+number of entries: 1
+entry value: 100.000000
+entry name: bety
+number of entries: 1
+entry value: 100.000000
+entry name: x
+number of entries: 1
+entry value: 0.000000
+entry name: px
+number of entries: 1
+entry value: 0.000000
+entry name: y
+number of entries: 1
+entry value: 0.000000
+entry name: py
+number of entries: 1
+entry value: 0.000000
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START JACOBIAN:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   5.00436825e-33
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+acbch6.l1b1              -1.58388e-08 -1.30272e-21 -8.98700e-05  8.98700e-05
+acbcv5.l1b1              -1.14679e-05 -1.14403e-05 -8.98700e-05  8.98700e-05
+acbch5.r1b1               3.22649e-08  8.31539e-22 -8.98700e-05  8.98700e-05
+acbcv6.r1b1               2.38751e-05  2.38499e-05 -8.98700e-05  8.98700e-05
+acbyhs4.l1b1              6.88758e-09 -1.17957e-21 -9.63000e-05  9.63000e-05
+acbyhs4.r1b1             -1.57404e-08  2.58062e-21 -9.63000e-05  9.63000e-05
+acbyvs4.l1b1             -4.45165e-05 -4.45346e-05 -9.63000e-05  9.63000e-05
+acbyvs4.r1b1              1.75469e-05  1.75563e-05 -9.63000e-05  9.63000e-05
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   5.00436825e-33
+START MATCHING
+
+number of sequences: 1
+sequence name: lhcb1
+entry name: betx
+number of entries: 1
+entry value: 100.000000
+entry name: bety
+number of entries: 1
+entry value: 100.000000
+entry name: x
+number of entries: 1
+entry value: 0.000000
+entry name: px
+number of entries: 1
+entry value: 0.000000
+entry name: y
+number of entries: 1
+entry value: 0.000000
+entry name: py
+number of entries: 1
+entry value: 0.000000
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START JACOBIAN:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+call:      79   Penalty function =   0.21528573E-12
+call:      83   Penalty function =   0.18209562E-12
+call:      85   Penalty function =   0.16046542E-12
+call:      87   Penalty function =   0.80335701E-13
+ call limit
+call:     103   Penalty function =   0.76592283E-13
+ JACOBIAN Strategy =           3
+Initial Penalty Function =   0.7659228255212507E-13
+
+
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    70.308404837685288     
+ Step length    9.6940811481338411E-004
+call:     2 Dx =   0.96940811E-03  Penalty function =  0.4251497764858406E-24
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    70.308404732877761     
+ Step length    1.5881218170853272E-010
+call:     3 Dx =   0.15881218E-09  Penalty function =  0.5004368251441734E-32
+ ++++++++++ JACOBIAN ended: converged successfully
+ Final difference norm:   2.3025692333961367E-004
+ converged
+call:      98   Penalty function =   0.50043683E-32
+Initial Penalty Function =   0.50043683E-32
+
+
+ ++++++++++ LMDIF ended: converged successfully
+call:       1   Penalty function =   0.50043683E-32
+ip1:1                      x            4     2.61932288E-08     2.61932288E-08     2.37734664E-42
+ip1:1                      px           4     6.15611676E-08     6.15611676E-08     2.80259693E-43
+ip1:1                      y            4     4.81484490E-08     4.81484490E-08     1.17554027E-34
+ip1:1                      py           4     1.58412413E-04     1.58412413E-04     3.59995145E-36
+s.ds.r1.b1:1               x            4     0.00000000E+00     6.32226108E-21     3.99709852E-41
+s.ds.r1.b1:1               px           4     0.00000000E+00    -2.90268884E-22     8.42560247E-42
+s.ds.r1.b1:1               y            4     0.00000000E+00    -6.43991044E-17     4.14724464E-33
+s.ds.r1.b1:1               py           4     0.00000000E+00    -2.71287593E-18     7.35969578E-34
+call:      34   Penalty function =   0.48843230E-06
+call:      38   Penalty function =   0.43295622E-06
+call:      43   Penalty function =   0.40848719E-06
+call:      62   Penalty function =   0.40817002E-06
+call:      66   Penalty function =   0.38326529E-06
+call:      74   Penalty function =   0.38230714E-06
+call:      77   Penalty function =   0.37617465E-06
+call:      79   Penalty function =   0.37010845E-06
+call:      81   Penalty function =   0.34272499E-06
+call:      88   Penalty function =   0.34045914E-06
+call:      90   Penalty function =   0.29587636E-06
+call:      94   Penalty function =   0.23475857E-06
+call:     101   Penalty function =   0.20275482E-06
+ call limit
+call:     102   Penalty function =   0.20275482E-06
+ JACOBIAN Strategy =           3
+Initial Penalty Function =   0.2027548191705001E-06
+
+
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    81.962029839301294     
+ Step length   0.63450995034053692     
+call:     2 Dx =   0.63450995E+00  Penalty function =  0.1676374760628444E-23
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    81.962029840329407     
+ Step length    3.9533957034913572E-010
+call:     3 Dx =   0.39533957E-09  Penalty function =  0.6622889225011248E-32
+ ++++++++++ JACOBIAN ended: converged successfully
+ Final difference norm:   9.6680599247089515E-003
+ converged
+call:      98   Penalty function =   0.66228892E-32
+Initial Penalty Function =   0.66228892E-32
+
+
+ ++++++++++ LMDIF ended: converged successfully
+call:       1   Penalty function =   0.66228892E-32
+ip2:1                      x            4     1.44845606E-04     1.44845606E-04     2.64486229E-38
+ip2:1                      px           4     2.94365196E-07     2.94365196E-07     1.70509997E-39
+ip2:1                      y            4    -1.89358822E-07    -1.89358822E-07     2.58704984E-34
+ip2:1                      py           4     2.70009834E-04     2.70009834E-04     5.75992232E-35
+s.ds.r2.b1:1               x            4     0.00000000E+00    -2.07138398E-18     4.29063160E-36
+s.ds.r2.b1:1               px           4     0.00000000E+00    -3.91833319E-21     1.53533350E-39
+
+
+Final Penalty Function =   6.62288923e-33
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+acbyhs5.l2b1              3.19365e-05 -2.95639e-06 -9.63000e-05  9.63000e-05
+acbchs5.r2b1              8.21766e-05  2.32109e-05 -8.98700e-05  8.98700e-05
+acbyvs5.l2b1             -1.66234e-05 -1.66209e-05 -9.63000e-05  9.63000e-05
+acbcvs5.r2b1              4.02286e-05  4.02064e-05 -8.98700e-05  8.98700e-05
+acbyhs4.l2b1             -6.26009e-05  1.38464e-05 -9.63000e-05  9.63000e-05
+acbyhs4.r2b1             -5.84185e-05 -6.27854e-06 -9.63000e-05  9.63000e-05
+acbyvs4.l2b1             -6.33619e-05 -6.33584e-05 -9.63000e-05  9.63000e-05
+acbyvs4.r2b1              2.62124e-05  2.62513e-05 -9.63000e-05  9.63000e-05
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   6.62288923e-33
+START MATCHING
+
+number of sequences: 1
+sequence name: lhcb1
+entry name: betx
+number of entries: 1
+entry value: 100.000000
+entry name: bety
+number of entries: 1
+entry value: 100.000000
+entry name: x
+number of entries: 1
+entry value: 0.000000
+entry name: px
+number of entries: 1
+entry value: 0.000000
+entry name: y
+number of entries: 1
+entry value: 0.000000
+entry name: py
+number of entries: 1
+entry value: 0.000000
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START JACOBIAN:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   8.32137640e-35
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+acbch6.l5b1              -2.36233e-05 -2.36099e-05 -8.98700e-05  8.98700e-05
+acbcv5.l5b1               4.71140e-08  0.00000e+00 -8.98700e-05  8.98700e-05
+acbch5.r5b1               1.14325e-05  1.14176e-05 -8.98700e-05  8.98700e-05
+acbcv6.r5b1              -9.99941e-08  0.00000e+00 -8.98700e-05  8.98700e-05
+acbyhs4.l5b1             -1.73224e-05 -1.73265e-05 -9.63000e-05  9.63000e-05
+acbyhs4.r5b1              4.45210e-05  4.45299e-05 -9.63000e-05  9.63000e-05
+acbyvs4.l5b1             -2.98441e-08  0.00000e+00 -9.63000e-05  9.63000e-05
+acbyvs4.r5b1              3.39293e-08  0.00000e+00 -9.63000e-05  9.63000e-05
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   8.32137640e-35
+START MATCHING
+
+number of sequences: 1
+sequence name: lhcb1
+entry name: betx
+number of entries: 1
+entry value: 100.000000
+entry name: bety
+number of entries: 1
+entry value: 100.000000
+entry name: x
+number of entries: 1
+entry value: 0.000000
+entry name: px
+number of entries: 1
+entry value: 0.000000
+entry name: y
+number of entries: 1
+entry value: 0.000000
+entry name: py
+number of entries: 1
+entry value: 0.000000
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START JACOBIAN:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START SIMPLEX:
+
+number of variables:    8
+user given constraints: 4
+total constraints:      8
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+s.ds.r2.b1:1               y            4     0.00000000E+00    -7.69981776E-17     5.92871935E-33
+s.ds.r2.b1:1               py           4     0.00000000E+00     1.93273212E-18     3.73545343E-34
+call:      78   Penalty function =   0.88943206E-12
+call:      82   Penalty function =   0.88517742E-12
+call:      84   Penalty function =   0.87171073E-12
+call:      86   Penalty function =   0.69724738E-12
+call:      88   Penalty function =   0.69363014E-12
+call:      91   Penalty function =   0.66678266E-12
+call:      95   Penalty function =   0.61887142E-12
+call:      99   Penalty function =   0.57214890E-12
+call:     101   Penalty function =   0.53739218E-12
+ call limit
+call:     102   Penalty function =   0.53739218E-12
+ JACOBIAN Strategy =           3
+Initial Penalty Function =   0.5373921827641791E-12
+
+
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    58.008432497537527     
+ Step length    2.5477516937711725E-003
+call:     2 Dx =   0.25477517E-02  Penalty function =  0.9070905946196412E-21
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    58.008432062625481     
+ Step length    1.6030370383313462E-008
+call:     3 Dx =   0.16030370E-07  Penalty function =  0.8321376399411323E-34
+ ++++++++++ JACOBIAN ended: converged successfully
+ Final difference norm:   3.7265165731170154E-004
+ converged
+call:      98   Penalty function =   0.83213764E-34
+Initial Penalty Function =   0.83213764E-34
+
+
+ ++++++++++ LMDIF ended: converged successfully
+call:       1   Penalty function =   0.83213764E-34
+ip5:1                      x            4    -4.02896903E-08    -4.02896903E-08     3.33612249E-35
+ip5:1                      px           4     1.58384387E-04     1.58384387E-04     1.24161591E-35
+ip5:1                      y            4    -4.46364923E-08    -4.46364923E-08     2.35698402E-42
+ip5:1                      py           4    -1.91701961E-07    -1.91701961E-07     7.00649232E-44
+s.ds.r5.b1:1               x            4     0.00000000E+00    -4.87001177E-18     2.37170146E-35
+s.ds.r5.b1:1               px           4     0.00000000E+00     3.70389819E-19     1.37188618E-35
+s.ds.r5.b1:1               y            4     0.00000000E+00    -2.05258457E-20     4.21310343E-40
+s.ds.r5.b1:1               py           4     0.00000000E+00    -8.93746060E-22     7.98782019E-41
+call:      75   Penalty function =   0.83833790E-06
+call:      83   Penalty function =   0.82164023E-06
+call:      88   Penalty function =   0.81851980E-06
+call:     101   Penalty function =   0.81837262E-06
+ call limit
+call:     102   Penalty function =   0.81683669E-06
+ JACOBIAN Strategy =           3
+Initial Penalty Function =   0.8168366940063744E-06
+
+
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    174.51551174283495     
+ Step length   0.97334432316316521     
+call:     2 Dx =   0.97334432E+00  Penalty function =  0.4501487393674719E-22
+ Solve system with            8 con,           8 var
+ Rank             8   Condition number    174.51551174963396     
+ Step length    7.1152809813925394E-010
+call:     3 Dx =   0.71152810E-09  Penalty function =  0.1496184670259303E-32
+ ++++++++++ JACOBIAN ended: converged successfully
+ Final difference norm:   1.0908250574514840E-002
+ converged
+call:      98   Penalty function =   0.14961847E-32
+Initial Penalty Function =   0.14961847E-32
+
+
+ ++++++++++ LMDIF ended: converged successfully
+call:       1   Penalty function =   0.14961847E-32
+ip8:1                      x            4     6.37354265E-08     6.37354265E-08     2.09180902E-38
+ip8:1                      px           4     1.34995477E-04     1.34995477E-04     0.00000000E+00
+ip8:1                      y            4     3.97502824E-05     3.97502824E-05     5.30809168E-38
+ip8:1                      py           4     1.36915076E-04     1.36915076E-04     0.00000000E+00
+s.ds.r8.b1:1               x            4     0.00000000E+00    -1.03930424E-19     1.08015331E-38
+s.ds.r8.b1:1               px           4     0.00000000E+00    -1.99967428E-20     3.99869721E-38
+
+
+Final Penalty Function =   1.49618467e-33
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+acbch5.l8b1              -6.73347e-09  0.00000e+00 -8.98700e-05  8.98700e-05
+acbyhs4.l8b1              9.73237e-09  0.00000e+00 -9.63000e-05  9.63000e-05
+acbyhs4.r8b1              1.66343e-09  0.00000e+00 -9.63000e-05  9.63000e-05
+acbyhs5.r8b1              2.37639e-09  0.00000e+00 -9.63000e-05  9.63000e-05
+acbcvs5.l8b1              4.80506e-05  4.23726e-06 -8.98700e-05  8.98700e-05
+acbyvs4.l8b1             -8.83735e-05 -4.30576e-05 -9.63000e-05  9.63000e-05
+acbyvs4.r8b1             -4.12790e-05  4.13196e-05 -9.63000e-05  9.63000e-05
+acbyvs5.r8b1              5.58750e-05  1.78956e-05 -9.63000e-05  9.63000e-05
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   1.49618467e-33
+tarmatchcoip       = 1.32066559107064e-32 ;
+tarxir1b1          = 5.00436825144173e-33 ;
+tarxir2b1          = 6.62288922501125e-33 ;
+tarxir5b1          = 8.32137639941132e-35 ;
+tarxir8b1          = 1.4961846702593e-33 ;
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   3.23571811e-22
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+kqtf                     -1.40685e-05  0.00000e+00 -1.00000e+20  1.00000e+20
+kqtd                      5.18202e-04  0.00000e+00 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   3.23571811e-22
+START MATCHING
+
+number of variables:    2
+user given constraints: 2
+total constraints:      2
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   4.40502158e-14
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+ksf                       1.39902e+01  0.00000e+00 -1.00000e+20  1.00000e+20
+ksd                       1.35807e+01  0.00000e+00 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   4.40502158e-14
+START MATCHING
+
+number of variables:    4
+user given constraints: 2
+total constraints:      4
+
+START LMDIF:
+
+
+MATCH SUMMARY
+
+Node_Name                  Constraint   Type  Target Value       Final Value        Penalty
+--------------------------------------------------------------------------------------------------
+
+
+Final Penalty Function =   4.40502161e-14
+
+
+
+
+
+Variable                 Final Value  Initial Value Lower Limit  Upper Limit 
+--------------------------------------------------------------------------------
+ksf                       1.39902e+01  1.39902e+01 -1.00000e+20  1.00000e+20
+ksd                       1.35807e+01  1.35807e+01 -1.00000e+20  1.00000e+20
+kqtf                     -1.40685e-05 -1.40685e-05 -1.00000e+20  1.00000e+20
+kqtd                      5.18202e-04  5.18202e-04 -1.00000e+20  1.00000e+20
+
+END MATCH SUMMARY
+
+VARIABLE "TAR" SET TO   4.40502161e-14
+nrj                = 7000 ;
+************************************
+********Triplet correctors**********
+************************************
+kqsx3.l1:   0.000000%
+kqsx3.r1:   0.000000%
+kqsx3.l5:   0.000000%
+kqsx3.r5:   0.000000%
+kqsx3.l2:   0.000000%
+kqsx3.r2:   0.000000%
+kqsx3.l8:   0.000000%
+kqsx3.r8:   0.000000%
+kcsx3.l1:   0.000000%
+kcsx3.r1:   0.000000%
+kcsx3.l5:   0.000000%
+kcsx3.r5:   0.000000%
+kcsx3.l2:   0.000000%
+kcsx3.r2:   0.000000%
+kcsx3.l8:   0.000000%
+kcsx3.r8:   0.000000%
+kcssx3.l1:   0.000000%
+kcssx3.r1:   0.000000%
+kcssx3.l5:   0.000000%
+kcssx3.r5:   0.000000%
+kcssx3.l2:   0.000000%
+kcssx3.r2:   0.000000%
+kcssx3.l8:   0.000000%
+kcssx3.r8:   0.000000%
+kcox3.l1:   0.000000%
+kcox3.r1:   0.000000%
+kcox3.l5:   0.000000%
+kcox3.r5:   0.000000%
+kcox3.l2:   0.000000%
+kcox3.r2:   0.000000%
+kcox3.l8:   0.000000%
+kcox3.r8:   0.000000%
+kcosx3.l1:   0.000000%
+kcosx3.r1:   0.000000%
+kcosx3.l5:   0.000000%
+kcosx3.r5:   0.000000%
+kcosx3.l2:   0.000000%
+kcosx3.r2:   0.000000%
+kcosx3.l8:   0.000000%
+kcosx3.r8:   0.000000%
+kcdx3.l1:   0.000000%
+kcdx3.r1:   0.000000%
+kcdx3.l5:   0.000000%
+kcdx3.r5:   0.000000%
+kcdsx3.l1:   0.000000%
+kcdsx3.r1:   0.000000%
+kcdsx3.l5:   0.000000%
+kcdsx3.r5:   0.000000%
+kctx3.l1:   0.000000%
+kctx3.r1:   0.000000%
+kctx3.l5:   0.000000%
+kctx3.r5:   0.000000%
+kctx3.l2:   0.000000%
+kctx3.r2:   0.000000%
+kctx3.l8:   0.000000%
+kctx3.r8:   0.000000%
+kctsx3.l1:   0.000000%
+kctsx3.r1:   0.000000%
+kctsx3.l5:   0.000000%
+kctsx3.r5:   0.000000%
+************************************
+*************Arc correctors*********
+************************************
+kss.a12b1:   0.000000%
+kss.a23b1:   0.000000%
+kss.a34b1:   0.000000%
+kss.a45b1:   0.000000%
+kss.a56b1:   0.000000%
+kss.a67b1:   0.000000%
+kss.a78b1:   0.000000%
+kss.a81b1:   0.000000%
+kcs.a12b1:   0.000000%
+kcs.a23b1:   0.000000%
+kcs.a34b1:   0.000000%
+kcs.a45b1:   0.000000%
+kcs.a56b1:   0.000000%
+kcs.a67b1:   0.000000%
+kcs.a78b1:   0.000000%
+kcs.a81b1:   0.000000%
+kco.a12b1:   0.000000%
+kco.a23b1:   0.000000%
+kco.a34b1:   0.000000%
+kco.a45b1:   0.000000%
+kco.a56b1:   0.000000%
+kco.a67b1:   0.000000%
+kco.a78b1:   0.000000%
+kco.a81b1:   0.000000%
+kcd.a12b1:   0.000000%
+kcd.a23b1:   0.000000%
+kcd.a34b1:   0.000000%
+kcd.a45b1:   0.000000%
+kcd.a56b1:   0.000000%
+kcd.a67b1:   0.000000%
+kcd.a78b1:   0.000000%
+kcd.a81b1:   0.000000%
+kqsx3.l1/kmqsxmax1*100 = 0 ;
+kqsx3.r1/kmqsxmax1*100 = 0 ;
+kqsx3.l5/kmqsxmax1*100 = 0 ;
+kqsx3.r5/kmqsxmax1*100 = 0 ;
+kqsx3.l2/kmqsxmax2*100 = 0 ;
+kqsx3.r2/kmqsxmax2*100 = 0 ;
+kqsx3.l8/kmqsxmax2*100 = 0 ;
+kqsx3.r8/kmqsxmax2*100 = 0 ;
+kcsx3.l1/kmcsxmax1*100 = 0 ;
+kcsx3.r1/kmcsxmax1*100 = 0 ;
+kcsx3.l5/kmcsxmax1*100 = 0 ;
+kcsx3.r5/kmcsxmax1*100 = 0 ;
+kcsx3.l2/kmcsxmax2*100 = 0 ;
+kcsx3.r2/kmcsxmax2*100 = 0 ;
+kcsx3.l8/kmcsxmax2*100 = 0 ;
+kcsx3.r8/kmcsxmax2*100 = 0 ;
+kcssx3.l1/kmcssxmax1*100 = 0 ;
+kcssx3.r1/kmcssxmax1*100 = 0 ;
+kcssx3.l5/kmcssxmax1*100 = 0 ;
+kcssx3.r5/kmcssxmax1*100 = 0 ;
+kcssx3.l2/kmcssxmax2*100 = 0 ;
+kcssx3.r2/kmcssxmax2*100 = 0 ;
+kcssx3.l8/kmcssxmax2*100 = 0 ;
+kcssx3.r8/kmcssxmax2*100 = 0 ;
+kcox3.l1/kmcoxmax1*100 = 0 ;
+kcox3.r1/kmcoxmax1*100 = 0 ;
+kcox3.l5/kmcoxmax1*100 = 0 ;
+kcox3.r5/kmcoxmax1*100 = 0 ;
+kcox3.l2/kmcoxmax2*100 = 0 ;
+kcox3.r2/kmcoxmax2*100 = 0 ;
+kcox3.l8/kmcoxmax2*100 = 0 ;
+kcox3.r8/kmcoxmax2*100 = 0 ;
+kcosx3.l1/kmcosxmax1*100 = 0 ;
+kcosx3.r1/kmcosxmax1*100 = 0 ;
+kcosx3.l5/kmcosxmax1*100 = 0 ;
+kcosx3.r5/kmcosxmax1*100 = 0 ;
+kcosx3.l2/kmcosxmax2*100 = 0 ;
+kcosx3.r2/kmcosxmax2*100 = 0 ;
+kcosx3.l8/kmcosxmax2*100 = 0 ;
+kcosx3.r8/kmcosxmax2*100 = 0 ;
+kcdx3.l1/kmcdxmax1*100 = 0 ;
+kcdx3.r1/kmcdxmax1*100 = 0 ;
+kcdx3.l5/kmcdxmax1*100 = 0 ;
+kcdx3.r5/kmcdxmax1*100 = 0 ;
+kcdsx3.l1/kmcdsxmax1*100 = 0 ;
+kcdsx3.r1/kmcdsxmax1*100 = 0 ;
+kcdsx3.l5/kmcdsxmax1*100 = 0 ;
+kcdsx3.r5/kmcdsxmax1*100 = 0 ;
+kctx3.l1/kmctxmax1*100 = 0 ;
+kctx3.r1/kmctxmax1*100 = 0 ;
+kctx3.l5/kmctxmax1*100 = 0 ;
+kctx3.r5/kmctxmax1*100 = 0 ;
+kctx3.l2/kmctxmax2*100 = 0 ;
+kctx3.r2/kmctxmax2*100 = 0 ;
+kctx3.l8/kmctxmax2*100 = 0 ;
+kctx3.r8/kmctxmax2*100 = 0 ;
+kctsx3.l1/kmctsxmax1*100 = 0 ;
+kctsx3.r1/kmctsxmax1*100 = 0 ;
+kctsx3.l5/kmctsxmax1*100 = 0 ;
+kctsx3.r5/kmctsxmax1*100 = 0 ;
+kqtf.a12b1/kmqtmax*100 = 0 ;
+kqtd.a12b1/kmqtmax*100 = 0 ;
+kqtf.a23b1/kmqtmax*100 = -14.9995738487351 ;
+kqtd.a23b1/kmqtmax*100 = 17.7342582424933 ;
+kqtf.a34b1/kmqtmax*100 = -14.9995738487351 ;
+kqtd.a34b1/kmqtmax*100 = 17.7342582424933 ;
+kqtf.a45b1/kmqtmax*100 = 0 ;
+kqtd.a45b1/kmqtmax*100 = 0 ;
+kqtf.a56b1/kmqtmax*100 = 0 ;
+kqtd.a56b1/kmqtmax*100 = 0 ;
+kqtf.a67b1/kmqtmax*100 = 14.8109166376538 ;
+kqtd.a67b1/kmqtmax*100 = -18.2204331038956 ;
+kqtf.a78b1/kmqtmax*100 = 14.8109166376538 ;
+kqtd.a78b1/kmqtmax*100 = -18.2204331038956 ;
+kqtf.a81b1/kmqtmax*100 = 0 ;
+kqtd.a81b1/kmqtmax*100 = 0 ;
+kqs.r1b1/kmqsmax*100 = 0 ;
+kqs.l2b1/kmqsmax*100 = 0 ;
+kqs.a23b1/kmqsmax*100 = 0 ;
+kqs.r3b1/kmqsmax*100 = 0 ;
+kqs.l4b1/kmqsmax*100 = 0 ;
+kqs.a45b1/kmqsmax*100 = 0 ;
+kqs.r5b1/kmqsmax*100 = 0 ;
+kqs.l6b1/kmqsmax*100 = 0 ;
+kqs.a67b1/kmqsmax*100 = 0 ;
+kqs.r7b1/kmqsmax*100 = 0 ;
+kqs.l8b1/kmqsmax*100 = 0 ;
+kqs.a81b1/kmqsmax*100 = 0 ;
+ksf1.a12b1/kmsmax*100 = 43.851605356774 ;
+ksf2.a12b1/kmsmax*100 = 15.8746718473439 ;
+ksf1.a23b1/kmsmax*100 = 23.6067922030543 ;
+ksf2.a23b1/kmsmax*100 = 23.6067922030543 ;
+ksf1.a34b1/kmsmax*100 = 23.6067922030543 ;
+ksf2.a34b1/kmsmax*100 = 23.6067922030543 ;
+ksf1.a45b1/kmsmax*100 = 48.4369402766193 ;
+ksf2.a45b1/kmsmax*100 = 15.8746718473439 ;
+ksf1.a56b1/kmsmax*100 = 44.858881453153 ;
+ksf2.a56b1/kmsmax*100 = 15.8746718473439 ;
+ksf1.a67b1/kmsmax*100 = 23.6067922030543 ;
+ksf2.a67b1/kmsmax*100 = 23.6067922030543 ;
+ksf1.a78b1/kmsmax*100 = 23.6067922030543 ;
+ksf2.a78b1/kmsmax*100 = 23.6067922030543 ;
+ksf1.a81b1/kmsmax*100 = 60.5551573311708 ;
+ksf2.a81b1/kmsmax*100 = 15.8746718473439 ;
+ksd1.a12b1/kmsmax*100 = -26.1753721515841 ;
+ksd2.a12b1/kmsmax*100 = -77.7515205829387 ;
+ksd1.a23b1/kmsmax*100 = -45.490871481132 ;
+ksd2.a23b1/kmsmax*100 = -45.490871481132 ;
+ksd1.a34b1/kmsmax*100 = -45.490871481132 ;
+ksd2.a34b1/kmsmax*100 = -45.490871481132 ;
+ksd1.a45b1/kmsmax*100 = -26.1753721515841 ;
+ksd2.a45b1/kmsmax*100 = -68.4520618953336 ;
+ksd1.a56b1/kmsmax*100 = -26.1753721515841 ;
+ksd2.a56b1/kmsmax*100 = -84.6159752780927 ;
+ksd1.a67b1/kmsmax*100 = -45.490871481132 ;
+ksd2.a67b1/kmsmax*100 = -45.490871481132 ;
+ksd1.a78b1/kmsmax*100 = -45.490871481132 ;
+ksd2.a78b1/kmsmax*100 = -45.490871481132 ;
+ksd1.a81b1/kmsmax*100 = -26.1753721515841 ;
+ksd2.a81b1/kmsmax*100 = -66.1969055815393 ;
+kss.a12b1/kmssmax*100 = 0 ;
+kss.a23b1/kmssmax*100 = 0 ;
+kss.a34b1/kmssmax*100 = 0 ;
+kss.a45b1/kmssmax*100 = 0 ;
+kss.a56b1/kmssmax*100 = 0 ;
+kss.a67b1/kmssmax*100 = 0 ;
+kss.a78b1/kmssmax*100 = 0 ;
+kss.a81b1/kmssmax*100 = 0 ;
+kcs.a12b1/kmcsmax*100 = 0 ;
+kcs.a23b1/kmcsmax*100 = 0 ;
+kcs.a34b1/kmcsmax*100 = 0 ;
+kcs.a45b1/kmcsmax*100 = 0 ;
+kcs.a56b1/kmcsmax*100 = 0 ;
+kcs.a67b1/kmcsmax*100 = 0 ;
+kcs.a78b1/kmcsmax*100 = 0 ;
+kcs.a81b1/kmcsmax*100 = 0 ;
+kco.a12b1/kmcomax*100 = 0 ;
+kco.a23b1/kmcomax*100 = 0 ;
+kco.a34b1/kmcomax*100 = 0 ;
+kco.a45b1/kmcomax*100 = 0 ;
+kco.a56b1/kmcomax*100 = 0 ;
+kco.a67b1/kmcomax*100 = 0 ;
+kco.a78b1/kmcomax*100 = 0 ;
+kco.a81b1/kmcomax*100 = 0 ;
+kcd.a12b1/kmcdmax*100 = 0 ;
+kcd.a23b1/kmcdmax*100 = 0 ;
+kcd.a34b1/kmcdmax*100 = 0 ;
+kcd.a45b1/kmcdmax*100 = 0 ;
+kcd.a56b1/kmcdmax*100 = 0 ;
+kcd.a67b1/kmcdmax*100 = 0 ;
+kcd.a78b1/kmcdmax*100 = 0 ;
+kcd.a81b1/kmcdmax*100 = 0 ;
+kof.a12b1/kmomax*100. = 67.9802767916637 ;
+kof.a23b1/kmomax*100. = 67.9802767916637 ;
+kof.a34b1/kmomax*100. = 67.9802767916637 ;
+kof.a45b1/kmomax*100. = 67.9802767916637 ;
+kof.a56b1/kmomax*100. = 67.9802767916637 ;
+kof.a67b1/kmomax*100. = 67.9802767916637 ;
+kof.a78b1/kmomax*100. = 67.9802767916637 ;
+kof.a81b1/kmomax*100. = 67.9802767916637 ;
+kod.a12b1/kmomax*100. = 67.9802767916637 ;
+kod.a23b1/kmomax*100. = 67.9802767916637 ;
+kod.a34b1/kmomax*100. = 67.9802767916637 ;
+kod.a45b1/kmomax*100. = 67.9802767916637 ;
+kod.a56b1/kmomax*100. = 67.9802767916637 ;
+kod.a67b1/kmomax*100. = 67.9802767916637 ;
+kod.a78b1/kmomax*100. = 67.9802767916637 ;
+kod.a81b1/kmomax*100. = 67.9802767916637 ;
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348196004739246 53.5905369134659 
+
+q1 dq1 betxmax dxmax 
+62.3100000000012 15.0023813982586 8093.82435598963 3.03993887285843 
+
+dxrms xcomax xcorms q2 
+1.41720140278631 0.00774290421389061 0.00101372239799226 60.3199999999988 
+
+dq2 betymax dymax dyrms 
+15.0076758808308 8097.32582716629 3.58323329577947 0.657260705095624 
+
+ycomax ycorms deltap synch_1 
+0.0097258112882203 0.00180179729474415 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348195633369436 53.590565492087 
+
+q1 dq1 betxmax dxmax 
+62.3103345849538 14.957517442145 8121.67769005343 3.04094660493684 
+
+dxrms xcomax xcorms q2 
+1.41763842089757 0.00764720857800455 0.00100133254310772 60.318162777108 
+
+dq2 betymax dymax dyrms 
+14.8850774594867 8304.1257009081 3.60800952067496 0.659914409156905 
+
+ycomax ycorms deltap synch_1 
+0.0097287243889167 0.0018001608179691 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+
+
+++++++++++++++++++++++++++++++
+++ START MODULE 6: SIXTRACK ++
+++++++++++++++++++++++++++++++
+
+
+========================================
+======  OPTICS PARAMETERS: FINAL  ======
+========================================
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348199398682357 53.5902757359948 
+
+q1 dq1 betxmax dxmax 
+62.3019929830835 14.2928119188923 8471.40653744853 3.03369878898667 
+
+dxrms xcomax xcorms q2 
+1.41920694539461 0.0076472258259614 0.00100133472655065 60.3124867913722 
+
+dq2 betymax dymax dyrms 
+15.2179846395484 8092.03580286477 3.61174184179999 0.663627469374242 
+
+ycomax ycorms deltap synch_1 
+0.00972872447952519 0.00180016092218832 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
+  ++++++++++++++++++++++++++++
+  +   c6t version 2.0        +
+  ++++++++++++++++++++++++++++
+
+Reference radius set to : 0.017000
+
+total block length: 26658.883200
+
+c6t terminated - total number of elements: 37667
+                    field errors    MAD-X: 0
+                    field errors SixTrack: 0
+                 alignment errors   MAD-X: 8
+                alignment errors SixTrack: 8
+                          sequence length: 26658.883200 [m]
+enter Twiss module
+
+++++++ table: summ
+
+length orbit5 alfa gammatr 
+26658.8831997523 -0 0.000348199398682357 53.5902757359948 
+
+q1 dq1 betxmax dxmax 
+62.3019929830835 14.3454390844913 8471.40653744853 3.03369878898667 
+
+dxrms xcomax xcorms q2 
+1.41920694539461 0.0076472258259614 0.00100133472655065 60.3124867913722 
+
+dq2 betymax dymax dyrms 
+15.0906043712858 8092.03580286477 3.61174184179999 0.663627469374242 
+
+ycomax ycorms deltap synch_1 
+0.00972872447952519 0.00180016092218832 0 0 
+
+synch_2 synch_3 synch_4 synch_5 
+0 0 0 0 
+
+nflips 
+0 
