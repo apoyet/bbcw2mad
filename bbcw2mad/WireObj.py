@@ -40,6 +40,19 @@ class WireObj():
         '''
         self.x_pos = x_w
         self.y_pos = y_w
+    
+    def update_current(self, Iw_new):
+        '''
+        Updates the current carried by the wire and input it in MAD-X.
+        
+        Args: 
+            Iw_new: float, new value for the current 
+        '''
+        self.current = Iw_new
+        self.mad_inst.input(f'''
+        I_{self.name} := {self.current};
+        I_{self.name}_N := on_{self.name}*{self.current}/(qelect*clight*{self.nb});
+        ''')
         
     # Act on the wire in MADX
     def define_in_mad(self):
