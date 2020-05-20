@@ -90,10 +90,10 @@ class WireObj():
         Args:
             table_input: str, name of the madx twiss table to be used to check the closed orbit
         '''
-        twiss_table = self.mad_inst.table[table_input].dframe()
+        twiss_table = self.mad_inst.table[table_input]
         #Update closed orbit at wire location 
-        self.x_co = twiss_table[twiss_table['name']==self.name+':1']['x'].values[0]
-        self.y_co = twiss_table[twiss_table['name']==self.name+':1']['y'].values[0]
+        self.x_co = twiss_table.x[np.where(twiss_table.name==self.name+':1')][0]
+        self.y_co = twiss_table.y[np.where(twiss_table.name==self.name+':1')][0]
         #New xma/yma
         self.xma = self.x_pos + self.x_co
         self.yma = self.y_pos + self.y_co
