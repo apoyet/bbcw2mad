@@ -54,6 +54,6 @@ class KnobObj():
         kq4_r5_0 = self.mad_inst.eval('kq4.r5b2')
         kq4_l5_0 = self.mad_inst.eval('kq4.l5b2')
         self.mad_inst.input(f'''
-        kq4.l5b2 := 8.969892496278649e-13*(on_{wire_ir5.name}*I_{wire_ir5.name}/{wire_ir5.x_pos**2}) + ({kq4_l5_0});
-        kq4.r5b2 := 3.4971439113525644e-12*(on_{wire_ir5.name}*I_{wire_ir5.name}/{wire_ir5.x_pos**2}) + ({kq4_r5_0});
+        kq4.l5b2 := 1.3416528333566366e-12*(on_{wire_ir5.name}*I_{wire_ir5.name}/{wire_ir5.x_pos**2}) + ({kq4_l5_0});
+        kq4.r5b2 := 5.2307795653834585e-12*(on_{wire_ir5.name}*I_{wire_ir5.name}/{wire_ir5.x_pos**2}) + ({kq4_r5_0});
         ''')
