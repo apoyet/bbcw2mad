@@ -125,7 +125,7 @@ class WireObj():
         assign, echo=terminal;
         ''')
         
-     def print_lense_fc3(self):
+    def print_lense_fc3(self):
         self.mad_inst.input(f'''
         system, "sed -i '$d' fc.3"; ! removes last line: NEXT
         !! Print out the beam beam wire compensator lenses
