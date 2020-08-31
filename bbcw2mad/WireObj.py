@@ -124,3 +124,14 @@ class WireObj():
         print, text="NEXT";
         assign, echo=terminal;
         ''')
+        
+     def print_lense_fc3(self):
+        self.mad_inst.input(f'''
+        system, "sed -i '$d' fc.3"; ! removes last line: NEXT
+        !! Print out the beam beam wire compensator lenses
+        !option,-echo, -info;
+        assign, echo=bb_lenses.dat;
+        printf, text="{self.name} 0 %f %f %f %f %f", value= ({self.sigx})^2*1e6, ({self.sigx})^2*1e6, 1.0*({self.x_pos})*1e3, 1.0*({self.y_pos})*1e3, {self.name}->charge;
+        print, text="NEXT";
+        assign, echo=terminal;
+        ''')
